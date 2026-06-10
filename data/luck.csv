@@ -1,0 +1,10 @@
+﻿ID,Chinese,English,MinLuck,MaxLuck,DescriptionCN,DescriptionEN,EventModifier,BreakthroughModifier
+L001,天谴之人,Cursed by Heaven,-100,-80,喝水都会呛到,Even drinking water is dangerous,-30,-20
+L002,命途多舛,Ill-Fated,-79,-60,坏事总是找上门,Misfortune follows everywhere,-20,-10
+L003,倒霉蛋,Unlucky Soul,-59,-40,经常遇到麻烦,Often runs into trouble,-15,-5
+L004,时运不济,Down on Luck,-39,-20,运气不太好,Things rarely go well,-10,0
+L005,平平无奇,Ordinary,-19,19,普通修士,An ordinary cultivator,0,0
+L006,福缘初现,Blessed,20,39,偶尔好运,Occasionally lucky,10,5
+L007,福缘深厚,Fortunate,40,59,总能找到机会,Always finds opportunities,15,10
+L008,鸿运当头,Heaven Favored,60,79,好事不断,Good fortune follows,25,15
+L009,天命之子,Child of Destiny,80,100,天地眷顾,Destined for greatness,40,25

@@ -1,0 +1,19 @@
+[remap]
+
+importer="csv_translation"
+type="Translation"
+uid="uid://bu4nf5o68ywfp"
+
+[deps]
+
+files=["res://data/title.Chinese.translation", "res://data/title.English.translation", "res://data/title.Unlock.translation"]
+
+source_file="res://data/title.csv"
+dest_files=["res://data/title.Chinese.translation", "res://data/title.English.translation", "res://data/title.Unlock.translation"]
+
+[params]
+
+compress=1
+delimiter=0
+unescape_keys=false
+unescape_translations=true

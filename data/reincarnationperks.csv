@@ -1,0 +1,21 @@
+﻿ID,Chinese,English,Rarity,DescriptionCN,DescriptionEN,EffectType,EffectValue
+R001,天生聪慧,Born Talented,Common,修炼速度提升5%,Cultivation speed +5%,CultivationSpeed,5
+R002,福缘深厚,Blessed Destiny,Common,气运+10,Luck +10,Luck,10
+R003,长寿体质,Long Life Body,Common,寿元+10年,Lifespan +10 years,Lifespan,10
+R004,聚灵之体,Spirit Gathering Body,Rare,修炼速度提升10%,Cultivation speed +10%,CultivationSpeed,10
+R005,丹道天赋,Alchemy Talent,Rare,炼丹成功率提升10%,Alchemy success +10%,AlchemySuccess,10
+R006,寻宝者,Treasure Hunter,Rare,宝物事件出现率提升,Treasure events increased,TreasureChance,10
+R007,灵石磁铁,Spirit Stone Magnet,Rare,灵石获取增加20%,Spirit Stone gain +20%,StoneGain,20
+R008,顿悟之姿,Natural Enlightenment,Rare,顿悟概率提升10%,Enlightenment chance +10%,EnlightenmentChance,10
+R009,坚韧道心,Strong Dao Heart,Rare,心魔事件减少,Inner demon events reduced,DemonReduction,15
+R010,幸运星,Lucky Star,Rare,气运+20,Luck +20,Luck,20
+R011,龙凤之资,Dragon-Phoenix Talent,Epic,突破成功率提升10%,Breakthrough success +10%,BreakthroughChance,10
+R012,天生剑骨,Sword Saint Potential,Epic,战斗类事件收益增加,Combat events stronger,CombatBonus,15
+R013,万法通明,Universal Insight,Epic,所有修炼收益+10%,All cultivation gains +10%,AllCultivation,10
+R014,神识强大,Powerful Soul,Epic,事件奖励提升10%,Event rewards +10%,EventReward,10
+R015,福星高照,Favored by Fortune,Epic,幸运事件出现率提高,Lucky events increased,LuckyEventChance,20
+R016,不灭道体,Immortal Physique,Legendary,寿元+50年,Lifespan +50 years,Lifespan,50
+R017,先天道胎,Dao-Born Body,Legendary,修炼速度提升20%,Cultivation speed +20%,CultivationSpeed,20
+R018,气运之王,King of Fortune,Legendary,气运+50,Luck +50,Luck,50
+R019,轮回记忆,Memory of Past Lives,Legendary,保留上一世部分称号,Keep part of previous titles,Memory,1
+R020,天道宠儿,Heaven's Chosen,Mythic,突破成功率提升25%,Breakthrough success +25%,BreakthroughChance,25

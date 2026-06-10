@@ -1,0 +1,19 @@
+[remap]
+
+importer="csv_translation"
+type="Translation"
+uid="uid://doy07mj8fqgwt"
+
+[deps]
+
+files=["res://data/ReincarnationHistory.en.translation", "res://data/ReincarnationHistory.en.translation", "res://data/ReincarnationHistory.en.translation", "res://data/ReincarnationHistory.en.translation", "res://data/ReincarnationHistory.en.translation", "res://data/ReincarnationHistory.en.translation"]
+
+source_file="res://data/ReincarnationHistory.csv"
+dest_files=["res://data/ReincarnationHistory.en.translation", "res://data/ReincarnationHistory.en.translation", "res://data/ReincarnationHistory.en.translation", "res://data/ReincarnationHistory.en.translation", "res://data/ReincarnationHistory.en.translation", "res://data/ReincarnationHistory.en.translation"]
+
+[params]
+
+compress=1
+delimiter=0
+unescape_keys=false
+unescape_translations=true

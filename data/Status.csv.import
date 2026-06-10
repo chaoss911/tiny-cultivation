@@ -1,0 +1,19 @@
+[remap]
+
+importer="csv_translation"
+type="Translation"
+uid="uid://bfh3ioh1giuai"
+
+[deps]
+
+files=["res://data/Status.chinese.translation", "res://data/Status.english.translation", "res://data/Status.mood.translation"]
+
+source_file="res://data/Status.csv"
+dest_files=["res://data/Status.chinese.translation", "res://data/Status.english.translation", "res://data/Status.mood.translation"]
+
+[params]
+
+compress=1
+delimiter=0
+unescape_keys=false
+unescape_translations=true

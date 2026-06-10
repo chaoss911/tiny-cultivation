@@ -1,0 +1,19 @@
+[remap]
+
+importer="csv_translation"
+type="Translation"
+uid="uid://bbiqe6oqbodw1"
+
+[deps]
+
+files=["res://data/luck.Chinese.translation", "res://data/luck.English.translation", "res://data/luck.MinLuck.translation", "res://data/luck.MaxLuck.translation", "res://data/luck.DescriptionCN.translation", "res://data/luck.DescriptionEN.translation", "res://data/luck.EventModifier.translation", "res://data/luck.BreakthroughModifier.translation"]
+
+source_file="res://data/luck.csv"
+dest_files=["res://data/luck.Chinese.translation", "res://data/luck.English.translation", "res://data/luck.MinLuck.translation", "res://data/luck.MaxLuck.translation", "res://data/luck.DescriptionCN.translation", "res://data/luck.DescriptionEN.translation", "res://data/luck.EventModifier.translation", "res://data/luck.BreakthroughModifier.translation"]
+
+[params]
+
+compress=1
+delimiter=0
+unescape_keys=false
+unescape_translations=true

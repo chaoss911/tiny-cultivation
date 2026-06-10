@@ -1,0 +1,5 @@
+<svg height="128" width="128" xmlns="http://www.w3.org/2000/svg">
+  <rect width="128" height="128" rx="24" fill="#111827"/>
+  <circle cx="64" cy="64" r="36" fill="#facc15"/>
+  <text x="64" y="76" font-size="42" text-anchor="middle" fill="#111827">仙</text>
+</svg>

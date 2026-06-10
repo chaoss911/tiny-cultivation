@@ -1,0 +1,79 @@
+[gd_scene format=3 uid="uid://pvhihkwc7dt2"]
+
+[ext_resource type="Script" uid="uid://d3mxhnrh2k8u5" path="res://scripts/main.gd" id="1_main"]
+[ext_resource type="Texture2D" uid="uid://crad6add5vue5" path="res://images/cultivator_meditate.png" id="2_rvslj"]
+
+[node name="Main" type="Control" unique_id=1866611658]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_main")
+
+[node name="PetGroup" type="Node2D" parent="." unique_id=1936359688]
+
+[node name="CultivatorSprite" type="Sprite2D" parent="PetGroup" unique_id=1023398510]
+texture_filter = 2
+texture = ExtResource("2_rvslj")
+
+[node name="SpeechLabel" type="Label" parent="PetGroup" unique_id=781754872]
+offset_right = 40.0
+offset_bottom = 23.0
+
+[node name="StatusLabel" type="Label" parent="PetGroup" unique_id=448951267]
+offset_right = 40.0
+offset_bottom = 23.0
+
+[node name="VBox" type="VBoxContainer" parent="PetGroup" unique_id=1018643804]
+offset_left = 10.0
+offset_top = -3.0
+offset_right = 410.0
+offset_bottom = 263.0
+theme_override_constants/separation = 8
+alignment = 1
+
+[node name="Buttons" type="HBoxContainer" parent="PetGroup/VBox" unique_id=1313179588]
+layout_mode = 2
+alignment = 1
+
+[node name="FeedPill" type="Button" parent="PetGroup/VBox/Buttons" unique_id=1476171960]
+layout_mode = 2
+text = "吃聚气丹"
+
+[node name="Meditate" type="Button" parent="PetGroup/VBox/Buttons" unique_id=459168866]
+layout_mode = 2
+text = "加速打坐"
+
+[node name="Info" type="Button" parent="PetGroup/VBox/Buttons" unique_id=1313359620]
+layout_mode = 2
+
+[node name="Language" type="Button" parent="PetGroup/VBox/Buttons" unique_id=579855406]
+layout_mode = 2
+
+[node name="Title" type="Label" parent="PetGroup/VBox" unique_id=522758979]
+layout_mode = 2
+text = "桌面修仙徒弟"
+horizontal_alignment = 1
+
+[node name="Realm" type="Label" parent="PetGroup/VBox" unique_id=2092133614]
+layout_mode = 2
+text = "境界：炼气一层"
+horizontal_alignment = 1
+
+[node name="Progress" type="ProgressBar" parent="PetGroup/VBox" unique_id=663553845]
+layout_mode = 2
+
+[node name="Stats" type="Label" parent="PetGroup/VBox" unique_id=1907466509]
+layout_mode = 2
+text = "修为：0 / 100
+灵石：0
+寿元：80年"
+horizontal_alignment = 1
+
+[node name="DragHint" type="Label" parent="PetGroup/VBox" unique_id=235009109]
+layout_mode = 2
+theme_override_font_sizes/font_size = 11
+text = "拖动窗口移动｜挂机会自动修炼"
+horizontal_alignment = 1

@@ -1,0 +1,10 @@
+.import/
+.godot/
+.export/
+export_presets.cfg.bak
+
+*.tmp
+*.log
+
+.DS_Store
+

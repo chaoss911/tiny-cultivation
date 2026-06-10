@@ -1,0 +1,21 @@
+﻿ID,Chinese,English,Unlock
+PER001,懒惰,Lazy,Cultivation Speed -20%
+PER002,勤奋,Diligent,Cultivation Speed +15%
+PER003,贪财,Greedy,Spirit Stone Gain +20%
+PER004,天才,Genius,Enlightenment Chance +30%
+PER005,莽夫,Reckless,Breakthrough Chance +10%
+PER006,胆小,Coward,Danger Events Reduced
+PER007,好奇,Curious,Exploration Events Increased
+PER008,赌徒,Gambler,High Risk High Reward
+PER009,吃货,Foodie,Pill Effects +20%
+PER010,社牛,Extrovert,Social Events Increased
+PER011,社恐,Introvert,Solo Cultivation Bonus
+PER012,中二,Chuunibyou,Funny Dialogues Increased
+PER013,老实人,Honest,Negative Events Reduced
+PER014,坏心眼,Mischievous,Prank Events Increased
+PER015,悲观,Pessimistic,Inner Demon Events Increased
+PER016,乐天,Optimistic,Inner Demon Events Reduced
+PER017,炼丹狂,Alchemy Maniac,Alchemy Events Increased
+PER018,收集癖,Collector,Treasure Events Increased
+PER019,睡仙,Sleepy Sage,Sleep Events Increased
+PER020,欧皇,Lucky One,Lucky Events Increased
