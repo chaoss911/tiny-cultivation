@@ -1,7 +1,11 @@
 # Tiny Cultivation
 
-A tiny desktop cultivation pet inspired by cultivation novels.
+🌏 Language
 
+- English (Current)
+- [简体中文](README_CN.md)
+
+A tiny desktop cultivation pet inspired by xianxia novels.
 
 
 ## Features
