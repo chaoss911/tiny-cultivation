@@ -2,7 +2,7 @@
 
 A tiny desktop cultivation pet inspired by cultivation novels.
 
-![Tiny Cultivation](images/screenshot.png)
+
 
 ## Features
 
@@ -22,7 +22,7 @@ A tiny desktop cultivation pet inspired by cultivation novels.
 
 ## Screenshots
 
-(Add screenshots here)
+![Tiny Cultivation](images/screenshot.png)
 
 ## Roadmap
 
