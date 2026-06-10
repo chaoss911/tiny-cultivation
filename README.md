@@ -46,4 +46,4 @@ A tiny desktop cultivation pet inspired by cultivation novels.
 
 ## Author
 
-Tee Guang Hui
+Tee 
