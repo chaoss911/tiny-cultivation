@@ -1,10 +1,10 @@
 .import/
 .godot/
-.export/
-export_presets.cfg.bak
 
-*.tmp
-*.log
+*.exe
+*.dmg
+*.pck
+*.zip
 
 .DS_Store
 
