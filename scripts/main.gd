@@ -342,7 +342,7 @@ func refresh_ui() -> void:
 			int(state["lifespan"])
 		]
 	else:
-		title_label.text = "Mini Cultivator"
+		title_label.text = "Mini Cultivation"
 		realm_label.text = "Realm: %s" % realm_names_en[state["realm_index"]]
 
 		stats_label.text = "Cultivation: %d / %d\nSpirit Stones: %d\nLifespan: %d yrs" % [
