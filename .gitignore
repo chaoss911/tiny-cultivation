@@ -1,6 +1,7 @@
 .import/
 .godot/
 
+*.import
 *.exe
 *.dmg
 *.pck
