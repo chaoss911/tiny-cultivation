@@ -1,2 +1,49 @@
-# tiny-cultivator
-a desktop cultivator pet made with Godot
+# Tiny Cultivation
+
+A tiny desktop cultivation pet inspired by cultivation novels.
+
+![Tiny Cultivation](images/screenshot.png)
+
+## Features
+
+- Auto cultivation
+- Realm progression
+- Spirit stones
+- Random events
+- Chinese / English language support
+- Desktop companion mode
+
+## Current Realms
+
+- Qi Refining
+- Foundation Establishment (Coming Soon)
+- Golden Core
+- Nascent Soul (Coming Soon)
+
+## Screenshots
+
+(Add screenshots here)
+
+## Roadmap
+
+### v0.2
+- Luck system
+- More random events
+- Personality effects
+
+### v0.3
+- Equipment system
+- Alchemy system
+- Tribulation system
+
+### v0.5
+- Multiple cultivators
+- Sect management
+
+## Built With
+
+- Godot 4.6
+
+## Author
+
+Tee Guang Hui
