@@ -40,10 +40,6 @@ A tiny desktop cultivation pet inspired by xianxia novels.
 - Alchemy system
 - Tribulation system
 
-### v0.5
-- Multiple cultivators
-- Sect management
-
 ## Built With
 
 - Godot 4.6
