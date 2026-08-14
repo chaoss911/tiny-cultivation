@@ -1,0 +1,41 @@
+id,pill_id,pill_name_zh,pill_name_en,required_herbs,required_stones,success_rate,effect_type,effect_value,side_effect_chance,description_zh,description_en
+recipe_001,pill_001,回气丹,Qi Recovery Pill,herb_002:2,5,0.90,exp,8,0.05,打坐菇压成的小丹，吃了犯困但确实涨修为。,Made from Meditation Mushroom. Makes you drowsy but does boost exp.
+recipe_002,pill_002,灵气丸,Spirit Qi Pellet,herb_004:2|herb_007:1,8,0.85,exp,15,0.08,灵气萝卜炖出来的丹，闻起来像萝卜汤。,Brewed from Spirit Radish. Smells suspiciously like radish soup.
+recipe_003,pill_003,强基丹,Foundation Boost Pill,herb_017:2|herb_020:1,15,0.80,exp,25,0.10,给武者补修为的丹药，吃多了会觉得自己很猛。,Boosts exp for Warriors. Overeating causes false confidence.
+recipe_004,pill_004,玄气丹,Mystic Qi Pill,herb_030:2|herb_033:1,25,0.75,exp,40,0.12,先天期常用涨修为丹，配方稳定不容易炸炉。,A reliable Innate-stage exp pill. Rarely blows up the furnace.
+recipe_005,pill_005,炼气精元丹,Qi-Refining Essence Pill,herb_041:2|herb_045:1,40,0.65,exp,70,0.15,炼气期高阶丹，涨修为效果显著，但炼制风险也高。,"An advanced Qi-Refining pill. Strong exp gain, higher risk."
+recipe_006,pill_006,延寿草丹,Lifespan Grass Pill,herb_006:3,6,0.85,lifespan,1,0.05,路边野菇炖的丹，据说能多活一天，但没人验证过。,"Made from Roadside Wild Mushroom. Said to add one day of life, unverified."
+recipe_007,pill_007,固元丹,Vital Root Pill,herb_010:2|herb_013:1,12,0.80,lifespan,3,0.08,安神花配醒脾果，吃完心情和寿元都好一点。,Calm Spirit Flower and Appetite Fruit. Improves mood and lifespan slightly.
+recipe_008,pill_008,武者续命丹,Warrior's Lifeline Pill,herb_015:2|herb_024:1,20,0.75,lifespan,5,0.10,武者常备保命丹，关键时刻能多撑几口气。,A Warrior's staple. Buys a few extra breaths in a pinch.
+recipe_009,pill_009,先天养元丹,Innate Nourishing Pill,herb_027:2|herb_035:1,35,0.70,lifespan,8,0.12,先天期养寿丹，长期吃据说脸色会变好。,An Innate-stage longevity pill. Reportedly improves complexion over time.
+recipe_010,pill_010,九转回元丹,Nine-Turn Origin Pill,herb_039:2|herb_044:1,50,0.60,lifespan,15,0.18,炼气期延寿丹，效果不错，但炼制时炉子容易抖。,A solid Qi-Refining lifespan pill. The furnace tends to shake while brewing.
+recipe_011,pill_011,安神丹,Calm Spirit Pill,herb_003:2,5,0.90,mood,10,0.05,清心叶炖的小丹，喝完情绪稳定，适合摸鱼。,"Brewed from Clearheart Leaf. Calms the mood, great for slacking off."
+recipe_012,pill_012,开心果丹,Happy Fruit Pill,herb_009:2,8,0.85,mood,15,0.06,打嗝果做的丹，吃完会突然很开心，也会突然打嗝。,Made from Hiccup Fruit. Causes sudden joy and sudden hiccups.
+recipe_013,pill_013,解压丹,Stress Relief Pill,herb_018:2|herb_021:1,14,0.80,mood,20,0.08,武者专用解压丹，据说比躺平更有效。,A Warrior's stress relief pill. Reportedly more effective than doing nothing.
+recipe_014,pill_014,静心丹,Quiet Mind Pill,herb_032:2|herb_035:1,25,0.78,mood,30,0.10,月华叶配古藤，喝完整个人都静下来了，包括手脚。,"Moonlight Leaf and an ancient vine. Calms the whole body, sometimes too much."
+recipe_015,pill_015,逍遥丹,Carefree Pill,herb_042:2|herb_045:1,35,0.72,mood,40,0.12,摸鱼草炼的丹，吃完战斗力没变化，但心态彻底躺平。,"Brewed from Slacking-Off Grass. No combat change, but inner peace achieved."
+recipe_016,pill_016,小吉丹,Minor Luck Pill,herb_005:2,6,0.85,luck,0.02,0.06,不知道能不能吃的草炼的丹，吃了之后运气好像变好了一点。,"From the questionable grass. Luck seems slightly better afterward, maybe."
+recipe_017,pill_017,转运丹,Fortune-Turning Pill,herb_025:2,15,0.78,luck,0.04,0.10,被雷劈过的木枝磨的粉做的丹，玄学但好像有点用。,"Made from powdered Lightning-Struck Branch. Superstitious, but seems to help."
+recipe_018,pill_018,锦鲤丹,Koi Luck Pill,herb_033:2|herb_038:1,28,0.70,luck,0.06,0.12,先天云雾草配紫霄花，吃完感觉自己是锦鲤本人。,Cloud-Mist Grass and Purple Sky Flower. You feel like a literal lucky koi.
+recipe_019,pill_019,天选丹,Chosen One Pill,herb_044:2|herb_046:1,40,0.65,luck,0.08,0.15,雷劫余烬草炼的丹，运气暴涨，但配方本身就很危险。,"From Thunder Tribulation Ember Grass. Luck spikes, but the recipe itself is risky."
+recipe_020,pill_020,紫金锦运丹,Golden Fortune Pill,herb_053:2|herb_059:1,60,0.55,luck,0.10,0.20,七色云芝配凝光灵果，运气拉满，但炸炉概率也拉满。,Seven-Color Cloud Lingzhi and Light-Condensing Fruit. Maximizes luck and maximizes furnace explosion risk.
+recipe_021,pill_021,破障丹,Barrier-Break Pill,herb_023:2,18,0.75,breakthrough_rate,0.05,0.10,破障藤炼的丹，专门用来突破时壮胆。,Made from Barrier-Breaking Vine. Built specifically for breakthrough courage.
+recipe_022,pill_022,通脉丹,Meridian Pill,herb_029:2,25,0.72,breakthrough_rate,0.06,0.10,通脉花炼制，突破前喝一口，疏通一下心理障碍。,Made from Meridian-Clearing Flower. Clears mental blocks before a breakthrough.
+recipe_023,pill_023,锐竹丹,Sharp Bamboo Pill,herb_036:2,30,0.70,breakthrough_rate,0.07,0.12,锋锐竹炼制，突破成功率小涨，但喝完嗓子有点辣。,"Brewed from Sharp Edge Bamboo. Boosts breakthrough odds, throat feels spicy."
+recipe_024,pill_024,九叶突破丹,Nine-Leaf Breakthrough Pill,herb_043:2,45,0.65,breakthrough_rate,0.08,0.15,九叶炼气花炼制，炼气期突破必备，偶尔会冒紫烟。,From Nine-Leaf Qi-Refining Flower. A Qi-Refining staple that occasionally emits purple smoke.
+recipe_025,pill_025,凝丹突破丹,Core-Forming Breakthrough Pill,herb_051:2|herb_047:1,65,0.55,breakthrough_rate,0.10,0.20,筑基期突破丹，效果显著，但炼丹师说这个配方很烧钱。,"A Foundation-stage breakthrough pill. Strong effect, alchemists call it expensive."
+recipe_026,pill_026,摸鱼丹,Slacker's Pill,herb_008:2,10,0.85,offline_exp,0.05,0.05,苦根草炼的丹，吃完出去摸鱼，回来修为照样涨。,"From Bitter Root Grass. Go slack off, and exp still grows while you're away."
+recipe_027,pill_027,离岗丹,Off-Duty Pill,herb_019:2,18,0.80,offline_exp,0.07,0.08,打工人参炼制，专治不在线也想涨修为的焦虑。,From Overtime Ginseng. Cures the anxiety of wanting exp even while offline.
+recipe_028,pill_028,自动修炼丹,Auto-Cultivation Pill,herb_031:2,28,0.75,offline_exp,0.09,0.10,三阳果炼制，挂机收益小幅提升，适合长期不在电脑前的人。,From Triple Yang Fruit. Boosts idle gains for people who are never at their desk.
+recipe_029,pill_029,闭关丹,Seclusion Pill,herb_042:2|herb_037:1,38,0.68,offline_exp,0.11,0.12,摸鱼草加炼气灵草，专为长期闭关党设计。,Slacking-Off Grass plus Qi-Refining Spirit Grass. Built for long-term seclusion players.
+recipe_030,pill_030,长效摸鱼丹,Long-Lasting Slacker Pill,herb_052:2|herb_054:1,55,0.60,offline_exp,0.13,0.18,筑基期挂机神器，离线收益顶呱呱，但配方本身就很懒散。,"A Foundation-stage idle essential. Great offline gains, lazily designed recipe."
+recipe_031,pill_031,保命符丹,Lifesaver Pill,herb_001:1|herb_003:1,12,0.85,fail_protection,0.10,0.05,凝露草配清心叶，突破失败时能少摔一点。,Dew-Condensing Grass and Clearheart Leaf. Softens the fall if a breakthrough fails.
+recipe_032,pill_032,护体丹,Body-Guard Pill,herb_016:2,20,0.78,fail_protection,0.15,0.08,强体藤炼制，突破失败时能护住一口元气。,From Body-Strengthening Vine. Protects a bit of vitality on failure.
+recipe_033,pill_033,镜花丹,Mirror Flower Pill,herb_028:2,30,0.72,fail_protection,0.20,0.10,假龙涎草炼制，名字唬人，但保命效果是真的。,"From Fake Dragon Saliva Grass. The name is fake, the protection is real."
+recipe_034,pill_034,回魂丹,Soul-Recall Pill,herb_040:2,42,0.65,fail_protection,0.25,0.15,九转回魂草炼制，突破炸了也能捡回半条命。,From Nine-Turn Soul-Recall Grass. Recovers half a life even after a botched breakthrough.
+recipe_035,pill_035,筑基护盾丹,Foundation Shield Pill,herb_050:2|herb_049:1,58,0.58,fail_protection,0.30,0.18,筑基期失败保护丹，关键时刻能保住根基不崩。,A Foundation-stage safety net. Keeps your foundation from collapsing at the worst moment.
+recipe_036,pill_036,随缘丹,Whatever-Happens Pill,herb_011:2,10,0.80,random,1,0.10,歪掉的野生灵芝炼制，效果随缘，吃之前自己想清楚。,"From the crooked Wild Lingzhi. The effect is random, so think before you eat it."
+recipe_037,pill_037,玄学丹,Superstition Pill,herb_026:2,22,0.70,random,1,0.15,老茧草炼制，效果全靠玄学，炼丹师本人也不解释。,"From Old Callus Grass. Pure superstition, even the alchemist won't explain it."
+recipe_038,pill_038,不明丹,Unidentified Pill,herb_034:1,30,0.60,random,1,0.20,不明发光菌炼的丹，没人知道吃了会发生什么，但很多人还是吃了。,"From the Mysterious Glowing Fungus. Nobody knows what it does, yet people keep eating it."
+recipe_039,pill_039,雷劫彩蛋丹,Thunder Tribulation Surprise Pill,herb_044:2,45,0.55,random,1,0.25,雷劫余烬草炼制，效果是好是坏全看天意。,"From Thunder Tribulation Ember Grass. Good or bad, it's entirely up to fate."
+recipe_040,pill_040,七色随机丹,Seven-Color Random Pill,herb_053:2,60,0.50,random,1,0.30,七色云芝炼制，效果随机但都不差，唯一缺点是炸炉率也不低。,"From Seven-Color Cloud Lingzhi. Random but solid effects, with a notable furnace explosion rate."

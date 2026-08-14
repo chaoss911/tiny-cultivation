@@ -1,0 +1,16 @@
+id,name_zh,name_en,type,grade,cost_stone,cultivation_gain,mood_effect,success_rate_bonus,side_effect,cooldown_sec,description_zh,description_en,min_realm
+pill_001,聚气丹,Qi Gathering Pill,cultivation,普通,5,30,happy,0,none,10,适合初入仙途者服用，能快速补充灵气。,A basic pill that restores and gathers qi for early cultivators.,5
+pill_002,小聚气丹,Minor Qi Pill,cultivation,凡品,3,15,happy,0,none,8,药性温和，适合日常修炼时慢慢服用。,A mild daily cultivation pill with gentle qi.,5
+pill_003,大聚气丹,Greater Qi Pill,cultivation,良品,12,80,happy,0,none,20,灵气较浓，适合修为卡住时冲一把。,A stronger qi pill for pushing through slow progress.,5
+pill_004,凝气丹,Qi Condensing Pill,cultivation,良品,18,120,meditate,0,none,30,帮助凝练内气，但最好打坐时服用。,Condenses inner qi and works best during meditation.,5
+pill_005,筑基丹,Foundation Pill,breakthrough,珍品,50,0,meditate,15,none,60,珍贵破境丹药，适合高阶修士冲击大境界。,A precious breakthrough pill for major realm advancement.,7
+pill_006,护脉丹,Meridian Guard Pill,protection,良品,20,0,normal,0,reduce_failure_penalty,45,护住经脉，能减少突破失败时的寿元损伤。,Protects the meridians and reduces breakthrough failure damage.,3
+pill_007,回春丹,Rejuvenation Pill,recovery,普通,15,0,happy,0,restore_lifespan_3,40,恢复少量寿元，味道像很苦的凉茶。,Restores a small amount of lifespan. Bitter but useful.,3
+pill_008,清心丹,Clear Mind Pill,mood,普通,8,10,normal,5,none,20,清除杂念，略微提高突破时的稳定感。,Clears distractions and slightly improves breakthrough stability.,3
+pill_009,顿悟丹,Insight Pill,rare,上品,80,300,meditate,10,none,120,短暂窥见大道一角，醒来后只记得很贵。,"Grants a brief glimpse of the Dao, then fades like a dream.",5
+pill_010,狂化丹,Frenzy Pill,risk,危险,10,200,confused,-10,lose_lifespan_2,30,药力猛烈，修为暴涨，但身体会抗议。,A violent pill that grants power at a real physical cost.,3
+pill_011,来历不明丹,Mystery Pill,event,杂品,0,40,happy,0,random_bad_stomach,15,不知道谁留下的丹药，吃之前最好先写遗书。,A suspicious free pill. Taking it may be a terrible idea.,3
+pill_012,过期丹,Expired Pill,event,杂品,1,5,confused,-5,lose_cultivation_10,10,闻起来怪怪的，便宜不是没有原因。,Smells strange. There is a reason it is cheap.,3
+pill_013,辟谷丹,Fasting Pill,utility,普通,6,0,normal,0,none,25,闭关时压住饥饿感，但不会让饭变得不香。,"Suppresses hunger during seclusion, but food still sounds tempting.",5
+pill_014,安神丹,Calming Pill,mood,普通,7,5,sleepy,3,none,20,安定心神，但副作用是很想睡觉。,"Calms the mind, but makes the cultivator sleepy.",3
+pill_015,避雷丹,Thunder Guard Pill,tribulation,珍品,100,0,meditate,20,none,180,渡劫前服用，心理安慰和实际效果都有一点。,Improves tribulation survival odds and gives some emotional support.,7

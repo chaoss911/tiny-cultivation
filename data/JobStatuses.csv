@@ -1,0 +1,25 @@
+id,job_id,realm,zh,en,mood
+farmer_s1,farmer,凡人,"像侍弄庄稼一样打坐","Meditating like he's tending crops",meditate
+farmer_s2,farmer,凡人,"回忆着田里的日子","Reminiscing about days in the fields",normal
+farmer_s3,farmer,凡人,"干活干惯了，闲不住","Can't sit still after a life of labor",workout
+farmer_s4,farmer,凡人,"看着天色估摸收成","Reading the sky for the harvest",normal
+hunter_s1,hunter,凡人,"屏息凝神，如临猎场","Holding his breath as if on the hunt",meditate
+hunter_s2,hunter,凡人,"警觉地扫视四周","Scanning the surroundings, alert",confused
+hunter_s3,hunter,凡人,"蓄势待发","Coiled and ready to strike",workout
+hunter_s4,hunter,凡人,"静得能听见心跳","Still enough to hear a heartbeat",meditate
+scholar_s1,scholar,凡人,"摇头晃脑地默诵心法","Reciting the manual, head swaying",meditate
+scholar_s2,scholar,凡人,"对着虚空冥思苦想","Lost in thought, staring at nothing",confused
+scholar_s3,scholar,凡人,"翻着想象中的典籍","Flipping through imaginary tomes",normal
+scholar_s4,scholar,凡人,"自诩饱读诗书","Quietly proud of his learning",happy
+merchant_s1,merchant,凡人,"心里盘算着灵石账目","Tallying spirit stones in his head",normal
+merchant_s2,merchant,凡人,"估量着这次修炼的回报","Weighing the return on this session",confused
+merchant_s3,merchant,凡人,"美滋滋地数着家底","Counting his savings, well pleased",happy
+merchant_s4,merchant,凡人,"精打细算每一缕灵气","Budgeting every wisp of qi",meditate
+blacksmith_s1,blacksmith,凡人,"仿佛还在抡锤淬火","Still swinging the hammer in spirit",workout
+blacksmith_s2,blacksmith,凡人,"稳如铁砧","Steady as an anvil",meditate
+blacksmith_s3,blacksmith,凡人,"浑身使不完的力气","Brimming with restless strength",happy
+blacksmith_s4,blacksmith,凡人,"守着想象中的火炉","Tending an imaginary furnace",normal
+unemployed_s1,unemployed,凡人,"标准的摸鱼姿势","Striking the perfect slacking pose",lazy
+unemployed_s2,unemployed,凡人,"修着修着就睡着了","Dozed off mid-cultivation",sleepy
+unemployed_s3,unemployed,凡人,"一整天无所事事","Idling away the entire day",lazy
+unemployed_s4,unemployed,凡人,"自我感觉良好地躺平","Lying flat and feeling great about it",happy

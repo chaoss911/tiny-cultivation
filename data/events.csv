@@ -1,0 +1,406 @@
+event_id,event_type,weight,text_zh,text_en,reward_type,reward_value,min_realm,special_animation,biography_importance
+cultivate_001,cultivate,10,看着云发了会呆却有所感悟,Stared at the clouds and somehow gained insight,qi,4,,,normal
+cultivate_002,cultivate,10,打坐时数自己的呼吸数到睡着,Counted breaths while meditating and dozed off,none,0,,,normal
+cultivate_003,cultivate,12,对着月亮吐纳了一整夜,Breathed with the moon all night long,qi,4,,,normal
+cultivate_004,cultivate,8,盘腿坐到腿麻才肯起来,Sat cross-legged till both legs went numb,none,0,,,normal
+cultivate_005,cultivate,8,感觉今天灵气格外清新,The spirit qi feels especially crisp today,none,0,,,normal
+cultivate_006,cultivate,10,闭关三日只悟出一个字,Three days secluded for a single word of insight,qi,8,,,normal
+cultivate_007,cultivate,10,把心经默念了一百遍,Recited the heart sutra a hundred times,none,0,,,normal
+cultivate_008,cultivate,10,灵台清明仿佛通了一窍,Mind clear as if one channel opened,qi,4,,,normal
+cultivate_009,cultivate,10,修炼到一半被肚子叫打断,Cultivation interrupted by a growling stomach,qi,6,,,normal
+cultivate_010,cultivate,10,终于把那段口诀背熟了,Finally memorized that tricky mantra,none,0,,,normal
+cultivate_011,cultivate,12,打坐时一只鸟落在头上,A bird landed on my head mid-meditation,none,0,,,normal
+cultivate_012,cultivate,10,观想金丹结果想成了汤圆,Visualized a golden core but pictured a rice ball,none,0,,,normal
+cultivate_013,cultivate,12,静心听了一下午的风声,Spent an afternoon listening to the wind,qi,4,,,normal
+cultivate_014,cultivate,8,感觉经脉里有暖流缓缓流动,A warm current flows gently through my meridians,qi,8,,,normal
+cultivate_015,cultivate,10,修炼笔记又写满了一页,Filled another page of cultivation notes,qi,6,,,normal
+cultivate_016,cultivate,10,对着烛火参悟了半宿,Pondered by candlelight half the night,qi,4,,,normal
+cultivate_017,cultivate,10,打坐入定连饭都忘了吃,Meditated so deep I forgot to eat,qi,4,,,normal
+cultivate_018,cultivate,10,练气时打了个响亮的嗝,Let out a loud burp while gathering qi,qi,8,,,normal
+cultivate_019,cultivate,10,感受着晨露中的灵气,Felt the spirit qi in the morning dew,qi,6,,,normal
+cultivate_020,cultivate,10,把杂念一个个赶出脑海,Chased stray thoughts out one by one,none,0,,,normal
+cultivate_021,cultivate,10,今日修为似乎涨了一点点,Cultivation seems up a tiny bit today,qi,4,,,normal
+cultivate_022,cultivate,10,盘坐在溪边听水流悟道,Sat by the stream seeking the Dao in its flow,qi,5,,,normal
+cultivate_023,cultivate,10,默运周天觉得通体舒畅,Circulated qi and felt wonderfully at ease,qi,6,,,normal
+cultivate_024,cultivate,10,修炼时窗外下起了小雨,Light rain began outside as I cultivated,qi,4,,,normal
+cultivate_025,cultivate,12,对着古卷研究到天亮,Studied the old scroll until dawn,qi,6,,,normal
+cultivate_026,cultivate,10,灵气有点稀薄修得有点累,Qi feels thin today cultivation is tiring,none,0,,,normal
+cultivate_027,cultivate,10,打坐时听见自己的心跳,Heard my own heartbeat in deep stillness,qi,6,,,normal
+cultivate_028,cultivate,12,终于把那个动作做标准了,Finally got that posture exactly right,qi,8,,,normal
+cultivate_029,cultivate,10,修炼之余给自己泡了壶茶,Brewed a pot of tea between sessions,none,0,,,normal
+cultivate_030,cultivate,10,感觉离突破又近了一步,Feels one step closer to a breakthrough,none,0,,,normal
+cultivate_031,cultivate,12,入定时梦见自己飞了起来,Dreamed of flying while in deep trance,qi,8,,,normal
+cultivate_032,cultivate,10,把功法又从头梳理了一遍,Reviewed the whole technique from the start,none,0,,,normal
+cultivate_033,cultivate,8,修炼一时爽一直修炼一直爽,Cultivating feels good so I just kept going,qi,4,,,normal
+cultivate_034,cultivate,10,对着星空打坐到后半夜,Meditated under the stars past midnight,qi,5,,,normal
+cultivate_035,cultivate,8,练功练得满头大汗,Worked up a full sweat in practice,qi,8,,,normal
+cultivate_036,cultivate,12,灵识第一次模糊地感知到周围,Spirit sense vaguely felt its surroundings,none,0,,,normal
+cultivate_037,cultivate,8,把丹田暖得像揣了个小火炉,Warmed my dantian like a tiny stove,qi,4,,,normal
+cultivate_038,cultivate,10,修炼途中被路过的猫盯着看,A passing cat watched me cultivate,qi,6,,,normal
+cultivate_039,cultivate,12,悟出一点道理高兴了半天,Grasped a small truth and grinned all day,none,0,,,normal
+cultivate_040,cultivate,8,打坐时屁股坐疼了换了个姿势,Sore from sitting so I shifted position,none,0,,,normal
+cultivate_041,cultivate,10,清晨第一缕阳光中吐纳,Breathed qi in the first light of dawn,stone,2,,,normal
+cultivate_042,cultivate,10,修炼笔记被风吹乱了页,Wind scattered the pages of my notes,qi,4,,,normal
+cultivate_043,cultivate,10,感觉自己的小宇宙在苏醒,Felt my little universe awakening,qi,5,,,normal
+cultivate_044,cultivate,10,练气时不小心放了个屁,Accidentally farted while gathering qi,none,0,,,normal
+cultivate_045,cultivate,10,把一颗石子看成了灵石,Mistook a pebble for a spirit stone,qi,4,,,normal
+cultivate_046,cultivate,10,修炼到忘我连天黑都没发现,Lost track of time until it got dark,qi,4,,,normal
+cultivate_047,cultivate,10,默念心法时口水流了出来,Drooled a little while reciting the method,qi,6,,,normal
+cultivate_048,cultivate,8,感觉今天的自己特别有慧根,Feeling unusually gifted today,none,0,,,normal
+cultivate_049,cultivate,12,打坐时蚊子在耳边嗡嗡叫,A mosquito buzzed by my ear mid-trance,none,0,,,normal
+cultivate_050,cultivate,10,终于体会到一点点天人合一,Tasted a sliver of oneness with nature,qi,5,,,normal
+cultivate_051,cultivate,10,修炼间隙发了会儿呆,Spaced out during a cultivation break,qi,5,,,normal
+cultivate_052,cultivate,10,把内息引导得顺畅了许多,Guided my inner breath much more smoothly,qi,8,,,normal
+cultivate_053,cultivate,10,对着瀑布练了一上午,Trained before the waterfall all morning,stone,1,,,normal
+cultivate_054,cultivate,10,感觉经脉宽了那么一丝丝,Meridians feel a hair wider now,none,0,,,normal
+cultivate_055,cultivate,12,修炼时回忆起小时候的事,Recalled childhood memories while meditating,none,0,,,normal
+cultivate_056,cultivate,10,打坐时听见远处的钟声,Heard a distant bell while seated,none,0,,,normal
+cultivate_057,cultivate,8,把一个错误的姿势纠正了,Corrected a long-standing wrong posture,none,0,,,normal
+cultivate_058,cultivate,10,灵气运转时发出轻微的嗡鸣,A faint hum rose as qi circulated,qi,5,,,normal
+cultivate_059,cultivate,8,修炼累了就靠着树打个盹,Napped against a tree after practice,none,0,,,normal
+cultivate_060,cultivate,8,终于看懂了那幅修炼图,Finally understood that practice diagram,none,0,,,normal
+cultivate_061,cultivate,10,修为停滞不前有点焦虑,A bit anxious as progress stalls,qi,4,,,normal
+cultivate_062,cultivate,12,打坐时心如止水十分难得,A rare moment of perfect stillness,none,0,,,normal
+cultivate_063,cultivate,10,练功时影子被拉得好长,My shadow stretched long during practice,none,0,,,normal
+cultivate_064,cultivate,10,感觉手心冒出了一丝灵气,A wisp of qi rose from my palm,qi,8,,,normal
+cultivate_065,cultivate,10,修炼笔记上画满了小人,Doodled little figures all over my notes,qi,8,,,normal
+cultivate_066,cultivate,12,入定后感觉时间过得飞快,Time flew by once I entered trance,none,0,,,normal
+cultivate_067,cultivate,12,把呼吸调得又慢又匀,Slowed my breathing to a steady rhythm,none,0,,,normal
+cultivate_068,cultivate,8,修炼时被自己的肚子吓一跳,Startled by my own stomach growl,qi,4,,,normal
+cultivate_069,cultivate,10,对着炉火参悟火属灵气,Pondered fire-attuned qi by the hearth,none,0,,,normal
+cultivate_070,cultivate,10,感觉今天的悟性格外好,My comprehension feels sharp today,qi,4,,,normal
+cultivate_071,cultivate,12,打坐到半夜被冻醒,Woke up cold from meditating too late,none,0,,,normal
+cultivate_072,cultivate,10,练气时数错了周天圈数,Lost count of my qi circulation cycles,none,0,,,normal
+cultivate_073,cultivate,10,终于把那本秘籍翻到最后一页,Finally reached the last page of the manual,none,0,,,normal
+cultivate_074,cultivate,12,修炼时窗台上的花开了,A flower bloomed on the sill as I trained,qi,4,,,normal
+cultivate_075,cultivate,8,感觉自己又行了又不太行,Feeling capable and useless at once,qi,4,,,normal
+cultivate_076,cultivate,8,打坐时鼻子有点痒强忍着,Nose itched mid-trance but I held still,qi,4,,,normal
+cultivate_077,cultivate,10,把灵气压进丹田时打了个寒颤,Shivered as I pressed qi into my dantian,stone,1,,,normal
+cultivate_078,cultivate,12,修炼一整天只为那一瞬清明,Trained all day for one clear instant,none,0,,,normal
+cultivate_079,cultivate,12,对着自己的倒影练习神情,Practiced my expression in a reflection,none,0,,,normal
+cultivate_080,cultivate,12,感觉离凡人越来越远了一点,Feeling a bit less ordinary each day,qi,5,,,normal
+lazy_001,lazy,12,认真研究蚂蚁搬家的路线,Carefully studied the migration route of ants,none,0,,,normal
+lazy_002,lazy,12,躺在屋顶上看了一天云,Lay on the roof watching clouds all day,none,0,,,normal
+lazy_003,lazy,12,把修炼推迟到了明天,Postponed cultivation to tomorrow again,none,0,,,normal
+lazy_004,lazy,10,决定先休息一下再休息一下,Decided to rest a bit then rest some more,none,0,,,normal
+lazy_005,lazy,8,研究了半天怎么躺最舒服,Spent ages finding the comfiest lying position,none,0,,,normal
+lazy_006,lazy,8,对着墙发了一下午的呆,Stared at a wall all afternoon,none,0,,,normal
+lazy_007,lazy,8,把闭关变成了闭眼,Turned secluded cultivation into closed eyes,none,0,,,normal
+lazy_008,lazy,12,数了数院子里有几片落叶,Counted the fallen leaves in the yard,none,0,,,normal
+lazy_009,lazy,10,打着哈欠翻了翻功法,Yawned and flipped through the manual,none,0,,,normal
+lazy_010,lazy,8,决定今天就当作休息日,Declared today a rest day,none,0,,,normal
+lazy_011,lazy,8,躺平之后感觉天都蓝了,The sky looks bluer when you lie flat,qi,2,,,normal
+lazy_012,lazy,10,把扫地的活又拖了一天,Put off sweeping for another day,none,0,,,normal
+lazy_013,lazy,10,看蜘蛛织网看得入了迷,Got mesmerized watching a spider weave,none,0,,,normal
+lazy_014,lazy,8,假装在打坐其实在打盹,Pretended to meditate but actually napped,none,0,,,normal
+lazy_015,lazy,12,研究了一下午自己的手相,Read my own palm all afternoon,none,0,,,normal
+lazy_016,lazy,10,把功课藏起来眼不见为净,Hid my homework out of sight out of mind,none,0,,,normal
+lazy_017,lazy,10,躺着想了想人生的意义,Lay around pondering the meaning of life,qi,2,,,normal
+lazy_018,lazy,12,决定先吃点东西再开始懒,Ate first then got serious about slacking,none,0,,,normal
+lazy_019,lazy,10,看了好久窗外的麻雀,Watched the sparrows outside for ages,none,0,,,normal
+lazy_020,lazy,8,把伸懒腰当成了锻体,Counted a good stretch as body training,none,0,,,normal
+lazy_021,lazy,8,摸了一上午的鱼很有成就感,Slacked all morning and felt accomplished,none,0,,,normal
+lazy_022,lazy,10,决定把灵气攒着以后再用,Decided to save my qi for later,none,0,,,normal
+lazy_023,lazy,10,研究了下云朵像什么形状,Pondered what the clouds looked like,none,0,,,normal
+lazy_024,lazy,10,把书摊在脸上假装在看,Draped a book on my face pretending to read,qi,2,,,normal
+lazy_025,lazy,10,躺在草地上听虫子叫,Lay in the grass listening to insects,none,0,,,normal
+lazy_026,lazy,10,发呆发到忘了自己在发呆,Spaced out so hard I forgot I was spacing,none,0,,,normal
+lazy_027,lazy,8,把今天的修炼额度花在了睡觉,Spent today's cultivation quota on sleep,none,0,,,normal
+lazy_028,lazy,10,懒得动就用灵气挪了挪杯子,Too lazy to move so I nudged the cup with qi,none,0,,,normal
+lazy_029,lazy,10,研究了半天蜗牛爬多快,Timed how fast a snail crawls,qi,2,,,normal
+lazy_030,lazy,8,决定等灵感来了再修炼,Decided to wait for inspiration to cultivate,none,0,,,normal
+lazy_031,lazy,10,把闲着也是闲着发挥到极致,Mastered the art of doing nothing,none,0,,,normal
+lazy_032,lazy,10,看着香烧完才肯起身,Waited for the incense to burn out to move,none,0,,,normal
+lazy_033,lazy,10,躺着躺着就到中午了,Lay around until it was suddenly noon,none,0,,,normal
+lazy_034,lazy,10,把所有要做的事记下来然后不做,Listed all my chores then did none,none,0,,,normal
+lazy_035,lazy,10,研究怎么用最少力气喝水,Figured out the laziest way to drink water,none,0,,,normal
+lazy_036,lazy,8,决定先养精蓄锐三个时辰,Decided to conserve energy for six hours,qi,2,,,normal
+lazy_037,lazy,10,把摸鱼写进了今日修行计划,Put slacking on today's cultivation plan,none,0,,,normal
+lazy_038,lazy,10,数着房梁上的木纹打发时间,Counted the wood grain on the rafters,none,0,,,normal
+lazy_039,lazy,10,懒洋洋地晒着太阳眯眼睛,Squinted lazily in the warm sun,qi,4,,,normal
+lazy_040,lazy,12,把一颗瓜子嗑了半个时辰,Took an hour to crack one melon seed,none,0,,,normal
+lazy_041,lazy,12,研究自己的影子能拉多长,Tested how long my shadow could stretch,none,0,,,normal
+lazy_042,lazy,8,决定今天的目标是没有目标,Today's goal is to have no goals,none,0,,,normal
+lazy_043,lazy,10,看蚂蚁打架看得津津有味,Watched ants fight with great interest,none,0,,,normal
+lazy_044,lazy,10,把功法书当枕头睡了一觉,Used the manual as a pillow and napped,none,0,,,normal
+lazy_045,lazy,10,躺平时想到了一个借口,Came up with an excuse while lying down,none,0,,,normal
+lazy_046,lazy,8,研究了下怎么躺着也能修炼,Looked into cultivating while lying down,none,0,,,normal
+lazy_047,lazy,8,决定让灵气自己慢慢长,Decided to let my qi grow on its own,none,0,,,normal
+lazy_048,lazy,10,把发呆升级成了高级发呆,Upgraded spacing out to advanced spacing,qi,2,,,normal
+lazy_049,lazy,10,看云看到脖子都酸了,Watched clouds till my neck got sore,none,0,,,normal
+lazy_050,lazy,10,懒得起床干脆又睡了回去,Too lazy to rise so I went back to sleep,qi,3,,,normal
+lazy_051,lazy,10,把今天的雄心壮志推到明天,Pushed today's ambitions to tomorrow,qi,2,,,normal
+lazy_052,lazy,10,研究了一下午为什么天是蓝的,Wondered all day why the sky is blue,stone,1,,,normal
+lazy_053,lazy,10,决定先躺会儿酝酿一下情绪,Lay down a while to set the mood first,qi,2,,,normal
+lazy_054,lazy,10,把茶喝完了也懒得去添,Finished my tea too lazy to refill,none,0,,,normal
+lazy_055,lazy,10,看着沙漏一粒粒地漏,Watched the sand fall grain by grain,qi,3,,,normal
+lazy_056,lazy,8,懒散地哼着不成调的小曲,Hummed a tuneless little song,none,0,,,normal
+lazy_057,lazy,8,研究怎么不动就把扇子扇起来,Tried fanning myself without moving,none,0,,,normal
+lazy_058,lazy,10,决定把勤奋留给未来的自己,Left the diligence to my future self,qi,2,,,normal
+lazy_059,lazy,10,躺在阴凉处数自己的呼吸,Counted my breaths in the cool shade,qi,3,,,normal
+lazy_060,lazy,10,把闲适过成了一种修行,Turned idleness into a form of practice,none,0,,,normal
+lazy_061,lazy,10,看落叶飘下来接住了一片,Caught a falling leaf out of the air,none,0,,,normal
+lazy_062,lazy,10,懒得说话就用眼神交流,Too lazy to talk so I used my eyes,none,0,,,normal
+lazy_063,lazy,10,研究了下怎么把懒发挥成天赋,Tried turning laziness into a talent,qi,3,,,normal
+lazy_064,lazy,12,决定先打个盹再考虑努力,Decided to nap before considering effort,none,0,,,normal
+lazy_065,lazy,10,把今天的修炼留到来世再说,Saved today's cultivation for the next life,none,0,,,normal
+lazy_066,lazy,10,看着茶杯里的倒影出了神,Got lost in my reflection in the teacup,qi,2,,,normal
+lazy_067,lazy,10,懒洋洋地翻了个身继续躺,Rolled over lazily and kept lying down,none,0,,,normal
+lazy_068,lazy,12,研究怎么用脚趾捡东西,Practiced picking things up with my toes,none,0,,,normal
+lazy_069,lazy,10,决定把整个下午献给发呆,Devoted the whole afternoon to spacing out,none,0,,,normal
+lazy_070,lazy,8,把屋檐下的雨数了一遍,Counted the raindrops off the eaves,none,0,,,normal
+lazy_071,lazy,10,懒得磨墨干脆用手指写字,Too lazy to grind ink so I wrote with a finger,none,0,,,normal
+lazy_072,lazy,12,研究了一下午鞋带怎么打,Spent the day figuring out shoelaces,none,0,,,normal
+lazy_073,lazy,10,决定让明天的自己去操心,Left it for tomorrow me to worry about,none,0,,,normal
+lazy_074,lazy,8,把瞌睡当成了入定,Mistook drowsiness for deep trance,none,0,,,normal
+lazy_075,lazy,10,看着炊烟发了好一阵呆,Stared at the chimney smoke a long while,qi,3,,,normal
+lazy_076,lazy,8,懒散地把灵石抛着玩,Idly tossed a spirit stone up and down,none,0,,,normal
+lazy_077,lazy,10,研究怎么躺着把活干了,Looked into doing chores while lying down,none,0,,,normal
+lazy_078,lazy,12,决定先把这口气叹完再起床,Finished my sigh before getting up,none,0,,,normal
+lazy_079,lazy,10,把无所事事过得有滋有味,Made doing nothing thoroughly enjoyable,none,0,,,normal
+lazy_080,lazy,10,研究怎么把懒觉睡出境界,Tried to nap my way to enlightenment,none,0,,,normal
+sleep_001,sleep,12,梦见自己飞升结果摔下床,Dreamed of ascending then fell out of bed,none,0,,,normal
+sleep_002,sleep,10,睡得太香连打雷都没醒,Slept so soundly I missed the thunder,qi,2,,,normal
+sleep_003,sleep,8,梦里渡劫现实里流口水,Crossed a heavenly tribulation in dreams drooling in reality,none,0,,,normal
+sleep_004,sleep,10,抱着功法书睡了一整晚,Hugged the manual and slept all night,none,0,,,normal
+sleep_005,sleep,10,梦见二狗也来修仙了,Dreamed Ergou took up cultivation too,none,0,,,normal
+sleep_006,sleep,12,睡前数灵石数着数着睡着了,Counted spirit stones and drifted off,none,0,,,normal
+sleep_007,sleep,12,梦里吃了一桌仙宴醒来更饿,Feasted in a dream and woke up hungrier,qi,4,,,normal
+sleep_008,sleep,10,打了个盹梦见自己成仙了,Napped and dreamed I became immortal,qi,4,,,normal
+sleep_009,sleep,10,睡姿奇特像在打坐,Slept in a pose oddly like meditation,qi,3,,,normal
+sleep_010,sleep,10,梦见师父来考校功课吓醒了,Dreamed master quizzed me and woke in fright,none,0,,,normal
+sleep_011,sleep,10,被自己的呼噜声吵醒了,Woke myself up with my own snoring,qi,2,,,normal
+sleep_012,sleep,8,梦里飞来飞去醒来腰酸,Flew around in dreams woke up with a sore back,none,0,,,normal
+sleep_013,sleep,12,睡得四仰八叉占满了整张床,Sprawled across the whole bed asleep,none,0,,,normal
+sleep_014,sleep,8,梦见自己在云上盖了座房子,Dreamed of building a house on a cloud,none,0,,,normal
+sleep_015,sleep,10,睡到自然醒感觉神清气爽,Woke naturally feeling refreshed,none,0,,,normal
+sleep_016,sleep,12,梦里和仙鹤一起散步,Strolled with a crane in a dream,qi,3,,,normal
+sleep_017,sleep,10,打盹时头一点一点像在悟道,Nodded off looking like deep contemplation,none,0,,,normal
+sleep_018,sleep,8,梦见灵气多到用不完,Dreamed of endless spirit qi,qi,2,,,normal
+sleep_019,sleep,10,睡前听着雨声很快入眠,Fell asleep fast to the sound of rain,qi,2,,,normal
+sleep_020,sleep,12,梦见自己变成了一棵树,Dreamed I turned into a tree,qi,4,,,normal
+sleep_021,sleep,10,睡迷糊了把枕头当成了灵宝,Half-asleep I clutched my pillow like a treasure,none,0,,,normal
+sleep_022,sleep,12,梦里突破了醒来发现没有,Broke through in a dream but not for real,qi,2,,,normal
+sleep_023,sleep,12,打了个长长的哈欠又睡了,Yawned hugely and went back to sleep,none,0,,,normal
+sleep_024,sleep,10,梦见自己的洞府特别气派,Dreamed my cave dwelling was magnificent,qi,4,,,normal
+sleep_025,sleep,12,睡着睡着把被子蹬到了地上,Kicked the blanket to the floor in sleep,qi,3,,,normal
+sleep_026,sleep,12,梦里参悟了大道醒来全忘了,Grasped the Dao in a dream forgot it all,qi,4,,,normal
+sleep_027,sleep,12,抱着暖炉睡得格外踏实,Slept soundly hugging the warm stove,qi,4,,,normal
+sleep_028,sleep,10,梦见漫天星辰落进了怀里,Dreamed the stars fell into my arms,none,0,,,normal
+sleep_029,sleep,12,睡前发了会儿呆就睡熟了,Spaced out a bit then fell deep asleep,qi,3,,,normal
+sleep_030,sleep,10,梦里养了一只小灵兽,Raised a little spirit beast in a dream,none,0,,,normal
+sleep_031,sleep,10,睡得太沉错过了日出,Slept through the sunrise entirely,none,0,,,normal
+sleep_032,sleep,10,梦见自己在月亮上打坐,Dreamed of meditating on the moon,none,0,,,normal
+sleep_033,sleep,8,打盹时嘴角挂着微笑,Napped with a small smile on my face,none,0,,,normal
+sleep_034,sleep,10,梦里下了一场灵气雨,It rained spirit qi in my dream,none,0,,,normal
+sleep_035,sleep,10,睡前想着明天一定努力,Fell asleep vowing to work hard tomorrow,none,0,,,normal
+sleep_036,sleep,12,梦见故乡的小河和老屋,Dreamed of my hometown river and old house,qi,2,,,normal
+sleep_037,sleep,12,睡着后被一个好梦逗笑,Laughed in my sleep at a happy dream,none,0,,,normal
+sleep_038,sleep,10,梦里飞过了一整片云海,Flew over a whole sea of clouds in a dream,none,0,,,normal
+sleep_039,sleep,8,打盹打到夕阳西下,Napped clear through to sunset,qi,3,,,normal
+sleep_040,sleep,12,梦见自己终于不饿了,Dreamed I was finally not hungry,qi,4,,,normal
+sleep_041,sleep,10,睡得安稳像个没事的人,Slept peacefully without a care,none,0,,,normal
+sleep_042,sleep,12,梦里有人轻轻拍我的头,Someone gently patted my head in a dream,none,0,,,normal
+sleep_043,sleep,10,睡前把烦恼都交给了明天,Handed all my worries to tomorrow before bed,qi,3,,,normal
+sleep_044,sleep,10,梦见漫山遍野的灵草,Dreamed of spirit herbs covering the hills,none,0,,,normal
+sleep_045,sleep,8,打了个盹精神好了一大半,A short nap and I felt half-renewed,none,0,,,normal
+sleep_046,sleep,12,梦里听见了很温柔的歌声,Heard a gentle song in my dream,none,0,,,normal
+sleep_047,sleep,10,睡得香甜连梦都是甜的,Slept sweetly even my dreams were sweet,qi,3,,,normal
+sleep_048,sleep,8,梦见自己被一群灵兽围着玩,Dreamed of playing with a pack of spirit beasts,lifespan,1,,,normal
+sleep_049,sleep,8,睡前给自己盖好了被子,Tucked myself in before sleep,qi,4,,,normal
+sleep_050,sleep,12,梦里回到了刚开始修仙那天,Dreamed of the day I first began cultivating,none,0,,,normal
+alchemy_001,alchemy,12,炼丹炉炸了脸熏得漆黑,The pill furnace blew up blackening my face,none,0,3,,normal
+alchemy_002,alchemy,10,丹药炼成了但形状像番薯,Made a pill but it looked like a sweet potato,none,0,3,,normal
+alchemy_003,alchemy,10,守着丹炉守了一整夜,Watched over the furnace all night long,none,0,3,,normal
+alchemy_004,alchemy,12,第一次炼出了一锅灰,First attempt yielded a pot of ash,qi,4,3,,normal
+alchemy_005,alchemy,12,丹香飘出去引来了野猫,The pill aroma lured in a stray cat,none,0,3,,normal
+alchemy_006,alchemy,8,火候没掌握好丹废了,Botched the heat and ruined the batch,none,0,3,,normal
+alchemy_007,alchemy,8,终于炼出一颗圆滚滚的丹,Finally made one nice round pill,qi,5,3,,normal
+alchemy_008,alchemy,10,炼丹时灵草放多了苦得很,Used too many herbs and it turned bitter,stone,2,3,,normal
+alchemy_009,alchemy,8,丹炉里突然蹦出个丹,A pill suddenly popped out of the furnace,qi,5,3,,normal
+alchemy_010,alchemy,10,炼丹笔记记满了失败次数,My notes are full of failed attempts,qi,3,3,,normal
+alchemy_011,alchemy,10,调配药材调到眼花缭乱,Sorting herbs until my eyes blurred,stone,3,3,,normal
+alchemy_012,alchemy,12,炼出的丹掉地上找不到了,Dropped the pill and lost it on the floor,none,0,3,,normal
+alchemy_013,alchemy,10,丹炉的火苗跳起了舞,The furnace flames danced merrily,qi,5,3,,normal
+alchemy_014,alchemy,10,尝了口失败丹拉了一下午,Tasted a failed pill and paid for it all day,qi,4,3,,normal
+alchemy_015,alchemy,8,终于摸到了一点炼丹门道,Finally got a feel for alchemy,none,0,3,,normal
+alchemy_016,alchemy,10,炼丹时被烟呛得直咳嗽,Coughed hard from the alchemy smoke,qi,3,3,,normal
+alchemy_017,alchemy,8,把灵草晒成了干草,Dried the spirit herbs into plain hay,none,0,3,,normal
+alchemy_018,alchemy,12,丹成那刻高兴得跳了起来,Jumped for joy the moment the pill formed,stone,3,3,,normal
+alchemy_019,alchemy,10,炼丹炉的温度怎么都不对,The furnace temperature just won't behave,none,0,3,,normal
+alchemy_020,alchemy,10,研磨药材磨出了一身汗,Worked up a sweat grinding ingredients,none,0,3,,normal
+alchemy_021,alchemy,10,丹炉冒出了五颜六色的烟,The furnace puffed rainbow-colored smoke,none,0,3,,normal
+alchemy_022,alchemy,8,炼了半天才发现忘放主药,Realized too late I forgot the main herb,stone,3,3,,normal
+alchemy_023,alchemy,8,丹药炼小了像颗芝麻,The pill came out tiny like a sesame seed,qi,5,3,,normal
+alchemy_024,alchemy,12,守炉时打盹差点烧过头,Dozed at the furnace and nearly overcooked it,none,0,3,,normal
+alchemy_025,alchemy,10,炼丹成功奖励自己歇一天,Made a pill and rewarded myself a day off,qi,3,3,,normal
+alchemy_026,alchemy,12,药香太浓自己先醉了,The herb scent was so strong I got dizzy,none,0,3,,normal
+alchemy_027,alchemy,12,把炉灰扫了好半天,Spent ages sweeping out the furnace ash,stone,1,3,,normal
+alchemy_028,alchemy,12,炼出的丹滚到了桌子底下,The finished pill rolled under the table,stone,3,3,,normal
+alchemy_029,alchemy,10,第一次控火控得有模有样,Controlled the flame decently for once,qi,4,3,,normal
+alchemy_030,alchemy,10,丹炉发出咕嘟咕嘟的声音,The furnace gurgled away contentedly,qi,5,3,,normal
+alchemy_031,alchemy,12,把炼废的丹串成了项链,Strung the failed pills into a necklace,qi,5,3,,normal
+alchemy_032,alchemy,10,炼丹时哼着小曲很惬意,Hummed a tune while brewing quite content,qi,5,3,,normal
+alchemy_033,alchemy,10,终于炼出了不苦的丹,Finally made a pill that wasn't bitter,none,0,3,,normal
+alchemy_034,alchemy,10,药材配比试了无数次,Tried the herb ratios countless times,stone,1,3,,normal
+alchemy_035,alchemy,12,丹炉旁边暖暖的很舒服,It was cozy and warm beside the furnace,stone,1,3,,normal
+alchemy_036,alchemy,12,炼丹炼到忘了时辰,Lost all track of time at the furnace,qi,5,3,,normal
+alchemy_037,alchemy,12,把一炉好丹分给了邻居,Shared a good batch with the neighbors,none,0,3,,normal
+alchemy_038,alchemy,12,炼丹时回想起师父的叮嘱,Recalled master's advice while brewing,stone,1,3,,normal
+alchemy_039,alchemy,10,丹成时窗外正好放晴,The sky cleared just as the pill formed,none,0,3,,normal
+alchemy_040,alchemy,10,第一次闻到了真正的丹香,Smelled a truly fragrant pill for the first time,none,0,3,,normal
+alchemy_041,alchemy,10,把炼丹当成了一种乐趣,Came to enjoy alchemy for its own sake,qi,5,3,,normal
+alchemy_042,alchemy,12,丹炉炸了但人没事笑了笑,The furnace burst but I was fine and just laughed,none,0,3,,normal
+alchemy_043,alchemy,12,研究药性研究到入了迷,Got absorbed studying herbal properties,qi,3,5,,normal
+alchemy_044,alchemy,12,炼出的丹太硬咬不动,The pill came out too hard to bite,qi,4,3,,normal
+alchemy_045,alchemy,10,守着小火慢慢炼很解压,Tending a low flame slowly was relaxing,qi,3,3,,normal
+alchemy_046,alchemy,10,丹药终于有了点光泽,The pills finally have a faint sheen,none,0,5,,normal
+alchemy_047,alchemy,10,把失败的经验记了满满一页,Filled a page with lessons from failure,none,0,5,,normal
+alchemy_048,alchemy,10,炼丹时灵草的香气很治愈,The herb fragrance was soothing while brewing,qi,5,3,,normal
+alchemy_049,alchemy,10,丹炉旁打了个温暖的盹,Took a warm nap beside the furnace,none,0,5,,normal
+alchemy_050,alchemy,12,终于敢把丹给别人尝了,Finally brave enough to let others taste my pills,none,0,3,,normal
+workout_001,workout,10,扎马步扎到腿打颤,Held a horse stance till my legs trembled,none,0,,,normal
+workout_002,workout,10,举石锁举得龇牙咧嘴,Lifted the stone lock grimacing all the way,none,0,,,normal
+workout_003,workout,10,跑山路跑得气喘吁吁,Ran the mountain trail panting hard,none,0,,,normal
+workout_004,workout,12,打了五百遍同一个拳法,Threw the same punch five hundred times,none,0,,,normal
+workout_005,workout,10,锻体锻到第二天起不来床,Trained so hard I couldn't get up next day,none,0,,,normal
+workout_006,workout,10,对着木人桩练到手发麻,Hit the wooden dummy till my hands went numb,stone,1,,,normal
+workout_007,workout,10,举着水桶站桩站了半天,Stood holding water buckets for ages,none,0,,,normal
+workout_008,workout,8,练完功大汗淋漓很痛快,Drenched in sweat after training felt great,none,0,,,normal
+workout_009,workout,10,劈柴当作了今天的锻体,Counted chopping wood as today's workout,qi,3,,,normal
+workout_010,workout,8,拉伸时听见骨头咔咔响,My joints cracked loudly during stretches,none,0,,,normal
+workout_011,workout,10,背着石头爬了半座山,Carried rocks half way up the mountain,qi,6,,,normal
+workout_012,workout,8,练拳时一拳打偏了打到树,Missed a punch and hit a tree instead,qi,5,,,normal
+workout_013,workout,10,做俯卧撑做到手软,Did push-ups until my arms gave out,qi,6,,,normal
+workout_014,workout,10,终于能轻松扛起那块大石,Can finally lift that big rock with ease,qi,5,,,normal
+workout_015,workout,8,晨跑时遇见了打太极的老人,Met an old man doing tai chi on my run,none,0,,,normal
+workout_016,workout,12,锻体之后胃口好得吓人,My appetite is huge after a workout,none,0,,,normal
+workout_017,workout,8,练功练得衣服都湿透了,Trained until my clothes were soaked through,none,0,,,normal
+workout_018,workout,8,举重物时喊出了声,Let out a grunt lifting something heavy,none,0,,,normal
+workout_019,workout,8,把锻体当成了发泄的方式,Used training to blow off steam,qi,6,,,normal
+workout_020,workout,10,练完拉伸整个人轻松了,Felt light all over after stretching,none,0,,,normal
+workout_021,workout,10,跳起来想摸高结果摔了,Jumped to touch a branch and fell,none,0,,,normal
+workout_022,workout,12,练腿练到走路像螃蟹,My legs are so sore I walk like a crab,none,0,,,normal
+workout_023,workout,10,扛着同伴练负重深蹲,Did weighted squats carrying a friend,qi,6,,,normal
+workout_024,workout,12,打沙袋打出了节奏感,Found a rhythm hitting the sandbag,qi,5,,,normal
+workout_025,workout,12,锻体时被自己的力气吓到,Surprised myself with my own strength,qi,5,,,normal
+workout_026,workout,8,练功间隙喝了一大碗水,Gulped a huge bowl of water mid-workout,none,0,,,normal
+workout_027,workout,8,徒手掰弯了一根细铁条,Bent a thin iron rod with bare hands,qi,6,,,normal
+workout_028,workout,10,站桩时蚊子叮也不敢动,Held my stance even as mosquitoes bit,qi,3,,,normal
+workout_029,workout,8,练完功躺在地上看天,Lay on the ground after training watching the sky,none,0,,,normal
+workout_030,workout,10,把搬米也算进了锻体计划,Counted hauling rice as part of training,none,0,,,normal
+workout_031,workout,8,练拳练出了风声,My punches started whistling through the air,qi,3,,,normal
+workout_032,workout,12,拉伸时摸到了自己的脚尖,Finally touched my toes during a stretch,none,0,,,normal
+workout_033,workout,10,锻体后肌肉酸得很有成就感,Sore muscles but proud after a workout,none,0,,,normal
+workout_034,workout,10,跑步时被一条狗追了一段,A dog chased me partway through my run,none,0,,,normal
+workout_035,workout,8,举石锁举出了花样,Started showing off with the stone lock,qi,5,,,normal
+workout_036,workout,10,练功时哼着号子很带劲,Chanted a work song while training,qi,5,,,normal
+workout_037,workout,10,终于做到了一个标准的动作,Finally nailed one perfect form,none,0,,,normal
+workout_038,workout,10,锻体后泡了个热水澡很舒服,A hot bath after training felt wonderful,qi,5,,,normal
+workout_039,workout,10,练得太猛拉伤了一点点,Pushed too hard and pulled something slightly,none,0,,,normal
+workout_040,workout,10,把今天的力气全用光了,Used up every bit of strength today,qi,6,,,normal
+special_001,workout,2,偶然踩上木剑乱飞一圈，竟有几分御剑天赋,Accidentally rode a wooden sword in circles and showed a hint of sword-flight talent,qi,18,3,sword_fly_fail,important
+special_002,cultivate,2,成功御剑飞行片刻，落地后觉得自己已经半只脚成仙了,Successfully flew on a sword for a short while and felt half-immortal upon landing,qi,45,7,sword_fly,major
+special_003,cultivate,2,体内灵根忽然震动，周身灵气微微流转,A spiritual root suddenly resonated as spiritual energy swirled around the body,luck,5,5,root_awaken,major
+special_004,cultivate,3,福至心灵，当场顿悟，修炼速度都快了几分,"A sudden moment of enlightenment struck, making cultivation feel smoother",insight,10,3,dunwu,important
+special_005,cultivate,1,一夜顿悟，仿佛看见了天道在给自己点头,An overnight enlightenment felt like the heavens were nodding in approval,breakthrough_bonus,8,7,dunwu,major
+special_006,cultivate,2,突破时被雷轻轻劈了一下，头发先悟了道,A light bolt struck during breakthrough; the hair attained enlightenment first,insight,8,3,thunder_hit,important
+special_007,alchemy,2,炼丹时火候失控，小丹炉当场炸开,Alchemy control slipped and the small furnace exploded on the spot,lifespan,-2,5,alchemy_boom,important
+special_008,alchemy,1,刚夸自己手稳，下一秒丹炉炸得很有节奏,"Right after bragging about steady hands, the furnace exploded with rhythm",qi,30,7,alchemy_boom,major
+special_009,alchemy,3,吞下丹药后胃里翻江倒海，差点原地悟出肠胃经,"After swallowing a pill, the stomach churned wildly and nearly invented a digestive scripture",lifespan,-1,3,pill_backfire,important
+special_010,alchemy,2,丹药药力过猛，脸色一阵青一阵白,"The pill was too potent, turning the face several shades of green and pale white",insight,5,5,pill_backfire,important
+special_011,lazy,3,低头一看，竟在路边捡到几块灵石，开心得原地蹦了一下,"Looked down and found spirit stones by the roadside, causing a happy little hop",stone,3,,stone_found,important
+special_012,lazy,2,误打误撞发现小宝箱，里面竟真有好东西,"By pure luck, a small treasure chest was found and actually contained something valuable",stone,8,3,luck,important
+special_013,cultivate,1,林间偶遇灵兽，对方看了你一眼，像是在说有点前途,A spirit beast glanced over as if seeing some potential,luck,8,5,beast_encounter,major
+special_014,lazy,3,追着一只灵蝶跑了半天，结果心情意外地很好,Spent half the day chasing a spirit butterfly and ended up in a good mood,qi,8,,chase_butterfly,normal
+special_015,cultivate,2,今天突然想通了人生，虽然只想通了三秒,"Life suddenly made sense today, although only for about three seconds",insight,5,,dunwu,important
+special_016,cultivate,2,修炼时灵气绕体而行，气势一下像模像样起来,"During cultivation, spiritual energy circled the body and the aura suddenly looked impressive",qi,25,5,aura_burst,important
+special_017,cultivate,1,一瞬间灵光冲顶，仿佛差点就要原地小飞升,"A flash of inspiration surged upward, almost like a tiny ascension on the spot",breakthrough_bonus,10,7,ascend_small,major
+special_018,workout,3,走路时自己绊到自己，幸好没有被别人看见,Tripped over nothing while walking and fortunately nobody important saw it,none,0,,trip_fail,normal
+special_019,lazy,3,被人轻轻戳了一下，当场进入生气模式,Got lightly poked and instantly entered an offended state,none,0,,angry,normal
+special_020,lazy,4,偷懒半天后伸了个大懒腰，结果筋骨居然舒畅了不少,"After slacking off, one long stretch somehow improved the body",qi,6,,stretch_lazy,normal
+special_021,lazy,3,忽然想起自己还在修仙，于是开心地跳了一下继续努力,Suddenly remembered the goal of cultivation and gave a happy hop before continuing,qi,5,,happy,normal
+special_022,cultivate,2,体内似有一线灵机苏醒，离真正觉醒只差一步,"A trace of spiritual potential stirred within, one step from awakening",insight,6,5,root_awaken,important
+special_023,sleep,2,梦里御剑飞行三千里，醒来发现自己还在床上,"Flew three thousand miles by sword in a dream, then woke up still in bed",qi,10,3,sword_fly_fail,normal
+special_024,cultivate,1,风起时脚下小剑轻鸣，像是在催他出门装一下,"When the wind rose, the little sword hummed as if asking for a stylish flight",qi,35,7,sword_fly,important
+cultivate_081,cultivate,10,打坐时睡着了。,Fell asleep during meditation.,none,0,,,normal
+cultivate_082,cultivate,8,偷偷翘掉今天的修炼。,Skipped today's cultivation session.,none,0,,,normal
+cultivate_083,cultivate,8,认真修炼了一整天。,Trained diligently all day.,qi,10,,,normal
+lazy_081,lazy,7,在地上发现一块灵石。,Found a Spirit Stone on the ground.,stone,1,,,normal
+alchemy_051,alchemy,6,捡到别人掉落的丹药。,Found a dropped cultivation pill.,qi,10,,,normal
+lazy_082,lazy,10,对着天空发呆半小时。,Stared at the sky for half an hour.,none,0,,,normal
+cultivate_084,cultivate,8,冥想时流口水。,Drooled during meditation.,none,0,,,normal
+sleep_051,sleep,5,醒来发现只是做梦。,Woke up and realized it was a dream.,none,0,,,normal
+lazy_083,lazy,8,决定今天开始努力。,Decided to work harder today.,qi,5,,,normal
+alchemy_052,alchemy,4,炼丹炉炸了。,The alchemy furnace exploded.,qi,-5,,,normal
+alchemy_053,alchemy,3,炼丹炉又炸了。,The alchemy furnace exploded again.,qi,-5,,,normal
+alchemy_054,alchemy,2,炼丹炉第三次炸了。,The alchemy furnace exploded for the third time.,qi,-10,,,normal
+lazy_084,lazy,2,不小心把灵石当糖吃。,Mistook a Spirit Stone for candy.,qi,-5,,,normal
+lazy_085,lazy,2,试图教石头修仙。,Tried teaching a rock how to cultivate.,qi,5,,,normal
+lazy_086,lazy,2,对蚂蚁讲道。,Gave a lecture to an ant.,qi,5,,,normal
+lazy_087,lazy,2,被自己的影子吓到。,Got scared by his own shadow.,none,0,,,normal
+lazy_088,lazy,4,怀疑自己是天才。,Began believing he is a genius.,qi,10,,,normal
+lazy_089,lazy,4,怀疑自己是废物。,Began doubting his talent.,qi,-5,,,normal
+cultivate_085,cultivate,8,决定明天再修炼。,Decided to cultivate tomorrow instead.,none,0,,,normal
+lazy_090,lazy,6,找到2枚灵石。,Found 2 Spirit Stones.,stone,2,,,normal
+lazy_091,lazy,3,找到5枚灵石。,Found 5 Spirit Stones.,stone,5,,,normal
+lazy_092,lazy,4,丢失1枚灵石。,Lost a Spirit Stone.,stone,-1,,,normal
+lazy_093,lazy,2,灵石被老鼠偷走。,A mouse stole a Spirit Stone.,stone,-2,,,normal
+lazy_094,lazy,2,灵石藏在床底。,Hid Spirit Stones under the bed.,stone,1,,,normal
+lazy_095,lazy,3,忘记灵石放哪里。,Forgot where the Spirit Stones were hidden.,stone,-1,,,normal
+lazy_096,lazy,1,灵石意外增值。,Spirit Stones unexpectedly increased in value.,stone,3,,,normal
+lazy_097,lazy,1,灵石被骗子骗走。,Got scammed out of Spirit Stones.,stone,-3,,,normal
+lazy_098,lazy,2,用灵石买零食。,Bought snacks with Spirit Stones.,stone,-2,,,normal
+lazy_099,lazy,10,修为增加。,Cultivation increased.,qi,10,,,normal
+cultivate_086,cultivate,3,顿悟失败。,Failed to reach enlightenment.,qi,-5,,,normal
+lazy_100,lazy,2,气血翻涌。,Spiritual energy surged violently.,qi,-10,,,normal
+lazy_101,lazy,2,经脉通畅。,Meridians became clearer.,qi,15,,,normal
+lazy_102,lazy,2,经脉堵塞。,Meridians became blocked.,qi,-10,,,normal
+cultivate_087,cultivate,2,吸收到浓郁灵气。,Absorbed rich spiritual energy.,qi,20,,,normal
+cultivate_088,cultivate,2,灵气突然消散。,Spiritual energy suddenly dissipated.,qi,-10,,,normal
+cultivate_089,cultivate,1,修炼效率翻倍。,Cultivation efficiency doubled.,qi,25,,,normal
+lazy_103,lazy,2,今天状态极佳。,Felt exceptionally focused today.,qi,15,,,normal
+lazy_104,lazy,3,发现神秘洞穴,Discovered a mysterious cave,qi,5,,,normal
+lazy_105,lazy,2,洞穴空空如也,The cave was completely empty,none,0,,,normal
+lazy_106,lazy,1,发现宝箱,Found a treasure chest,stone,5,,,normal
+lazy_107,lazy,1,宝箱竟然是空的,The treasure chest was empty,none,0,,,normal
+alchemy_055,alchemy,3,偷偷吃聚气丹,Secretly ate a Qi Gathering Pill,qi,20,,,normal
+alchemy_056,alchemy,1,吃到过期丹药,Ate an expired pill,qi,-10,,,normal
+alchemy_057,alchemy,2,炼丹失败,Alchemy attempt failed,qi,-5,,,normal
+alchemy_058,alchemy,2,炼丹成功,Successfully refined a pill,qi,15,,,normal
+alchemy_059,alchemy,1,炼出奇怪丹药,Created a strange pill,qi,5,,,normal
+lazy_108,lazy,2,吃完肚子痛,Got a stomach ache after eating a pill,qi,-5,,,normal
+lazy_109,lazy,2,精神百倍,Felt full of energy,qi,10,,,normal
+lazy_110,lazy,1,吃完后傻笑一天,Spent the day laughing after taking a pill,qi,5,,,normal
+lazy_111,lazy,2,收到宗门邀请,Received an invitation from a sect,qi,10,,,normal
+lazy_112,lazy,1,被宗门拒绝,Rejected by a sect,qi,-5,,,normal
+lazy_113,lazy,1,受到长老表扬,Praised by an elder,qi,15,,,normal
+lazy_114,lazy,1,被长老训斥,Scolded by an elder,qi,-5,,,normal
+lazy_115,lazy,1,偷听长老谈话,Overheard a conversation between elders,qi,5,,,normal
+lazy_116,lazy,1,宗门举办大比,The sect announced a tournament,qi,5,,,normal
+lazy_117,lazy,1,报名参加大比,Registered for the sect tournament,qi,10,,,normal
+lazy_118,lazy,1,第一轮被淘汰,Eliminated in the first round,qi,-5,,,normal
+lazy_119,lazy,1,意外获得名次,Unexpectedly placed in the rankings,qi,20,,,normal
+lazy_120,lazy,1,赢得同门掌声,Received applause from fellow disciples,qi,5,,,normal
+lazy_121,lazy,2,遇见一位女修,Met a female cultivator,none,0,,,normal
+lazy_122,lazy,2,遇见一位男修,Met a male cultivator,none,0,,,normal
+lazy_123,lazy,1,对方没有理会他,The other cultivator ignored him,none,0,,,normal
+lazy_124,lazy,1,鼓起勇气搭话,Worked up the courage to start a conversation,qi,5,,,normal
+lazy_125,lazy,1,收到好人卡,Got friend-zoned,qi,-5,,,normal
+lazy_126,lazy,1,偷偷关注对方,Secretly kept an eye on someone,none,0,,,normal
+lazy_127,lazy,1,情书写失败了,Failed to write a love letter,none,0,,,normal
+lazy_128,lazy,1,情书成功送出,Successfully delivered a love letter,qi,10,,,normal
+lazy_129,lazy,1,春心萌动,Felt the stirrings of romance,none,0,,,normal
+lazy_130,lazy,1,收养了一只小狐狸,Adopted a little fox,none,0,,,normal
+alchemy_060,alchemy,1,狐狸偷吃丹药,The fox stole a pill,qi,-5,,,normal
+lazy_131,lazy,1,收养了一只灵龟,Adopted a spirit turtle,lifespan,1,,,normal
+lazy_132,lazy,1,灵龟失踪一天,The spirit turtle disappeared for a day,none,0,,,normal
+lazy_133,lazy,1,收养了一只灵鸟,Adopted a spirit bird,qi,5,,,normal
+lazy_134,lazy,1,灵兽找到宝物,The spirit beast found a treasure,qi,10,,,normal
+lazy_135,lazy,1,灵兽闯祸了,The spirit beast caused trouble,qi,-5,,,normal
+sleep_052,sleep,1,灵兽睡着了,The spirit beast fell asleep,none,0,,,normal
+lazy_136,lazy,1,灵兽心情很好,The spirit beast seemed happy,qi,5,,,normal
+lazy_137,lazy,1,灵兽带回灵石,The spirit beast brought back Spirit Stones,stone,5,,,normal
+lazy_138,lazy,1,寿元减少一年,Lost one year of lifespan,lifespan,-1,,,normal
+lazy_139,lazy,1,气运提升,Luck increased significantly,qi,10,,,normal
+lazy_140,lazy,1,仰望天空思考长生,Looked at the sky and pondered immortality,qi,10,,,normal

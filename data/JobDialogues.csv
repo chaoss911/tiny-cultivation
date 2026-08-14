@@ -1,0 +1,37 @@
+id,job_id,realm,zh,en,mood
+farmer_d1,farmer,凡人,"种地的时候我就明白，灵气和庄稼一样，急不得。","Back when I farmed, I learned qi grows like crops — you can't rush it.",normal
+farmer_d2,farmer,凡人,"这点苦算什么，当年锄地比这累多了。","This is nothing. Hoeing fields was far harder.",normal
+farmer_d3,farmer,凡人,"一分耕耘一分收获……大概吧。","You reap what you sow... probably.",happy
+farmer_d4,farmer,凡人,"修仙也是看天吃饭啊。","Cultivation's just farming under heaven's mood, really.",confused
+farmer_d5,farmer,凡人,"我闻得出今天的灵气够不够肥。","I can smell whether today's qi is rich enough.",meditate
+farmer_d6,farmer,凡人,"累了，歇会儿，地又跑不了。","Tired. Let me rest — the field's not going anywhere.",sleepy
+hunter_d1,hunter,凡人,"打猎教会我一件事：耐心的人最后吃肉。","Hunting taught me one thing — the patient one eats.",meditate
+hunter_d2,hunter,凡人,"灵气这东西，跟野兽一样，得蹲守。","Qi is like game. You stalk it, you wait.",normal
+hunter_d3,hunter,凡人,"我盯上的东西，从没跑掉过。","Nothing I've set my sights on has ever gotten away.",happy
+hunter_d4,hunter,凡人,"林子里最安静的时候，往往最危险。","It's quietest right before something pounces.",confused
+hunter_d5,hunter,凡人,"弓拉满了，就别犹豫。","Once the bow is drawn, don't hesitate.",workout
+hunter_d6,hunter,凡人,"嘘……别出声，我在感应。","Shh... quiet. I'm sensing something.",meditate
+scholar_d1,scholar,凡人,"书上说大道至简，可我怎么越修越糊涂？","The books say the Way is simple. So why am I more lost?",confused
+scholar_d2,scholar,凡人,"等我突破了，定要写一篇《修仙记》。","Once I break through, I'll write a treatise on all this.",happy
+scholar_d3,scholar,凡人,"之乎者也念多了，丹田都通顺了。","Recite enough classics and even your dantian flows smoother.",meditate
+scholar_d4,scholar,凡人,"寒窗十年，竟不如灵气一缕？","Ten years of study, worth less than a single wisp of qi?",confused
+scholar_d5,scholar,凡人,"圣人云，摸鱼亦是修行。这句是我编的。","'The sages say slacking is also cultivation.' ...I made that up.",lazy
+scholar_d6,scholar,凡人,"容我再翻翻典籍，答案一定在某页。","Let me check the texts — the answer's on some page.",normal
+merchant_d1,merchant,凡人,"修为是本钱，寿元是利息，可不能亏。","Cultivation's the capital, lifespan's the interest. Don't run a loss.",normal
+merchant_d2,merchant,凡人,"这灵石我数了三遍，一颗都不能少。","I've counted these spirit stones three times. Not one missing.",happy
+merchant_d3,merchant,凡人,"渡劫风险太高，性价比堪忧啊。","Tribulations are high-risk and poor value, frankly.",confused
+merchant_d4,merchant,凡人,"买丹要货比三家，懂？","Always shop around before buying pills, understand?",normal
+merchant_d5,merchant,凡人,"天上掉馅饼？我先看看有没有毒。","Free fortune from the sky? Let me check it isn't poisoned first.",confused
+merchant_d6,merchant,凡人,"谈成一笔好买卖，比突破还痛快。","Closing a good deal beats a breakthrough, honestly.",happy
+blacksmith_d1,blacksmith,凡人,"千锤百炼，铁是这样，人也是这样。","A thousand hammer-blows. Iron's forged that way — so are people.",workout
+blacksmith_d2,blacksmith,凡人,"我这身板，是火炉边烤出来的。","This build of mine? Forged beside the furnace.",happy
+blacksmith_d3,blacksmith,凡人,"火候不到，急也没用。","If the fire isn't right, rushing won't help.",meditate
+blacksmith_d4,blacksmith,凡人,"突破？不就是给筋骨再淬一次火。","A breakthrough? Just another quench for the bones.",normal
+blacksmith_d5,blacksmith,凡人,"手痒了，真想抡两下锤子。","My hands are itching to swing a hammer.",workout
+blacksmith_d6,blacksmith,凡人,"歇炉了，铁也得凉一凉。","Furnace is off. Even iron needs to cool.",sleepy
+unemployed_d1,unemployed,凡人,"上班是不可能上班的，修仙倒是可以躺着修。","Working? Never. Cultivating lying down? Sure.",lazy
+unemployed_d2,unemployed,凡人,"别人头悬梁锥刺股，我头一沾枕头就睡。","Others study till dawn. I'm asleep the second I lie down.",sleepy
+unemployed_d3,unemployed,凡人,"无业一身轻，修仙不打卡。","No job, no worries — cultivation doesn't clock you in.",happy
+unemployed_d4,unemployed,凡人,"我不是懒，我是在以静养气。","I'm not lazy. I'm nurturing qi through stillness.",meditate
+unemployed_d5,unemployed,凡人,"反正都要轮回，急啥呢。","We all reincarnate anyway. What's the rush?",lazy
+unemployed_d6,unemployed,凡人,"摸鱼一时爽，一直摸鱼一直爽。","Slacking feels great. Slacking forever feels greater.",happy

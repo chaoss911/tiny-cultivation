@@ -1,0 +1,624 @@
+id,chain_id,step,next_id,realm,title_zh,title_en,desc_zh,desc_en,mood,cultivation_gain,stone_gain,weight
+report_001,,1,,,捡到灵石,Found a Spirit Stone,路上踢到一块石头竟是灵石,Kicked a rock on the road — turned out to be a spirit stone,happy,0,5,10
+report_002,,1,,,邻居送菜,Neighbor's Greens,隔壁阿婆送来一篮青菜,The granny next door brought a basket of greens,happy,10,0,10
+report_003,,1,,武者,二狗炫耀,Ergou Brags,二狗又来炫耀他突破了,Ergou came by to brag about his breakthrough again,confused,0,0,8
+report_004,,1,,,下雨闭关,Rainy Seclusion,下雨天关在屋里修炼格外安静,A rainy day made for quiet indoor cultivation,meditate,15,0,9
+report_005,,1,,,灵田丰收,Spirit Field Harvest,自家灵田的灵米熟了,The spirit rice in your field has ripened,happy,0,8,8
+report_006,,1,,,偷得浮生半日闲,An Idle Afternoon,难得偷懒晒了半天太阳,A rare lazy afternoon spent in the sun,happy,5,0,10
+report_007,,1,,武者,炼丹小成,Alchemy Progress,今天炼出的丹药居然是圆的,Today's pill actually came out round,alchemy,0,3,9
+report_008,,1,,,夜观星象,Stargazing,夜里看星星看出了点感悟,Gained a little insight stargazing at night,meditate,12,0,9
+report_009,,1,,武者,灵兽来访,Spirit Beast Visit,一只小灵狐在门口蹭吃蹭喝,A little spirit fox came mooching at the door,happy,0,2,8
+report_010,,1,,武者,旧友来信,A Letter from an Old Friend,收到一封多年未见的同门来信,Got a letter from an old fellow disciple,normal,8,0,7
+report_011,,1,,,跌了一跤,Took a Tumble,赶路时摔了一跤悟了点平衡,Tripped on the road and learned some balance,confused,6,0,9
+report_012,,1,,,赶集,Market Day,下山赶集买了点日用,Went down to the market for supplies,normal,0,4,8
+report_013,,1,,,月下独酌,Drinking Alone Under the Moon,对着月亮喝了壶小酒,Had a jug of wine under the moon,happy,10,0,8
+report_014,,1,,,误食灵果,Ate a Spirit Fruit,随手吃了个野果竟是灵果,Casually ate a wild fruit — it was a spirit fruit,happy,20,0,7
+report_015,,1,,,帮人挑水,Helped Carry Water,帮村里老人挑了一天水,Spent the day carrying water for an elder,happy,8,2,8
+report_016,,1,,先天,丹成异象,Pill Omen,丹成时屋里飘起了淡淡金光,A faint golden glow filled the room as the pill formed,alchemy,0,10,6
+report_017,,1,,武者,力大无穷,Mighty Strength,一拳把练功的石碑打裂了,Cracked the training stele with one punch,happy,18,0,7
+report_018,,1,,,灵气复苏,Qi Resurgence,今早天地灵气格外充沛,The world's qi felt unusually abundant this morning,meditate,16,0,8
+report_019,,1,,武者,打扫洞府,Tidying the Cave,花了一天把洞府收拾干净,Spent a day tidying up the cave dwelling,normal,4,0,9
+report_020,,1,,,收徒未遂,Failed to Take a Student,想收个徒弟结果被嫌弃太菜,Tried to take a student but was deemed too weak,confused,0,0,7
+report_021,oldman,1,report_022,,遇见神秘老人,Met a Mysterious Old Man,一位老人坐在路边说与你有缘,An old man by the road said you share a fate,normal,5,0,6
+report_022,oldman,2,report_023,,老人考验,The Old Man's Test,老人让你帮他挑了三天柴,The old man had you chop wood for three days,confused,0,0,6
+report_023,oldman,3,,,老人传功,The Old Man's Gift,老人传你一篇心法后飘然离去,He passed you a technique and drifted away,happy,40,5,6
+report_024,egg,1,report_025,,捡到一颗蛋,Found an Egg,在草丛里捡到一颗温热的蛋,Found a warm egg in the grass,normal,0,0,6
+report_025,egg,2,report_026,,孵蛋中,Hatching the Egg,你把蛋揣在怀里暖了好几天,You kept the egg warm for days,happy,0,0,6
+report_026,egg,3,,武者,灵兽出壳,The Beast Hatches,蛋里钻出一只毛茸茸的小灵兽,A fluffy little spirit beast hatched out,happy,10,8,6
+report_027,trial,1,report_028,先天,乌云压顶,Gathering Storm,天边乌云翻涌似有雷劫,Dark clouds churned as if a tribulation neared,confused,0,0,5
+report_028,trial,2,,先天,有惊无险,A Close Call,雷劫只劈了棵树虚惊一场,The lightning hit a tree — a false alarm,happy,30,0,5
+report_029,,1,,,想家了,Homesick,夜里忽然想起了故乡的炊烟,Suddenly missed the chimney smoke of home tonight,normal,6,0,8
+report_030,,1,,,小狗依偎,A Dog's Company,一只流浪狗靠着你睡了一夜,A stray dog slept curled against you all night,happy,4,0,8
+report_031,,1,,,看花开,Watching Flowers Bloom,看着院里的花一朵朵开了,Watched the courtyard flowers bloom one by one,happy,8,0,8
+report_032,,1,,,教孩童识字,Teaching a Child,给村里娃娃教了一下午认字,Spent an afternoon teaching village kids to read,happy,5,2,8
+report_033,,1,,,雪夜围炉,Snowy Night by the Fire,下雪天围着炉子烤红薯,Roasted sweet potatoes by the fire on a snowy night,happy,6,0,8
+report_034,,1,,,锻体明心,"Train the Body, Clear the Mind",清晨对着院子打了一套拳法,Ran through a set of forms in the courtyard at dawn,workout,9,0,9
+report_035,,1,,,举石练力,Lifting Stones,搬了院里的大石头练力气,Hauled the big stone in the yard to build strength,workout,7,1,8
+report_036,,1,,武者,以拳会友,A Friendly Spar,和路过的武者切磋了几招,Traded a few blows with a passing martial artist,workout,14,0,7
+report_037,,1,,,晨跑入山,Morning Run Into the Hills,沿着山路跑了一个来回,Ran a loop along the mountain trail,workout,6,0,9
+report_038,,1,,,扎马步,Standing Stance Practice,蹲马步蹲到腿都在抖,Held a horse stance until the legs shook,workout,8,0,8
+report_039,,1,,,今日修仙日报,Today's Cultivation Report,"今日修炼3小时。
+发呆8小时。
+成果：无。","Cultivated for 3 hours.
+Stared into space for 8 hours.
+Result: nothing.",normal,2,0,8
+report_040,,1,,武者,今日修仙日报,Today's Cultivation Report,"今日尝试突破。
+结果：天道不同意。","Attempted a breakthrough today.
+Result: heaven's will said no.",confused,4,0,7
+report_041,,1,,武者,今日修仙日报,Today's Cultivation Report,"今日炼丹。
+炸炉一次。
+进步明显。","Tried alchemy today.
+Blew up the furnace once.
+Clear progress.",alchemy,2,1,6
+report_042,,1,,,今日修仙日报,Today's Cultivation Report,"今日睡觉12小时。
+修为毫无变化。
+符合预期。","Slept for 12 hours today.
+Cultivation: unchanged.
+As expected.",sleepy,10,0,6
+report_043,,1,,,今日修仙日报,Today's Cultivation Report,"今日感悟人生。
+感悟失败。","Tried to reflect on life today.
+The reflection failed.",confused,1,0,7
+report_044,,1,,,今日修仙日报,Today's Cultivation Report,"今日打坐入定。
+中途睡着。
+算是入定了。","Sat down to meditate today.
+Fell asleep halfway through.
+Technically still meditating.",sleepy,4,1,10
+report_045,,1,,,今日修仙日报,Today's Cultivation Report,"今日扎马步。
+腿抖到现在。
+疑似有效。","Practiced the horse stance today.
+Legs still shaking.
+Possibly working.",workout,1,1,7
+report_046,,1,,,今日修仙日报,Today's Cultivation Report,"今日研读功法。
+看了三页。
+睡着两页。","Studied a cultivation manual today.
+Read three pages.
+Slept through two of them.",confused,9,0,7
+report_047,,1,,,今日修仙日报,Today's Cultivation Report,"今日下山买菜。
+顺便修了个心。
+菜忘了买。","Went down the mountain for groceries.
+Did some soul-searching on the way.
+Forgot the groceries.",normal,8,2,8
+report_048,,1,,,今日修仙日报,Today's Cultivation Report,"今日观想天地。
+天地没理我。","Tried to commune with heaven and earth today.
+Heaven and earth ignored me.",confused,1,0,9
+report_049,,1,,,今日修仙日报,Today's Cultivation Report,"今日修炼五分钟。
+刷手机两小时。
+比例合理。","Cultivated for five minutes today.
+Scrolled my phone for two hours.
+Seems like a fair ratio.",lazy,6,0,7
+report_050,,1,,,今日修仙日报,Today's Cultivation Report,"今日闭关。
+闭着，没关。","Went into seclusion today.
+Eyes closed, door wasn't.",confused,4,0,6
+report_051,,1,,,今日修仙日报,Today's Cultivation Report,"今日挑战极限。
+极限没动，我先躺了。","Tried to push my limits today.
+The limits stayed put. I lay down first.",confused,2,0,6
+report_052,,1,,武者,今日修仙日报,Today's Cultivation Report,"今日参悟剑意。
+剑没动，我开始反思人生。","Tried to grasp sword intent today.
+The sword stayed still. I started questioning my life choices.",meditate,6,0,10
+report_053,,1,,,今日修仙日报,Today's Cultivation Report,"今日喝了一碗灵汤。
+味道一般，灵气没感觉到。","Drank a bowl of spirit soup today.
+Tasted average. Felt no qi whatsoever.",normal,5,0,9
+report_054,,1,,,今日修仙日报,Today's Cultivation Report,"今日练拳。
+拳头疼了，对手没找到。","Practiced boxing forms today.
+My fists hurt. Never found an opponent.",workout,9,0,9
+report_055,,1,,,今日修仙日报,Today's Cultivation Report,"今日数灵石。
+数到一半忘了数到哪。
+重新数。","Counted my spirit stones today.
+Lost count halfway through.
+Started over.",confused,2,1,8
+report_056,,1,,,今日修仙日报,Today's Cultivation Report,"今日修炼有成。
+成的是体重。","Made progress in cultivation today.
+The progress was in body weight.",confused,10,0,10
+report_057,,1,,武者,今日修仙日报,Today's Cultivation Report,"今日清扫洞府。
+灰尘没扫干净，先躺下了。","Cleaned the cave dwelling today.
+Didn't finish. Lay down instead.",lazy,4,0,6
+report_058,,1,,,今日修仙日报,Today's Cultivation Report,"今日望天发愁。
+愁的不是天道，是晚饭。","Stared at the sky and worried today.
+Wasn't worried about heaven's will. Worried about dinner.",normal,4,0,6
+report_059,,1,,,今日修仙日报,Today's Cultivation Report,"今日修炼内功。
+内功没涨，内耗倒是涨了。","Trained inner cultivation today.
+Inner strength didn't grow. Inner anxiety did.",confused,4,0,9
+report_060,,1,,,今日修仙日报,Today's Cultivation Report,"今日打坐感悟天机。
+天机未泄，腿先麻了。","Meditated to sense heaven's secrets today.
+Heaven kept its secrets. My legs fell asleep first.",confused,5,1,8
+report_061,,1,,,今日修仙日报,Today's Cultivation Report,"今日修炼如山。
+如山不动，我也不动。","Cultivated like a mountain today.
+The mountain didn't move. Neither did I.",lazy,3,0,8
+report_062,,1,,武者,今日修仙日报,Today's Cultivation Report,"今日想突破自我。
+自我没突破，午觉先突破了。","Tried to surpass myself today.
+Self stayed the same. The nap broke through instead.",sleepy,4,0,6
+report_063,,1,,先天,今日修仙日报,Today's Cultivation Report,"今日炼气有成。
+气没炼好，倒是攒了一肚子。","Worked on refining qi today.
+Qi didn't refine. Gas accumulated instead.",confused,10,0,10
+report_064,,1,,,今日修仙日报,Today's Cultivation Report,"今日苦修不辍。
+不辍的其实是发呆。","Cultivated tirelessly today.
+What was tireless was actually the staring into space.",lazy,4,0,9
+report_065,,1,,,今日修仙日报,Today's Cultivation Report,"今日参禅悟道。
+悟到中午该吃什么了。","Sat in zen contemplation today.
+Realized what to eat for lunch.",confused,7,0,10
+report_066,,1,,,今日修仙日报,Today's Cultivation Report,"今日修炼真气。
+真气没成，真累了。","Trained true qi today.
+True qi didn't form. True exhaustion did.",lazy,4,0,6
+report_067,,1,,,今日修仙日报,Today's Cultivation Report,"今日观星悟道。
+星星很亮，道理没懂。","Studied the stars for insight today.
+The stars were bright. The insight wasn't.",confused,4,0,8
+report_068,,1,,武者,今日修仙日报,Today's Cultivation Report,"今日修炼有所突破。
+突破的是今天的睡眠记录。","Made a breakthrough today.
+The breakthrough was in today's sleep record.",sleepy,7,0,6
+report_069,,1,,,今日修仙日报,Today's Cultivation Report,"今日苦练身法。
+身法没练成，先扭了腰。","Trained agility techniques today.
+Technique didn't form. Tweaked my back instead.",workout,4,2,8
+report_070,,1,,,今日修仙日报,Today's Cultivation Report,"今日推演功法。
+推演了一半，忘了下一步。","Worked through a technique manual today.
+Got halfway through, forgot the next step.",confused,4,1,9
+report_071,,1,,武者,今日修仙日报,Today's Cultivation Report,"今日炼丹有成。
+成的是一炉黑炭。","Made progress in alchemy today.
+The progress was a furnace full of charcoal.",alchemy,8,0,8
+report_072,,1,,,今日修仙日报,Today's Cultivation Report,"今日修炼，灵气稀薄。
+稀薄的其实是我的耐心。","Cultivated today, qi was thin.
+What was actually thin was my patience.",confused,3,0,10
+report_073,,1,,,今日修仙日报,Today's Cultivation Report,"今日打坐三个时辰。
+睡了两个半。","Meditated for three hours today.
+Slept through two and a half.",sleepy,9,0,10
+report_074,,1,,,今日修仙日报,Today's Cultivation Report,"今日苦思破境之法。
+想出了一个，但忘了。","Pondered ways to break through today.
+Came up with one. Then forgot it.",confused,7,2,9
+report_075,,1,,,今日修仙日报,Today's Cultivation Report,"今日修炼，进展神速。
+神速指的是睡着的速度。","Cultivation progressed rapidly today.
+Rapidly referred to how fast I fell asleep.",sleepy,6,0,7
+report_076,,1,,,今日修仙日报,Today's Cultivation Report,"今日炼体。
+体没炼成，倒是出了一身汗。","Trained the body today.
+Body didn't change. Sweated a lot though.",workout,9,1,6
+report_077,,1,,,今日修仙日报,Today's Cultivation Report,"今日修炼，心如止水。
+止水原因是真的没动。","Cultivated with a calm heart today.
+The calm was because nothing actually happened.",lazy,1,0,7
+report_078,,1,,武者,今日修仙日报,Today's Cultivation Report,"今日炼丹失败。
+但闻起来还挺香。","Alchemy attempt failed today.
+Smelled pretty good though.",alchemy,3,0,10
+report_079,,1,,,今日修仙日报,Today's Cultivation Report,"今日苦修，灵台清明。
+清明到忘了自己在修什么。","Cultivated with a clear mind today.
+So clear I forgot what I was cultivating.",confused,2,0,9
+report_080,,1,,,今日修仙日报,Today's Cultivation Report,"今日修炼一整天。
+一整天主要是吃饭和睡觉。","Cultivated all day today.
+Mostly consisted of eating and sleeping.",lazy,10,1,10
+report_081,,1,,,今日修仙日报,Today's Cultivation Report,"今日感悟天道。
+天道沉默，我自言自语。","Tried to commune with heaven's will today.
+Heaven stayed silent. I talked to myself instead.",confused,5,1,6
+report_082,,1,,,今日修仙日报,Today's Cultivation Report,"今日修炼颇有心得。
+心得是：明天再说。","Gained some insight while cultivating today.
+The insight was: I'll deal with it tomorrow.",lazy,2,1,8
+report_083,,1,,,今日修仙日报,Today's Cultivation Report,"今日修炼，灵感如泉涌。
+泉涌完就枯竭了。","Inspiration flowed like a spring today.
+Then the spring ran dry immediately.",confused,6,0,8
+report_084,,1,,,今日修仙日报,Today's Cultivation Report,"今日修炼，状态极佳。
+极佳到没起床。","Cultivation condition was excellent today.
+So excellent I never got out of bed.",lazy,7,0,9
+report_085,,1,,武者,今日修仙日报,Today's Cultivation Report,"今日观摩同门修炼。
+观摩完更想睡了。","Watched fellow disciples cultivate today.
+Watching made me want to nap more.",sleepy,1,0,10
+report_086,,1,,,今日修仙日报,Today's Cultivation Report,"今日苦修十二时辰。
+十二时辰里十一个在摆烂。","Cultivated for twelve hours today.
+Eleven of them were spent slacking off.",lazy,3,1,6
+report_087,,1,,武者,今日修仙日报,Today's Cultivation Report,"今日终有突破。
+突破的是今天摆烂的记录。","Finally had a breakthrough today.
+The breakthrough was today's new slacking record.",lazy,5,1,10
+report_088,,1,,,今日修仙日报,Today's Cultivation Report,"今日修炼，自我感觉良好。
+别人没什么感觉。","Felt good about my cultivation today.
+Nobody else noticed any difference.",confused,4,0,8
+report_089,,1,,,今日修仙日报,Today's Cultivation Report,"今日反思过去十年。
+结论：白活了。","Reflected on the past decade today.
+Conclusion: wasted.",confused,3,1,10
+report_090,,1,,,今日修仙日报,Today's Cultivation Report,"今日立志做个不一样的修士。
+明天还是老样子。","Vowed to be a different cultivator today.
+Tomorrow will be the same as always.",confused,1,2,8
+report_091,,1,,,今日修仙日报,Today's Cultivation Report,今日总结：活着，但没怎么活明白。,"Today's summary: alive, but not particularly enlightened.",meditate,8,0,6
+report_092,,1,,武者,今日修仙日报,Today's Cultivation Report,"今日突破失败。
+天道：意料之中。","Breakthrough failed today.
+Heaven's will: expected.",confused,6,0,7
+report_093,,1,,,今日修仙日报,Today's Cultivation Report,"今日反省。
+反省到一半睡着了。
+明天继续反省。","Did some self-reflection today.
+Fell asleep halfway through.
+Will continue tomorrow.",sleepy,1,0,10
+report_094,,1,,,今日修仙日报,Today's Cultivation Report,今日感悟：修仙路漫漫，摆烂路更长。,"Today's realization: the cultivation path is long, the slacking path is longer.",lazy,2,0,9
+report_095,,1,,,今日修仙日报,Today's Cultivation Report,"今日决定戒掉摆烂。
+然后摆烂了一整天。","Decided to quit slacking today.
+Then slacked off all day.",confused,2,1,7
+report_096,,1,,,今日修仙日报,Today's Cultivation Report,"今日明白了一个道理。
+但忘了是什么道理。","Understood an important truth today.
+Forgot what it was.",confused,3,1,10
+report_097,,1,,,今日修仙日报,Today's Cultivation Report,"今日重新审视人生。
+人生没什么变化。","Re-examined my life today.
+Life didn't change much.",meditate,3,0,10
+report_098,,1,,武者,今日修仙日报,Today's Cultivation Report,"今日突破失败，寿元减少。
+倒是没那么焦虑了。","Failed a breakthrough today, lost some lifespan.
+Strangely less anxious about it now.",meditate,10,0,7
+report_099,,1,,,今日修仙日报,Today's Cultivation Report,今日想通了一件事：修不修仙都得吃饭。,"Realized something important today: whether you cultivate or not, you still gotta eat.",normal,9,0,8
+report_100,,1,,,今日修仙日报,Today's Cultivation Report,"今日给自己定了个小目标。
+目标已经推到明天了。","Set a small goal for myself today.
+Already pushed it to tomorrow.",lazy,7,0,9
+report_101,,1,,,今日修仙日报,Today's Cultivation Report,今日修炼，悟出一个真理：努力不一定有用。,Cultivated today and grasped a truth: effort doesn't always work.,confused,9,1,6
+report_102,,1,,,今日修仙日报,Today's Cultivation Report,"今日想起了上一世。
+上一世好像也没干成什么事。","Recalled my previous life today.
+Don't think I accomplished much then either.",confused,4,0,6
+report_103,,1,,,今日修仙日报,Today's Cultivation Report,今日感悟：天道无情，但请假应该批的。,"Today's insight: heaven's will is merciless, but it should still approve my day off.",confused,6,0,10
+report_104,,1,,,今日修仙日报,Today's Cultivation Report,今日修炼，悟出长生不一定快乐。,Cultivated today and realized immortality isn't necessarily happiness.,meditate,9,0,10
+report_105,,1,,,今日修仙日报,Today's Cultivation Report,"今日反思：寿元没了才知道珍惜。
+但好像晚了。",Reflected today: only when lifespan runs low do you learn to cherish it. Bit late though.,meditate,4,0,6
+report_106,,1,,武者,今日修仙日报,Today's Cultivation Report,"今日决定不再纠结突破失败。
+明天还是会纠结。","Decided to stop dwelling on failed breakthroughs.
+Will probably dwell on it again tomorrow.",confused,1,0,6
+report_107,,1,,,今日修仙日报,Today's Cultivation Report,今日感悟：轮回这么多次，活明白的次数为零。,"Today's insight: this many reincarnations, zero times truly understood.",confused,1,0,6
+report_108,,1,,武者,今日修仙日报,Today's Cultivation Report,"今日修炼，忽然觉得人生没那么难。
+然后又突破失败了。","Cultivated today, suddenly felt life wasn't so hard.
+Then failed a breakthrough right after.",confused,9,0,8
+report_109,,1,,,今日修仙日报,Today's Cultivation Report,今日想了很多，决定了什么都不做。,"Thought about a lot today, decided to do nothing.",lazy,8,0,10
+report_110,,1,,武者,今日修仙日报,Today's Cultivation Report,今日感悟：人生苦短，丹药管饱。,"Today's insight: life is short, but pills are filling.",confused,3,2,10
+report_111,,1,,,今日修仙日报,Today's Cultivation Report,"今日修炼，想起了死去的上一世。
+然后接着摆烂。","Cultivated today, thought of my deceased past life.
+Then kept slacking off.",confused,8,0,9
+report_112,,1,,武者,今日修仙日报,Today's Cultivation Report,"今日终于想开了：不突破也能活。
+就是活得久一点而已。","Finally let it go today: you can live without breaking through.
+Just means living a bit longer, that's all.",meditate,7,0,6
+report_113,,1,,,今日修仙日报,Today's Cultivation Report,"今日决定坦然面对失败。
+然后哭了一下。","Decided to face failure calmly today.
+Then cried a little.",confused,2,0,8
+report_114,,1,,武者,今日修仙日报,Today's Cultivation Report,今日感悟：天劫劈下来那一刻，什么道理都没用。,"Today's insight: the moment tribulation strikes, none of the wisdom helps.",confused,7,0,9
+report_115,,1,,,今日修仙日报,Today's Cultivation Report,今日修炼，悟出修仙也是种打工。,Cultivated today and realized cultivation is just another job.,confused,1,0,6
+report_116,,1,,,今日修仙日报,Today's Cultivation Report,"今日决定看淡一切。
+然后为灵石的事又焦虑了。","Decided to let go of everything today.
+Then got anxious about spirit stones again.",confused,7,0,6
+report_117,,1,,,今日修仙日报,Today's Cultivation Report,今日感悟：摆烂久了，连天道都不来烦我了。,"Today's insight: after enough slacking, even heaven's will stopped bothering me.",lazy,4,0,7
+report_118,,1,,武者,今日修仙日报,Today's Cultivation Report,"今日反思：突破失败不可怕，可怕的是没尝试。
+但今天也没尝试。","Reflected today: failure isn't scary, not trying is. Didn't try today either.",confused,9,1,7
+report_119,,1,,,今日修仙日报,Today's Cultivation Report,"今日终于理解了什么叫心如止水。
+因为我真的什么都没做。","Finally understood what calm as still water means today.
+Because I genuinely did nothing.",lazy,7,0,8
+report_120,,1,,,今日修仙日报,Today's Cultivation Report,"今日修炼，想起自己已经死过好几次。
+还是没想明白活着图什么。","Cultivated today, remembered I've died several times.
+Still haven't figured out what living is for.",meditate,8,0,6
+report_121,,1,,,今日修仙日报,Today's Cultivation Report,"今日决定不内耗。
+内耗了一整天关于要不要内耗。","Decided not to overthink today.
+Spent the whole day overthinking whether to overthink.",confused,8,1,6
+report_122,,1,,,今日修仙日报,Today's Cultivation Report,今日感悟：修炼到最后，大家拼的都是心态。,"Today's insight: in the end, cultivation is really a battle of mindset.",meditate,1,1,6
+report_123,,1,,,今日修仙日报,Today's Cultivation Report,今日明白了：寿元和余额一样，越花越没有。,"Realized today: lifespan is like a bank balance, the more you spend, the less you have.",confused,2,0,7
+report_124,,1,,,今日修仙日报,Today's Cultivation Report,"今日修炼，想起小时候的梦想。
+现在已经不记得是什么梦想了。","Cultivated today, recalled a childhood dream.
+Can't remember what it was anymore.",meditate,7,1,9
+report_125,,1,,武者,今日修仙日报,Today's Cultivation Report,今日感悟：人这一生，至少要炸一次炉。,"Today's insight: in life, you should blow up at least one furnace.",alchemy,4,0,6
+report_126,,1,,,今日修仙日报,Today's Cultivation Report,今日想清楚了：摆烂和修炼，本质上是一种平衡。,"Figured it out today: slacking and cultivating are, in essence, a balance.",lazy,3,0,6
+report_127,,1,,武者,今日修仙日报,Today's Cultivation Report,"今日突破失败。
+但我已经不哭了，进步明显。","Failed a breakthrough today.
+But I didn't cry this time. Clear progress.",meditate,7,0,9
+report_128,,1,,,今日修仙日报,Today's Cultivation Report,今日感悟：所谓天道，可能也是临时工。,Today's insight: heaven's will might just be a temp worker too.,confused,5,0,10
+report_129,,1,,,今日修仙日报,Today's Cultivation Report,"今日决定原谅自己今天没修炼。
+明天大概也会原谅。","Decided to forgive myself for not cultivating today.
+Will probably forgive myself tomorrow too.",lazy,8,0,7
+report_130,,1,,,今日修仙日报,Today's Cultivation Report,"今日想到一句话：活着已经很不容易了。
+然后接着躺着。","Thought of a line today: just being alive is hard enough.
+Then kept lying down.",lazy,5,0,6
+report_131,,1,,武者,今日修仙日报,Today's Cultivation Report,今日感悟：突破失败的人，明天还是要吃饭的。,Today's insight: even those who fail breakthroughs still need to eat tomorrow.,normal,10,1,6
+report_132,,1,,,今日修仙日报,Today's Cultivation Report,"今日修炼，想起这是第N次转世。
+没数清具体是第几次。","Cultivated today, remembered this is reincarnation number N.
+Lost count of the exact number.",confused,6,0,6
+report_133,,1,,,今日修仙日报,Today's Cultivation Report,"今日决定不再跟自己较劲。
+较劲到现在还在较劲。","Decided to stop fighting myself today.
+Still fighting myself as of now.",confused,10,1,10
+report_134,,1,,,今日修仙日报,Today's Cultivation Report,今日感悟：寿元用完那天，希望我至少吃饱了。,"Today's insight: on the day my lifespan runs out, I hope at least I'm well-fed.",meditate,9,0,6
+report_135,,1,,,今日修仙日报,Today's Cultivation Report,"今日想通：修炼是为了活得久，摆烂是为了活得好。
+两者居然不矛盾。","Figured out today: cultivation is for living long, slacking is for living well. Turns out they're not contradictory.",lazy,9,0,7
+report_136,,1,,武者,今日修仙日报,Today's Cultivation Report,今日感悟：突破失败这么多次，已经有了抗体。,"Today's insight: failed so many breakthroughs, I've built up an immunity.",confused,2,2,6
+report_137,,1,,,今日修仙日报,Today's Cultivation Report,"今日决定坦然接受平庸。
+然后默默期待奇迹。","Decided to accept mediocrity calmly today.
+Then quietly hoped for a miracle anyway.",confused,4,0,6
+report_138,,1,,,今日修仙日报,Today's Cultivation Report,今日修炼，悟出一句话：活着，已经是种修行了。,Cultivated today and arrived at a thought: simply being alive is already a form of cultivation.,meditate,10,0,10
+report_139,,1,,武者,今日修仙日报,Today's Cultivation Report,今日想起：寿元短，但丹药管饱，勉强算公平。,"Recalled today: lifespan is short, but the pills are filling. Roughly fair, I guess.",confused,10,0,10
+report_140,,1,,武者,今日修仙日报,Today's Cultivation Report,"今日炼丹时走神。
+炼出来的不知道是丹还是石头。","Zoned out while making pills today.
+Not sure if what came out was a pill or a rock.",alchemy,2,0,10
+report_141,,1,,,今日修仙日报,Today's Cultivation Report,"今日打坐，邻居家鸡飞进了院子。
+打坐结束，鸡还在。","Meditated today. The neighbor's chicken flew into the yard.
+Meditation ended. The chicken stayed.",confused,10,1,8
+report_142,,1,,,今日修仙日报,Today's Cultivation Report,"今日修炼，走火入魔了一下。
+然后又走出来了。","Briefly slipped into a qi deviation today.
+Then slipped right back out.",confused,5,0,8
+report_143,,1,,武者,今日修仙日报,Today's Cultivation Report,"今日突破时打了个喷嚏。
+境界没涨，喷嚏挺响。","Sneezed during a breakthrough attempt today.
+Realm didn't rise. The sneeze was impressively loud.",confused,4,0,9
+report_144,,1,,,今日修仙日报,Today's Cultivation Report,"今日修炼，灵气突然消失了五秒。
+然后又回来了，没人能解释。","Qi vanished for five seconds today.
+Then it came back. Nobody can explain it.",confused,3,0,9
+report_145,,1,,,今日修仙日报,Today's Cultivation Report,"今日打坐，闻到隔壁炖肉的味道。
+修炼直接结束。","Meditated today, smelled stew from next door.
+Meditation ended immediately.",confused,6,0,6
+report_146,,1,,武者,今日修仙日报,Today's Cultivation Report,"今日炼丹，加错了一种材料。
+丹炉表示很意外。","Added the wrong ingredient during alchemy today.
+The furnace seemed genuinely surprised.",alchemy,8,2,10
+report_147,,1,,,今日修仙日报,Today's Cultivation Report,"今日修炼，灵根突然震了一下。
+事后查无原因。","Spiritual root suddenly trembled during cultivation today.
+No cause found afterward.",confused,2,0,10
+report_148,,1,,武者,今日修仙日报,Today's Cultivation Report,"今日突破，雷劫劈中了旁边的树。
+我毫发无伤，树没了。","Tribulation lightning struck the nearby tree during my breakthrough today.
+I'm unscathed. The tree isn't.",confused,4,1,8
+report_149,,1,,武者,今日修仙日报,Today's Cultivation Report,今日修炼，差点突破，被一只蝴蝶打断了。,"Almost broke through today, interrupted by a butterfly.",confused,3,0,6
+report_150,,1,,武者,今日修仙日报,Today's Cultivation Report,今日炼丹炸炉，炸出了隔壁的猫。,"Furnace exploded during alchemy today, somehow flushed out the neighbor's cat.",alchemy,4,0,8
+report_151,,1,,,今日修仙日报,Today's Cultivation Report,"今日打坐，灵气突然变得格外浓郁。
+浓郁了十秒，然后恢复正常。","Qi suddenly became unusually dense during meditation today.
+Lasted ten seconds, then back to normal.",confused,3,1,10
+report_152,,1,,武者,今日修仙日报,Today's Cultivation Report,"今日修炼，丹田发热，以为要突破。
+结果是吃多了上火。","Dantian felt hot today, thought I was about to break through.
+Turned out I just ate too much spicy food.",confused,5,2,10
+report_153,,1,,武者,今日修仙日报,Today's Cultivation Report,"今日炼丹，配方抄错了一行。
+炼出来的东西暂时无法命名。","Misread a line in the recipe during alchemy today.
+Whatever came out can't be named yet.",alchemy,1,1,8
+report_154,,1,,,今日修仙日报,Today's Cultivation Report,"今日修炼，感觉天地都在注视我。
+后来发现是只乌鸦。","Felt like heaven and earth were watching me today.
+Turned out it was just a crow.",confused,2,0,8
+report_155,,1,,,今日修仙日报,Today's Cultivation Report,"今日打坐，突然顿悟。
+顿悟内容是该剪指甲了。","Had a sudden epiphany while meditating today.
+The epiphany was that I need to cut my nails.",confused,2,0,10
+report_156,,1,,,今日修仙日报,Today's Cultivation Report,"今日修炼，灵气波动剧烈。
+后来发现是隔壁在放炮。","Qi fluctuated wildly during cultivation today.
+Turned out the neighbors were setting off firecrackers.",confused,3,0,8
+report_157,,1,,武者,今日修仙日报,Today's Cultivation Report,"今日炼丹，炉子莫名其妙自己灭了。
+原因不明，丹倒是没炸。","Furnace mysteriously went out on its own today.
+Cause unknown. At least the pill didn't explode.",alchemy,10,0,8
+report_158,,1,,,今日修仙日报,Today's Cultivation Report,"今日修炼，突然有种被注视的感觉。
+回头一看，是自己的影子。","Suddenly felt watched during cultivation today.
+Turned around — it was my own shadow.",confused,4,0,10
+report_159,,1,,,今日修仙日报,Today's Cultivation Report,"今日打坐，灵识忽然飘远了。
+飘到了隔壁村，看了会儿热闹。","Spiritual sense drifted far away during meditation today.
+Drifted to the next village, watched some drama unfold.",confused,8,0,6
+report_160,,1,,武者,今日修仙日报,Today's Cultivation Report,"今日突破，半路被一阵风吹倒了。
+风：不针对你。","Got knocked over by a gust of wind mid-breakthrough today.
+The wind: nothing personal.",confused,2,0,8
+report_161,,1,,,今日修仙日报,Today's Cultivation Report,"今日修炼，灵根突然有点抗拒。
+大概是不想上班。","Spiritual root seemed resistant during cultivation today.
+Probably just didn't want to work.",confused,1,0,8
+report_162,,1,,武者,今日修仙日报,Today's Cultivation Report,"今日炼丹，丹炉发出奇怪的声音。
+炉子：没事，习惯了。","Furnace made a strange noise during alchemy today.
+The furnace: nothing to worry about, used to it.",alchemy,3,0,7
+report_163,,1,,,今日修仙日报,Today's Cultivation Report,"今日修炼，体内真气突然走错了道。
+绕了一圈才回来，浪费了不少时间。","True qi took a wrong turn inside today.
+Took a detour before finding its way back. Wasted some time.",confused,8,1,9
+report_164,,1,,,今日修仙日报,Today's Cultivation Report,"今日打坐，听到天边传来一声闷雷。
+然后什么都没发生。","Heard distant thunder while meditating today.
+Then absolutely nothing happened.",confused,9,0,6
+report_165,,1,,,今日修仙日报,Today's Cultivation Report,"今日修炼，灵气浓度突然爆表。
+后来发现是闻到了别人炼的丹。","Qi density spiked unexpectedly during cultivation today.
+Turned out I just smelled someone else's pills.",confused,2,0,10
+report_166,,1,,武者,今日修仙日报,Today's Cultivation Report,"今日炼丹，材料放反了顺序。
+丹炉表示这操作很新颖。","Added ingredients in the wrong order during alchemy today.
+The furnace found this approach quite innovative.",alchemy,1,0,10
+report_167,,1,,,今日修仙日报,Today's Cultivation Report,"今日修炼，突然有所感应。
+感应到的是肚子饿了。","Had a sudden sense of something during cultivation today.
+The sense was hunger.",confused,9,0,9
+report_168,,1,,,今日修仙日报,Today's Cultivation Report,"今日打坐，灵台一片空明。
+空明到忘了自己在干什么。","Mind was completely clear during meditation today.
+So clear I forgot what I was doing.",confused,3,0,8
+report_169,,1,,,今日修仙日报,Today's Cultivation Report,"今日修炼，体内真气突然不听话。
+沟通失败，明天再谈。","True qi refused to cooperate during cultivation today.
+Negotiations failed. Will try again tomorrow.",confused,6,0,8
+report_170,,1,,,今日修仙日报,Today's Cultivation Report,"今日修炼，邻居问我境界。
+我说还在引气期。
+他没再问了。","Neighbor asked about my realm today.
+I said still Qi Drawing.
+He didn't ask again.",confused,4,0,6
+report_171,,1,,武者,今日修仙日报,Today's Cultivation Report,"今日同门炫耀突破了。
+我笑着祝贺，转身继续摆烂。","A fellow disciple bragged about breaking through today.
+I smiled and congratulated them, then kept slacking.",lazy,6,1,9
+report_172,,1,,,今日修仙日报,Today's Cultivation Report,"今日修炼，想象自己飞升的样子。
+然后继续坐在原地。","Imagined what ascension would feel like today.
+Then kept sitting right where I was.",confused,10,0,7
+report_173,,1,,,今日修仙日报,Today's Cultivation Report,"今日苦练，进步细微但存在。
+细微到肉眼不可见。","Trained hard today, progress was small but present.
+So small it's invisible to the naked eye.",confused,3,0,9
+report_174,,1,,武者,今日修仙日报,Today's Cultivation Report,"今日炼丹，丹药颜色有点奇怪。
+味道倒是出乎意料地正常。","Pill color came out a bit strange today.
+Taste was surprisingly normal though.",alchemy,1,0,8
+report_175,,1,,,今日修仙日报,Today's Cultivation Report,"今日修炼，体力消耗巨大。
+主要消耗在挪了挪坐姿。","Cultivation drained a lot of energy today.
+Mostly from adjusting my sitting position.",lazy,7,0,8
+report_176,,1,,,今日修仙日报,Today's Cultivation Report,"今日决定早睡早起修炼。
+睡是真的，起没起来。","Decided to sleep early and rise early to cultivate today.
+The sleeping part happened. The rising part didn't.",sleepy,3,0,9
+report_177,,1,,,今日修仙日报,Today's Cultivation Report,"今日修炼有了灵感。
+灵感是关于晚饭吃什么。","Had a flash of inspiration during cultivation today.
+The inspiration was about what to eat for dinner.",confused,1,1,7
+report_178,,1,,,今日修仙日报,Today's Cultivation Report,"今日修炼，体内灵气似乎多了一丝。
+但也可能是错觉。","Felt like there was a bit more qi inside today.
+Could also just be an illusion.",confused,4,1,8
+report_179,,1,,,今日修仙日报,Today's Cultivation Report,"今日打坐悟道，终有所成。
+所成的是腰酸。","Meditated on the Dao today, finally achieved something.
+That something was a sore back.",confused,5,0,7
+report_180,,1,,,今日修仙日报,Today's Cultivation Report,"今日扎马步两个时辰。
+腿到现在还在抗议。","Held the horse stance for two hours today.
+My legs are still filing complaints.",workout,1,0,9
+report_181,,1,,,今日修仙日报,Today's Cultivation Report,"今日修炼，灵气感应略有进步。
+进步幅度堪比蚂蚁爬行。","Qi sensitivity improved slightly today.
+The improvement was roughly the speed of an ant.",confused,6,0,6
+report_182,,1,,武者,今日修仙日报,Today's Cultivation Report,"今日炼丹，火候掌握得恰到好处。
+唯一问题是材料放错了。","Got the flame timing perfect during alchemy today.
+Only issue: wrong ingredients.",alchemy,5,0,10
+report_183,,1,,,今日修仙日报,Today's Cultivation Report,"今日修炼，想起自己当年的修炼目标。
+目标已经模糊得快不记得了。","Recalled my original cultivation goal today.
+It's grown so blurry I can barely remember it.",confused,7,1,8
+report_184,,1,,,今日修仙日报,Today's Cultivation Report,"今日修炼，灵根有反应。
+反应是打了个哈欠。","Spiritual root reacted to cultivation today.
+The reaction was a yawn.",sleepy,1,0,8
+report_185,,1,,,今日修仙日报,Today's Cultivation Report,"今日苦修，悟出修炼贵在坚持。
+然后坚持着躺下了。","Cultivated hard today, realized persistence is key.
+Then persisted in lying down.",lazy,3,2,8
+report_186,,1,,,今日修仙日报,Today's Cultivation Report,"今日修炼，体内真气运转流畅。
+流畅到差点睡着。","Qi circulation flowed smoothly today.
+So smoothly I nearly fell asleep.",sleepy,1,0,10
+report_187,,1,,武者,今日修仙日报,Today's Cultivation Report,"今日炼丹，丹药出炉，颜值在线。
+功效未知，先摆着看。","Pill came out of the furnace looking decent today.
+Effects unknown. Just admiring it for now.",alchemy,7,0,8
+report_188,,1,,,今日修仙日报,Today's Cultivation Report,"今日修炼，差点开窍。
+然后又关上了。","Almost had a breakthrough in understanding today.
+Then closed right back up.",confused,7,2,10
+report_189,,1,,,今日修仙日报,Today's Cultivation Report,"今日修炼，体内真气安静得出奇。
+大概是也累了。","Qi inside was unusually quiet today.
+Probably also tired.",lazy,2,0,10
+report_190,,1,,,今日修仙日报,Today's Cultivation Report,"今日苦练身法，摔了三次。
+第四次决定放弃。","Trained agility today, fell three times.
+Gave up on the fourth attempt.",workout,4,0,6
+report_191,,1,,武者,今日修仙日报,Today's Cultivation Report,"今日炼丹，闻起来很有信心。
+炼出来后信心崩塌。","Smelled confident during alchemy today.
+Confidence collapsed once it finished.",alchemy,7,0,10
+report_192,,1,,,今日修仙日报,Today's Cultivation Report,"今日修炼，思路异常清晰。
+清晰到想起了所有没做完的事。","Mind was unusually clear during cultivation today.
+So clear I remembered everything left unfinished.",confused,9,0,8
+report_193,,1,,,今日修仙日报,Today's Cultivation Report,"今日打坐，外面下雨，氛围感十足。
+氛围有了，修为没动。","Meditated in the rain today, great atmosphere.
+Atmosphere: achieved. Cultivation: unchanged.",meditate,7,0,8
+report_194,,1,,,今日修仙日报,Today's Cultivation Report,"今日修炼，灵气吸收效率提升。
+提升到能看见，但量不大。","Qi absorption efficiency improved today.
+Improvement was visible, but not by much.",confused,10,0,6
+report_195,,1,,,今日修仙日报,Today's Cultivation Report,"今日苦修，悟出一个道理：修炼急不来。
+然后还是急了。","Cultivated hard today, realized you can't rush it.
+Got impatient anyway.",confused,5,1,8
+report_196,,1,,,今日修仙日报,Today's Cultivation Report,"今日修炼，灵根有了新的反馈。
+反馈内容是今天不想干。","Spiritual root gave new feedback today.
+The feedback was don't feel like it today.",lazy,7,0,9
+report_197,,1,,武者,今日修仙日报,Today's Cultivation Report,"今日炼丹，新配方初次尝试。
+效果存疑，但没炸。","Tried a new recipe in alchemy today.
+Effects questionable, but at least it didn't explode.",alchemy,5,1,7
+report_198,,1,,,今日修仙日报,Today's Cultivation Report,"今日修炼，灵气似乎对我有点意见。
+具体意见不明。","Qi seemed to have some complaints about me today.
+Specifics unclear.",confused,4,0,9
+report_199,,1,,,今日修仙日报,Today's Cultivation Report,"今日苦修一整天，进步看不见。
+但至少汗流了不少。","Cultivated hard all day today, no visible progress.
+At least sweated a lot.",workout,3,2,10
+report_200,,1,,,今日修仙日报,Today's Cultivation Report,"今日修炼，体内真气似乎更听话了。
+大概是终于妥协了。","Qi seemed more obedient today.
+Probably finally gave in.",confused,5,0,10
+report_201,,1,,,今日修仙日报,Today's Cultivation Report,"今日打坐，灵台澄澈。
+澄澈到能看见自己有多无聊。","Mind felt crystal clear during meditation today.
+So clear I could see how boring I am.",confused,1,0,8
+report_202,,1,,武者,今日修仙日报,Today's Cultivation Report,"今日炼丹，材料新鲜，丹炉给力。
+炼出来的丹，颜色有点黑。","Fresh ingredients today, furnace performed well.
+Pill came out a bit black though.",alchemy,4,0,10
+report_203,,1,,,今日修仙日报,Today's Cultivation Report,"今日修炼，灵气浓度正常。
+正常到让人怀疑是不是在修炼。","Qi density was normal today.
+So normal it's questionable whether anything happened at all.",confused,10,0,9
+report_204,,1,,,今日修仙日报,Today's Cultivation Report,"今日苦练，肌肉有了反馈。
+反馈是酸痛。","Muscles gave feedback after training today.
+The feedback was soreness.",workout,8,1,7
+report_205,,1,,,今日修仙日报,Today's Cultivation Report,今日修炼，悟出一个细节，但记不清是什么。,"Grasped a small detail while cultivating today, but can't recall what it was.",confused,9,1,7
+report_206,,1,,武者,今日修仙日报,Today's Cultivation Report,"今日炼丹，配方背得很熟。
+执行的时候全忘了。","Memorized the recipe well today.
+Forgot it all once it was time to act.",alchemy,2,0,10
+report_207,,1,,,今日修仙日报,Today's Cultivation Report,"今日修炼，灵气波动平稳。
+平稳到怀疑是不是没在运转。","Qi fluctuated steadily today.
+So steady it's unclear if anything's actually moving.",confused,10,0,6
+report_208,,1,,,今日修仙日报,Today's Cultivation Report,"今日苦修，体力消耗适中。
+主要消耗在叹气上。","Moderate energy spent on cultivation today.
+Mostly spent on sighing.",confused,4,0,7
+report_209,,1,,,今日修仙日报,Today's Cultivation Report,"今日修炼，状态时好时坏。
+大部分时间是坏的。","Condition fluctuated during cultivation today.
+Mostly bad though.",confused,4,0,6
+report_210,,1,,武者,今日修仙日报,Today's Cultivation Report,"今日炼丹，新手操作，全程紧张。
+结果出乎意料地稳。","Felt nervous through the whole alchemy process today as a novice.
+Result turned out surprisingly stable.",alchemy,1,0,9
+report_211,,1,,,今日修仙日报,Today's Cultivation Report,"今日修炼，灵气吸收顺畅。
+顺畅得让我有点不安。","Qi absorption went smoothly today.
+So smoothly it's a little unsettling.",confused,10,0,9
+report_212,,1,,,今日修仙日报,Today's Cultivation Report,"今日苦修，悟出修炼如登山。
+然后坐在山脚下不动了。","Cultivated today and realized it's like climbing a mountain.
+Then sat at the base and didn't move.",lazy,7,2,7
+report_213,,1,,,今日修仙日报,Today's Cultivation Report,"今日修炼，灵根震动幅度增大。
+大概是吓的。","Spiritual root trembled more violently today.
+Probably out of fright.",confused,7,1,9
+report_214,,1,,武者,今日修仙日报,Today's Cultivation Report,"今日炼丹，火候掐得正好。
+材料过期了，白忙活。","Got the flame timing just right during alchemy today.
+Ingredients were expired. All for nothing.",alchemy,4,0,6
+report_215,,1,,,今日修仙日报,Today's Cultivation Report,"今日修炼，悟性似乎有所提升。
+提升幅度等于没提升。","Comprehension seemed to improve today.
+The improvement was roughly equal to no improvement.",confused,2,0,7
+report_216,,1,,,今日修仙日报,Today's Cultivation Report,"今日苦修，毅力值爆表。
+毅力用在了坚持不起床上。","Willpower was off the charts today.
+Used entirely on refusing to get out of bed.",lazy,3,1,9
+report_217,,1,,,今日修仙日报,Today's Cultivation Report,"今日修炼，灵气似乎更亲近了。
+亲近到差点把我撞倒。","Qi seemed to grow closer to me today.
+So close it nearly knocked me over.",confused,1,1,7
+report_218,,1,,武者,今日修仙日报,Today's Cultivation Report,"今日炼丹，全程顺利。
+顺利到结束后才发现忘了点火。","Alchemy went smoothly the whole way today.
+So smoothly I realized only afterward I forgot to light the furnace.",alchemy,2,1,7
+report_219,,1,,,今日修仙日报,Today's Cultivation Report,今日修炼，悟出一句箴言：修炼如做饭，火大了就糊。,"Cultivated today and grasped a maxim: cultivation is like cooking, too much heat and it burns.",confused,8,1,10
+report_220,,1,,,今日修仙日报,Today's Cultivation Report,"今日苦修，效率出奇地高。
+高到自己都不敢信。","Efficiency was surprisingly high today.
+So high I don't even believe it myself.",confused,10,0,9
+report_221,,1,,,今日修仙日报,Today's Cultivation Report,"今日修炼，灵气有所回应。
+回应内容暂时无法解读。","Qi responded to my cultivation today.
+The response is currently undecipherable.",confused,10,1,9
+report_222,,1,,武者,今日修仙日报,Today's Cultivation Report,"今日炼丹，新工艺尝试成功。
+代价是炉子有点变形。","Tried a new alchemy technique successfully today.
+Cost: the furnace got slightly warped.",alchemy,9,1,7
+report_223,,1,,,今日修仙日报,Today's Cultivation Report,"今日修炼，进展平稳，毫无波澜。
+波澜倒是出现在午饭时间。","Progress was steady and uneventful today.
+The only drama happened at lunchtime.",normal,8,1,8
+report_224,,1,,,今日修仙日报,Today's Cultivation Report,"今日苦修，悟出一句话：天才在于坚持。
+然后没坚持下去。","Cultivated hard today, grasped a saying: genius lies in persistence.
+Then didn't persist.",confused,4,0,10
+report_225,,1,,,今日修仙日报,Today's Cultivation Report,"今日修炼，灵气感应到了某种召唤。
+召唤是晚饭的香气。","Sensed some kind of calling through the qi today.
+The calling was the smell of dinner.",confused,8,0,8
+report_226,,1,,武者,今日修仙日报,Today's Cultivation Report,"今日炼丹，灵感突发，临时改了配方。
+结果出乎所有人意料，包括我自己。","Sudden inspiration led to a last-minute recipe change today.
+Result surprised everyone, including myself.",alchemy,8,0,8
+report_227,,1,,,今日修仙日报,Today's Cultivation Report,"今日修炼，灵气有点不稳定。
+跟我心情挺像的。","Qi was a bit unstable today.
+Pretty similar to my mood, honestly.",confused,4,0,8
+report_228,,1,,,今日修仙日报,Today's Cultivation Report,"今日苦修，体悟到天道难测。
+但晚饭时间是可以预测的。","Cultivated hard today, realized heaven's will is unpredictable.
+Dinnertime, however, is very predictable.",normal,6,1,6
+report_229,,1,,,今日修仙日报,Today's Cultivation Report,"今日修炼，灵气波动突然剧烈。
+然后发现是自己打了个嗝。","Qi suddenly fluctuated wildly today.
+Then realized it was just me burping.",confused,3,0,7
+report_230,,1,,武者,今日修仙日报,Today's Cultivation Report,"今日炼丹，配方写错了一个字。
+丹药味道因此变得很特别。","Misspelled one character in the recipe today.
+The pill's flavor turned out quite unique as a result.",alchemy,7,0,7
+report_231,,1,,,今日修仙日报,Today's Cultivation Report,"今日修炼，灵气感应到危险。
+危险来源是自己没站稳。","Sensed danger through qi today.
+The danger was just me losing my balance.",confused,2,0,9
+report_232,,1,,,今日修仙日报,Today's Cultivation Report,"今日苦修，悟出一个真理：休息也是修炼的一部分。
+今天的真理特别多。","Cultivated today, realized rest is also part of cultivation.
+Today had an unusually high number of realizations.",lazy,6,1,9
+report_233,,1,,,今日修仙日报,Today's Cultivation Report,"今日修炼，灵气流转格外顺畅。
+大概是因为根本没怎么动。","Qi circulation flowed especially smoothly today.
+Probably because nothing really moved at all.",lazy,7,0,7
+report_234,,1,,武者,今日修仙日报,Today's Cultivation Report,"今日炼丹，新材料效果显著。
+显著到把炉子染成了奇怪的颜色。","New ingredient had a notable effect during alchemy today.
+Notable enough to dye the furnace a strange color.",alchemy,7,0,10
+report_235,,1,,,今日修仙日报,Today's Cultivation Report,"今日修炼，悟出修炼如人生，起起落落。
+今天主要是落。","Cultivated today, realized it's like life — full of ups and downs.
+Today was mostly downs.",confused,1,2,9
+report_236,,1,,,今日修仙日报,Today's Cultivation Report,"今日苦修，灵气吸收效果存疑。
+怀疑只是空气。","Qi absorption results were questionable today.
+Suspect it was just regular air.",confused,8,0,8
+report_237,,1,,,今日修仙日报,Today's Cultivation Report,"今日修炼，灵根传来一丝暖意。
+大概是太阳晒的。","Spiritual root gave off a hint of warmth today.
+Probably just from sitting in the sun.",confused,5,0,9
+report_238,,1,,武者,今日修仙日报,Today's Cultivation Report,"今日炼丹，全程小心谨慎。
+小心到最后忘了倒材料。","Was extremely careful through the alchemy process today.
+So careful I forgot to add the ingredients at the end.",alchemy,9,1,10
+alch_01_herb_found,chain_alchemy,1,alch_02_herb_study,,发现奇怪的草药,Found a Strange Herb,路边长着一株从没见过的草药，叶子的颜色不太对劲。,A strange herb grows by the roadside. The leaves are an unsettling color.,happy,10,0,40,,,,,,,,,,,,
+alch_02_herb_study,chain_alchemy,2,alch_03_attempt,,研究草药,Studying the Herb,翻遍了所有炼丹笔记，依然没认出这是什么草药，但看起来应该没毒（大概）。,Flipped through every alchemy note he owns. Still can't identify it. Probably not poisonous. Probably.,meditate,5,0,1,,,,,,,,,,bad_feeling,2,
+alch_03_attempt,chain_alchemy,3,,,决定试着炼一炉丹,Decides to Attempt Alchemy,管不了那么多了，丢进丹炉里试试看。,Enough deliberation - into the furnace it goes.,alchemy,0,0,1,alch_04_explode|alch_04_success,60|40,,,1,,,,,,,
+alch_04_explode,chain_alchemy,4,,,丹炉炸了,The Furnace Explodes,一声巨响，丹炉裂成了三块，眉毛也烧掉了一半。,A deafening bang. The furnace splits into three pieces. He loses half an eyebrow.,confused,-20,0,1,,,luck<50,furnace_shy,,ach_first_explosion,那株来路不明的草药，最终把丹炉变成了三块碎片，也带走了半边眉毛。,"That unidentified herb ended up turning the furnace into three pieces, and half an eyebrow along with it.",true,,,bad_feeling
+alch_04_success,chain_alchemy,4,,,意外炼成,Unexpectedly Successful,丹炉稳稳当当，竟然真的炼出了一颗成色不错的丹药。,The furnace somehow holds and produces a surprisingly decent pill.,happy,40,5,1,,,,alchemy_talent,,,那株来路不明的草药，意外炼出了这一世第一颗像样的丹药。,That unidentified herb unexpectedly produced this life's first decent pill.,true,,,
+combat_01_beast_sighted,chain_combat,1,,武者,发现野兽踪迹,Spots a Beast's Trail,在山林间发现了不明野兽留下的爪痕。,Finds strange claw marks in the forest underbrush.,confused,0,0,25,combat_02_flee|combat_02_fight,50|50,,,0,
+combat_02_flee,chain_combat,2,,,选择撤退,Chooses to Retreat,权衡了一下，觉得保命比逞英雄重要。,Weighs the odds and decides survival beats heroics.,confused,0,0,1,,,luck<40,cautious_fighter,,
+combat_02_fight,chain_combat,2,,,迎战,Engages the Beast,豁出去了，正面迎了上去。,Throws caution aside and charges in.,workout,0,0,1,combat_03_win|combat_03_hurt,70|30,,,0,
+combat_03_win,chain_combat,3,,武者,击退野兽,Drives Off the Beast,一番激战后，野兽狼狈逃窜。,"After a fierce clash, the beast flees in disarray.",happy,25,3,1,,,realm>=3,,,ach_beast_slayer
+combat_03_hurt,chain_combat,3,,,带伤而归,Returns Wounded,虽然赶走了野兽，但也挂了一身伤。,"Drove the beast off, but not without scars.",confused,-15,0,1,,,,scarred,,
+social_01_merchant_favor,chain_social,1,social_02_debt_owed,,商人求助,A Merchant Asks a Favor,路过的商人遇上麻烦，开口借了一笔灵石。,A passing merchant runs into trouble and asks to borrow some spirit stones.,normal,0,-10,20,,,job:merchant,,,
+social_02_debt_owed,chain_social,2,,,欠下人情,A Debt Is Owed,商人承诺日后归还，但日子一天天过去。,The merchant promises to repay - but the days keep passing.,confused,0,0,1,social_03_repaid|social_03_ignored,50|50,,owes_debt,3,
+social_03_repaid,chain_social,3,,,商人还钱,The Merchant Repays,商人竟真的信守承诺，连本带利还了灵石。,"The merchant actually keeps his word, repaying with interest.",happy,0,15,1,,,stone>=50,,,ach_honest_cultivator
+social_03_ignored,chain_social,3,,,不了了之,The Debt Goes Unpaid,商人不知去向，这笔账只能算了。,The merchant is nowhere to be found. The debt quietly dies.,confused,0,0,1,,,,owes_debt_unpaid,,
+fortune_01_strange_dream,chain_fortune,1,,,做了一个奇怪的梦,A Strange Dream,梦里有声音在低语，醒来后记不清内容，只剩下莫名的情绪。,"A voice whispers in the dream. Waking up, only a vague feeling remains.",sleepy,0,0,15,fortune_02_good|fortune_02_bad|fortune_02_neutral,1|1|1,,,1,
+fortune_02_good,chain_fortune,2,,,吉兆,A Good Omen,梦中的预感成真，修炼时灵光一闪。,The dream's premonition comes true - a flash of insight strikes mid-cultivation.,happy,0,0,1,,,luck>=70,blessed_dream,,
+fortune_02_bad,chain_fortune,2,,,凶兆,A Bad Omen,梦中的不安挥之不去，修炼时险些出岔子。,The dream's unease lingers - cultivation nearly goes badly wrong.,confused,0,0,1,,,luck<30,cursed_dream,,
+fortune_02_neutral,chain_fortune,2,,,似乎只是个梦,"Just a Dream, After All",想了半天，大概真的只是个梦而已。,"After much thought, it really does seem like just a dream.",normal,0,0,1,,,,,,

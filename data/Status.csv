@@ -1,26 +1,110 @@
-﻿id,chinese,english,mood
-1,今天状态不错。,Feeling good today.,normal
-2,缓慢运转周天。,Circulating spiritual energy.,normal
-3,正在感悟天道。,Comprehending the Dao.,normal
-4,再睡五分钟。,Five more minutes...,sleepy
-5,梦里也在修炼。,Cultivating in my dreams.,sleepy
-6,灵气好舒服……,The spiritual energy feels nice...,sleepy
-7,进入入定状态。,Entering deep meditation.,meditate
-8,周围灵气变浓了。,The surrounding energy is gathering.,meditate
-9,感悟有所提升。,My understanding has deepened.,meditate
-10,丹药开始生效。,The pill is taking effect.,alchemy
-11,药力正在炼化。,Refining medicinal energy.,alchemy
-12,修为快速增长中！,Cultivation increasing rapidly!,alchemy
-13,今天运气不错。,Luck is on my side today.,happy
-14,感觉快要突破了！,I feel close to a breakthrough!,happy
-15,灵石捡得真顺利。,Found some spirit stones.,happy
-16,总觉得哪里不对劲。,Something feels off...,confused
-17,刚刚是不是炸炉了？,Did the furnace just explode?,confused
-18,心魔不会来了吧？,Hope the inner demon stays away.,confused
-19,正在观察主人。,Watching my master.,normal
-20,摸鱼中……别告诉别人。,Slacking off... don't tell anyone.,normal
-21,今天的灵气浓度不错。,Energy levels are good today.,normal
-22,准备下一次突破。,Preparing for the next breakthrough.,normal
-23,寿元还很充足。,Plenty of lifespan remaining.,happy
-24,灵石有点不够用了。,Running low on spirit stones.,confused
-25,距离飞升又近一步。,One step closer to ascension.,happy
+id,realm,zh,en,mood,,
+status_001,凡人,【吐纳中】,[Practicing basic breathing],meditate,,
+status_002,凡人,【打坐中】,[Trying to sit still],meditate,,
+status_003,凡人,【站桩中】,[Holding a horse stance],workout,,
+status_004,凡人,【练拳中】,[Punching],workout,,
+status_005,凡人,【跑步中】,[Jogging],walking,,
+status_006,凡人,【劈柴中】,[Chopping wood],workout,,
+status_007,凡人,【挑水中】,[Carrying water buckets],workout,,
+status_008,凡人,【看秘籍中】,[Reading a cheap manual],confused,,
+status_009,凡人,【背口诀中】,[Memorizing beginner chants],confused,,
+status_010,凡人,【找灵气中】,[Looking for spiritual qi],confused,,
+status_011,凡人,【数灵石中】,[Counting spirit stones],lazy,,
+status_012,凡人,【省饭钱中】,[Saving meal money],lazy,,
+status_013,凡人,【发呆中】,[Staring into space],lazy,,
+status_014,凡人,【偷懒中】,[Slacking off responsibly],lazy,,
+status_015,凡人,【午睡中】,[Taking a tiny nap],sleepy,,
+status_016,凡人,【梦修仙中】,[Dreaming of cultivation],sleepy,,
+status_017,凡人,【揉腿中】,[Rubbing sore legs],confused,,
+status_018,凡人,【练眼神中】,[Practicing a serious gaze],normal,,
+status_019,凡人,【问路中】,[Asking where immortals live],confused,,
+status_020,凡人,【拜山门中】,[Looking for a sect gate],normal,,
+status_021,凡人,【存体力中】,[Saving stamina for later],lazy,,
+status_022,凡人,【练呼吸中】,[Trying not to breathe wrong],meditate,,
+status_023,凡人,【贴膏药中】,[Applying muscle patches],confused,,
+status_024,凡人,【装高手中】,[Pretending to be an expert],happy,,
+status_025,凡人,【等机缘中】,[Waiting for an opportunity],normal,,
+status_026,武者,【炼体中】,[Tempering the body],workout,,
+status_027,武者,【通经脉中】,[Clearing the meridians],confused,,
+status_028,武者,【练内劲中】,[Training inner force],meditate,,
+status_029,武者,【磨剑中】,[Sharpening the sword],normal,,
+status_030,武者,【练刀中】,[Practicing saber forms],workout,,
+status_031,武者,【练轻功中】,[Practicing footwork],workout,,
+status_032,武者,【扎马步中】,[Holding a deeper stance],workout,,
+status_033,武者,【打木桩中】,[Hitting the wooden dummy],workout,,
+status_034,武者,【淬筋骨中】,[Strengthening bones and tendons],workout,,
+status_035,武者,【练反应中】,[Training reflexes],confused,,
+status_036,武者,【护心脉中】,[Protecting the heart meridian],meditate,,
+status_037,武者,【压气血中】,[Stabilizing blood and qi],confused,,
+status_038,武者,【备突破中】,[Preparing for a breakthrough],confused,,
+status_039,武者,【稳境界中】,[Stabilizing the realm],meditate,,
+status_040,武者,【观拳谱中】,[Studying fist manuals],normal,,
+status_041,武者,【练身法中】,[Practicing movement skills],workout,,
+status_042,武者,【养伤中】,[Recovering from training],sleepy,,
+status_043,武者,【敷药中】,[Applying herbal medicine],confused,,
+status_044,武者,【躲二狗中】,[Avoiding Ergou again],lazy,,
+status_045,武者,【比划中】,[Shadow-sparring dramatically],happy,,
+status_046,武者,【练胆中】,[Training courage],confused,,
+status_047,武者,【听传闻中】,[Listening to cultivation rumors],normal,,
+status_048,武者,【守心神中】,[Keeping the mind steady],meditate,,
+status_049,武者,【练掌法中】,[Practicing palm techniques],workout,,
+status_050,武者,【忍痛中】,[Enduring sore muscles],confused,,
+status_051,先天,【觉灵根中】,[Sensing the spiritual root],meditate,,
+status_052,先天,【炼神识中】,[Cultivating spiritual sense],meditate,,
+status_053,先天,【稳道心中】,[Stabilizing the Dao heart],meditate,,
+status_054,先天,【凝灵气中】,[Condensing spiritual qi],confused,,
+status_055,先天,【采药中】,[Gathering herbs],normal,,
+status_056,先天,【识药中】,[Identifying medicinal herbs],confused,,
+status_057,先天,【温炉中】,[Warming the alchemy furnace],alchemy,,
+status_058,先天,【炼小丹中】,[Refining minor pills],alchemy,,
+status_059,先天,【看炉火中】,[Watching the furnace flame],alchemy,,
+status_060,先天,【试符箓中】,[Testing beginner talismans],confused,,
+status_061,先天,【画护符中】,[Drawing protection talismans],confused,,
+status_062,先天,【清丹毒中】,[Clearing mild pill toxins],confused,,
+status_063,先天,【护经脉中】,[Protecting the meridians],meditate,,
+status_064,先天,【参剑意中】,[Studying sword intent],normal,,
+status_065,先天,【听风声中】,[Listening to the wind],normal,,
+status_066,先天,【观云气中】,[Observing cloud qi],meditate,,
+status_067,先天,【备筑基中】,[Preparing for foundation],confused,,
+status_068,先天,【调息中】,[Regulating breath and qi],meditate,,
+status_069,先天,【压心魔中】,[Suppressing inner demons],confused,,
+status_070,先天,【修心中】,[Cultivating the mind],meditate,,
+status_071,先天,【炼护脉丹中】,[Refining meridian pills],alchemy,,
+status_072,先天,【翻丹书中】,[Reading alchemy notes],confused,,
+status_073,先天,【偷闻丹香中】,[Sneaking a sniff of pill aroma],happy,,
+status_074,先天,【怕炸炉中】,[Worrying about furnace explosions],confused,,
+status_075,先天,【装镇定中】,[Pretending to stay calm],lazy,,
+status_076,炼气,【炼真元中】,[Condensing true essence],meditate,,
+status_077,炼气,【参大道中】,[Studying the Great Dao],meditate,,
+status_078,炼气,【悟法则中】,[Sensing the laws of heaven and earth],confused,,
+status_079,炼气,【观天机中】,[Reading heavenly signs],confused,,
+status_080,炼气,【稳灵台中】,[Stabilizing the spirit platform],meditate,,
+status_081,炼气,【炼真火中】,[Tempering true flame],alchemy,,
+status_082,炼气,【炼灵丹中】,[Refining spiritual pills],alchemy,,
+status_083,炼气,【画真符中】,[Drawing advanced talismans],confused,,
+status_084,炼气,【护道心中】,[Guarding the Dao heart],meditate,,
+status_085,炼气,【悟因果中】,[Contemplating karma],confused,,
+status_086,炼气,【参生死中】,[Contemplating life and death],confused,,
+status_087,炼气,【观星辰中】,[Watching the stars],normal,,
+status_088,炼气,【听天雷中】,[Listening for heavenly thunder],confused,,
+status_089,炼气,【备天劫中】,[Preparing for tribulation],confused,,
+status_090,炼气,【试避雷符中】,[Testing thunder talismans],confused,,
+status_091,炼气,【参轮回中】,[Studying reincarnation],meditate,,
+status_092,炼气,【悟无常中】,[Understanding impermanence],confused,,
+status_093,炼气,【炼护身法中】,[Practicing defensive arts],workout,,
+status_094,炼气,【感天地中】,[Sensing heaven and earth],meditate,,
+status_095,炼气,【求长生中】,[Seeking longevity],normal,,
+status_096,炼气,【压雷意中】,[Suppressing thunder intent],confused,,
+status_097,炼气,【算命格中】,[Calculating fate],confused,,
+status_098,炼气,【悟归一中】,[Seeking unity of all things],meditate,,
+status_099,炼气,【炼清心丹中】,[Refining clarity pills],alchemy,,
+status_100,炼气,【怀疑天道中】,[Questioning heaven itself],lazy,,
+status_furnace_shy_01,,【盯着丹炉方向】,[Stares warily toward the furnace],confused,furnace_shy,
+status_alchemy_talent_01,,【跃跃欲试中】,[Itching to try alchemy again],happy,alchemy_talent,
+status_scarred_01,,【摸伤疤中】,[Touching an old scar],confused,scarred,
+status_owes_debt_01,,【心事重重中】,[Weighed down by a debt],confused,owes_debt_unpaid,
+status_instinct_trib_01,凡人,【突破前犹豫中】,[Hesitating before breakthrough],confused,,wary_of_tribulation
+status_instinct_trib_02,武者,【盯着乌云中】,[Eyeing the gathering clouds],confused,,wary_of_tribulation
+status_instinct_furnace_01,,【在丹炉边徘徊中】,[Lingering near the furnace],normal,,drawn_to_furnaces
+status_instinct_furnace_02,,【手痒想炼丹中】,[Itching to fire up the furnace],happy,,drawn_to_furnaces
+status_instinct_seek_01,,【望向深山中】,[Gazing toward deep mountains],normal,,seeks_encounters

@@ -1,0 +1,13 @@
+event_id,event_type,rarity,min_realm,weight,text_zh,text_en,reward_type,reward_value
+enc_rare_121,lazy,rare,1,2,挖出一袋灵石。,Dug up a bag of Spirit Stones.,stone,10
+enc_rare_122,cultivate,rare,1,2,顿悟成功。,Experienced enlightenment.,qi,30
+enc_rare_123,lazy,rare,1,2,找到古老石碑,Found an ancient stone tablet,qi,10
+enc_rare_124,lazy,rare,1,2,看不懂石碑内容,Could not understand the stone tablet,none,0
+enc_rare_125,lazy,rare,1,2,进入小秘境,Entered a hidden realm,qi,15
+enc_rare_126,lazy,rare,1,2,在秘境迷路了,Got lost in a hidden realm,qi,-5
+enc_rare_127,lazy,rare,1,2,获得残破法宝,Obtained a damaged artifact,qi,10
+enc_rare_128,lazy,rare,1,2,遇见神秘老人,Met a mysterious old man,qi,20
+enc_rare_129,alchemy,rare,1,2,丹药效果极佳,The pill worked perfectly,qi,30
+enc_rare_130,alchemy,rare,1,2,炼出极品丹药,Created a high-grade pill,qi,40
+enc_rare_131,lazy,rare,1,2,收到神秘礼物,Received a mysterious gift,qi,10
+enc_rare_132,lazy,rare,1,2,获得神秘传承,Inherited a mysterious legacy,qi,60

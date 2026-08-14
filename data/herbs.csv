@@ -1,0 +1,61 @@
+id,name_zh,name_en,rarity,realm_required,description_zh,description_en,obtain_method,base_value,tags
+herb_001,凝露草,Dew-Condensing Grass,common,凡人,清晨采摘才有效，太阳一晒就蔫了。,Best picked at dawn; wilts the moment the sun hits it.,forest,3,healing|qi
+herb_002,打坐菇,Meditation Mushroom,common,凡人,长在打坐的地方，据说吸收了不少坐功。,Grows where cultivators meditate. Allegedly absorbed some of their focus.,forest,4,qi|funny
+herb_003,清心叶,Clearheart Leaf,common,凡人,嚼一片，烦心事先放一边。,Chew one leaf and your worries take a break.,forest,3,mood|healing
+herb_004,灵气萝卜,Spirit Radish,common,凡人,长得像萝卜，但灵气比萝卜浓。,"Looks like a radish, but with a stronger trace of spirit energy.",market,4,qi|body
+herb_005,不知道能不能吃的草,Maybe-Edible Grass,common,凡人,没人确定能不能吃，但大家都吃了。,Nobody's sure if it's edible. Everyone eats it anyway.,forest,2,funny|poison
+herb_006,路边野菇,Roadside Wild Mushroom,common,凡人,路边随手就能捡到，品相一般。,Easily picked up roadside. Quality is average at best.,forest,2,funny|body
+herb_007,晨露薄荷,Morning Dew Mint,common,凡人,带着露水采摘，口感清凉。,Picked while still dewy. Refreshingly cool.,forest,3,healing|mood
+herb_008,苦根草,Bitter Root Grass,common,凡人,苦得让人清醒，专治犯困。,Bitter enough to snap you awake instantly.,forest,3,healing|body
+herb_009,打嗝果,Hiccup Fruit,common,凡人,吃完准打嗝，原因不明。,Guaranteed to make you hiccup. Reason unknown.,forest,3,funny|qi
+herb_010,安神花,Calm Spirit Flower,common,凡人,闻一闻就能安静下来，适合摸鱼。,One sniff and you're calm. Great for slacking off.,market,4,mood|healing
+herb_011,野生灵芝(歪的),Wild Lingzhi (Crooked),uncommon,凡人,长歪了的灵芝，效果照样有，就是卖相差。,"A crooked lingzhi. Works fine, just looks awkward.",forest,10,qi|healing|funny
+herb_012,三叶清气草,Three-Leaf Clear Qi Grass,uncommon,凡人,三片叶子代表三分清气，传说而已。,"Three leaves, three parts qi, or so the legend goes.",forest,9,qi
+herb_013,醒脾果,Appetite Fruit,common,凡人,吃了胃口大开，修炼前先吃饱。,Sparks the appetite. Best eaten before training.,market,3,body|funny
+herb_014,拾来的树皮,Picked-Up Tree Bark,common,凡人,树上掉下来的，捡到就算是缘分。,Fell off a tree. Picking it up counts as fate.,forest,1,funny|body
+herb_015,凝血草,Blood-Binding Grass,common,武者,武者练功时常受伤，这草专门止血。,A Warrior staple for stopping bleeding from training mishaps.,forest,5,healing|body
+herb_016,强体藤,Body-Strengthening Vine,uncommon,武者,缠在身上没用，得炼成丹才有效。,Wrapping it around yourself does nothing; it must be brewed first.,forest,12,body
+herb_017,烈日草,Blazing Sun Grass,uncommon,武者,晒得越久越烫手，采摘时小心。,Gets hotter the longer it sits in the sun. Handle with care.,adventure,13,qi|body
+herb_018,怒气球(植物),Anger Bulb,common,武者,捏一下会啪地响，吓人但没用。,"Pops with a loud snap when squeezed. Startling, otherwise useless.",forest,5,funny|qi
+herb_019,打工人参,Overtime Ginseng,uncommon,武者,长得很疲惫的人参，据说是过劳长成的。,"A tired-looking ginseng, allegedly grown from overwork.",market,14,funny|body|qi
+herb_020,铁骨花,Iron Bone Flower,uncommon,武者,花瓣硬得像铁片，闻着有股铁锈味。,Petals as hard as iron plates. Smells faintly of rust.,adventure,15,body|breakthrough
+herb_021,醉拳草,Drunken Fist Grass,common,武者,吃了走路会晃，据说打拳更准。,Makes you wobble when walking. Supposedly improves punch accuracy.,forest,6,funny|body
+herb_022,暴怒椒,Rage Pepper,common,武者,辣得让人想打人，慎用。,Spicy enough to make you want to punch something. Use with caution.,market,6,funny|qi
+herb_023,破障藤,Barrier-Breaking Vine,rare,武者,缠绕在突破关卡前的藤蔓，象征意义大于实际。,A vine found near breakthrough thresholds. More symbolic than scientific.,adventure,28,breakthrough
+herb_024,武者朝露,Warrior's Morning Dew,uncommon,武者,武者清晨练功时凝结的露水，带点汗味。,Dew collected during a Warrior's morning training. Faintly smells of sweat.,forest,14,healing|qi
+herb_025,被雷劈过的木枝,Lightning-Struck Branch,uncommon,武者,被雷劈过却没烧成炭，传说沾点运气。,Struck by lightning but didn't burn. Said to carry a bit of luck.,random_event,16,funny|qi|luck
+herb_026,老茧草,Old Callus Grass,common,武者,长在武者常年练功的地方，带点茧子的味道。,Grows where Warriors train for years. Smells faintly of calluses.,forest,5,body|funny
+herb_027,先天紫灵芝,Innate Purple Lingzhi,rare,先天,颜色发紫，据说是先天期专属灵芝。,"A purple-tinged lingzhi, said to favor Innate-stage cultivators.",adventure,32,qi|healing
+herb_028,龙涎草(假的),Fake Dragon Saliva Grass,uncommon,先天,名字唬人，其实就是普通灵草。,"A scary name for what is, frankly, a fairly ordinary herb.",forest,18,funny|qi
+herb_029,通脉花,Meridian-Clearing Flower,rare,先天,花香能让经脉舒展一下，象征性疏通。,"Its scent loosens the meridians, at least symbolically.",adventure,30,breakthrough|body
+herb_030,玄气藤,Mystic Qi Vine,uncommon,先天,缠着灵气长大的藤，摸起来微微发烫。,A vine grown wrapped in spirit qi. Faintly warm to the touch.,forest,17,qi
+herb_031,三阳果,Triple Yang Fruit,rare,先天,一颗果子分三段，据说补三倍。,"One fruit, three segments, said to give triple the benefit.",adventure,34,qi|body
+herb_032,月华叶,Moonlight Leaf,uncommon,先天,只在月圆夜采摘才有效，平时只是普通叶子。,Only effective when picked under a full moon. Otherwise just a leaf.,random_event,19,mood|qi
+herb_033,先天云雾草,Innate Cloud-Mist Grass,rare,先天,长在云雾缭绕的山顶，采摘要爬很久。,Grows atop misty peaks. Picking it means a long climb.,adventure,33,qi|luck
+herb_034,不明发光菌,Mysterious Glowing Fungus,epic,先天,晚上会发光，没人敢第一个吃。,Glows at night. Nobody wanted to be the first to try it.,special_event,50,funny|poison|qi
+herb_035,静心古藤,Ancient Calming Vine,uncommon,先天,据说缠绕千年，性格也变得沉稳。,Said to have wrapped around the same tree for a thousand years. Quite calm now.,forest,18,mood|breakthrough
+herb_036,锋锐竹,Sharp Edge Bamboo,rare,先天,竹叶边缘锋利，采摘时务必小心手指。,The leaf edges are sharp. Mind your fingers while harvesting.,adventure,31,body|breakthrough
+herb_037,炼气灵草,Qi-Refining Spirit Grass,rare,练气,炼气期标志性灵草，市面上不便宜。,A signature herb of the Qi-Refining stage. Not cheap on the market.,adventure,38,qi|breakthrough
+herb_038,紫霄花,Purple Sky Flower,epic,练气,据说花瓣能映出半片天空，玄学但好看。,"Its petals are said to reflect half the sky. Mystical, at least pretty.",special_event,55,qi|luck
+herb_039,寒玉芝,Cold Jade Lingzhi,rare,练气,摸起来冰凉，据说能镇住浮躁的心。,Cool to the touch. Said to settle a restless mind.,adventure,36,healing|qi
+herb_040,九转回魂草,Nine-Turn Soul-Recall Grass,epic,练气,据说要转九次才能长成，急脱根的那种。,Said to take nine growth cycles to mature. Quite the impatient root.,special_event,58,healing|funny
+herb_041,炼气竹,Qi-Refining Bamboo,rare,练气,竹节里藏着一点灵气，敲开才看得到。,A bit of qi hides inside each bamboo joint. Must crack it open to see.,forest,35,qi
+herb_042,摸鱼草,Slacking-Off Grass,uncommon,练气,长在最舒服的阴凉处，名字很贴切。,Grows in the comfiest shade. The name fits perfectly.,forest,20,funny|mood
+herb_043,九叶炼气花,Nine-Leaf Qi-Refining Flower,epic,练气,九片叶子全齐才算合格，少一片就降级。,Needs all nine leaves intact to count as proper quality.,special_event,56,qi|breakthrough
+herb_044,雷劫余烬草,Thunder Tribulation Ember Grass,epic,练气,长在雷劫劈过的地方，带着一点焦味。,Grows where lightning tribulation struck. Faintly smells of char.,random_event,54,qi|luck|poison
+herb_045,缥缈仙雾草,Ethereal Immortal Mist Grass,rare,练气,摘下来就开始变淡，得赶紧用。,Starts fading the moment it's picked. Use it quickly.,adventure,37,qi|mood
+herb_046,炼气期信物花,Qi-Refining Token Flower,rare,练气,炼气期修士常互相赠送，据说能传情也能炼丹。,Cultivators often gift these to each other. Works for romance and alchemy alike.,adventure,34,qi|alchemy
+herb_047,筑基灵根,Foundation Spirit Root,epic,筑基,筑基期专属灵根，据说扎得很深。,A root exclusive to the Foundation stage. Said to dig in deep.,special_event,62,breakthrough|qi
+herb_048,紫金灵芝,Purple Gold Lingzhi,epic,筑基,颜色又紫又金，看着就很贵。,Purple and gold colored. Looks expensive just sitting there.,special_event,65,healing|qi
+herb_049,筑基青莲,Foundation Azure Lotus,rare,筑基,长在筑基期修士常去的池子边，花期很短。,Grows by ponds Foundation-stage cultivators frequent. Blooms briefly.,adventure,42,qi|breakthrough
+herb_050,玄铁灵草,Mystic Iron Spirit Grass,rare,筑基,草茎硬得像铁，得用专门的工具采摘。,The stem is iron-hard. Needs special tools to harvest.,adventure,44,body|breakthrough
+herb_051,凝丹花,Core-Forming Flower,epic,筑基,花心凝结出一点丹元气息，炼丹师都抢着要。,Its center holds a trace of core energy. Alchemists fight over it.,special_event,68,alchemy|qi
+herb_052,筑基期打工符草,Foundation-Stage Overtime Charm Grass,rare,筑基,据说修士打坐久了也会加班，这草专为他们而生。,For cultivators who meditate so long it counts as overtime.,forest,40,funny|qi
+herb_053,七色云芝,Seven-Color Cloud Lingzhi,epic,筑基,七种颜色轮流变换，拿在手里像彩虹糖。,Cycles through seven colors. Looks like a handful of rainbow candy.,special_event,64,qi|luck
+herb_054,不知名筑基灵果,Unnamed Foundation Spirit Fruit,rare,筑基,没人给它正式命名，暂时就叫那个果子。,Nobody's bothered to officially name it. For now it's just called that fruit.,adventure,41,funny|qi
+herb_055,金丹引,Golden Core Catalyst,legendary,金丹,传说能引出金丹雏形，市面上几乎见不到。,Said to coax a golden core into form. Nearly impossible to find on the market.,special_event,88,breakthrough|alchemy
+herb_056,太乙紫金莲,Taiyi Purple Gold Lotus,legendary,金丹,名字一听就很贵，效果也确实不便宜。,The name alone sounds expensive. The effect matches the price tag.,special_event,92,qi|healing
+herb_057,九阳金丹草,Nine-Yang Golden Core Grass,legendary,金丹,九道阳气凝在一株草上，据说炼制时会发金光。,Nine strands of yang energy condensed into one grass. Said to glow gold while brewing.,special_event,90,qi|breakthrough
+herb_058,古海龟息草,Ancient Sea Turtle Breath Grass,epic,金丹,据说是海龟呼出的气凝成的草，长寿气息很重。,Said to form from an ancient turtle's breath. Smells strongly of longevity.,special_event,70,healing|qi
+herb_059,凝光灵果,Light-Condensing Spirit Fruit,epic,金丹,果皮会反光，黑夜里像个小灯泡。,"The skin reflects light, looking like a tiny lightbulb at night.",special_event,72,qi|luck
+herb_060,传说级打工人参(真),Legendary Overtime Ginseng (Real),legendary,金丹,据说是打工人参修炼成精后的真身，传说级别的过劳产物。,The true form of Overtime Ginseng after years of cultivation. A legendary product of overwork.,codex_reward,95,funny|body|qi|luck

@@ -1,0 +1,121 @@
+id,type,weight,title_zh,title_en,animation
+death_001,normal,10,丹药过量,Overdosed on pills,death_old
+death_002,normal,10,熬夜修仙猝死,Died from overcultivating,death_old
+death_003,normal,9,走火入魔,Lost to qi deviation,death_explosion
+death_004,normal,9,闭关忘了吃饭,Forgot to eat in seclusion,death_old
+death_005,normal,8,渡劫被雷劈,Struck down during tribulation,death_tribulation
+death_006,normal,8,心魔反噬,Consumed by inner demons,death_old
+death_007,normal,7,寿元耗尽,Lifespan ran dry,death_old
+death_008,normal,7,炼丹炸炉殉道,Martyred by an exploding furnace,death_explosion
+death_009,rare,4,被鹅追杀,Killed by a goose,death_old
+death_010,rare,4,打伞渡劫,Died holding an umbrella during tribulation,death_tribulation
+death_011,rare,3,被自己的剑绊倒,Tripped over his own sword,death_old
+death_012,rare,3,吃了过期灵丹,Ate an expired spirit pill,death_old
+death_013,rare,3,修炼时睡着摔下山,Fell off the mountain while napping,death_old
+death_014,rare,3,被二狗气死,Died of rage because of Ergou,death_old
+death_015,rare,2,渡劫前忘带避雷丹,Forgot his lightning pill before tribulation,death_tribulation
+death_016,rare,2,灵宠造反,Betrayed by his own spirit pet,death_old
+death_017,legendary,1,看蚂蚁悟道七天七夜,Watched ants for seven days and never woke,death_old
+death_018,legendary,1,笑死在自己的笑话里,Laughed himself to death at his own joke,death_old
+death_019,legendary,1,飞升失败掉了下来,Failed to ascend and fell back down,death_old
+death_020,legendary,1,被天道判定为太懒,Judged too lazy by the heavens,death_old
+death_021,rare,3,渡劫时睡着,Fell asleep during the tribulation,death_tribulation
+death_022,rare,3,闭关忘记吃饭,Forgot to eat during seclusion,death_old
+death_023,rare,3,偷吃丹药过量,Overdosed on stolen pills,death_old
+death_024,rare,3,研究天道研究疯了,Went mad studying heaven's will,death_old
+death_025,rare,3,怀疑人生而坐化,Sat down to question life and never got back up,death_old
+death_026,rare,3,炼丹把自己炼进去,Accidentally cooked himself into the pill,death_old
+death_027,rare,3,尝试飞升结果撞山,"Tried to ascend, hit a mountain instead",death_old
+death_028,rare,2,摆烂被天道收走,Slacked off until heaven repossessed him,death_old
+death_029,rare,2,修炼时摸鱼被发现,Caught slacking mid-cultivation,death_old
+death_030,rare,2,炫耀突破时摔倒,Tripped while bragging about a breakthrough,death_old
+death_031,rare,3,被自己的灵宠笑死,Laughed to death by his own spirit pet,death_old
+death_032,rare,2,渡劫时忘记穿衣服,Forgot to get dressed before the tribulation,death_tribulation
+death_033,rare,3,打坐打到忘记呼吸,Meditated so hard he forgot to breathe,death_old
+death_034,rare,2,炼丹时手机震动吓死,Startled to death by a buzzing phone mid-alchemy,death_old
+death_035,rare,3,偷懒时被天道抓包,Caught red-handed slacking by heaven's will,death_old
+death_036,rare,2,修炼太投入忘记下山,Got too absorbed in cultivation and forgot to come down the mountain,death_old
+death_037,rare,3,试图摸鱼被同门举报,Reported by a fellow disciple for slacking,death_old
+death_038,rare,2,炼丹炸炉笑场致死,Died laughing at his own exploding furnace,death_explosion
+death_039,rare,3,渡劫时打了个喷嚏,Sneezed during the tribulation,death_tribulation
+death_040,rare,2,修炼时被自己感动到落泪过多,Cried too much from being moved by his own effort,death_old
+death_041,rare,3,被一句毒鸡汤气死,Enraged to death by a toxic motivational quote,death_old
+death_042,rare,2,炼丹时配方写反气死,Furious to death over a backwards recipe,death_old
+death_043,rare,3,渡劫时手机没电,"Phone died right before the tribulation, so did he",death_tribulation
+death_044,rare,2,修炼时被自己的呼噪打断摔倒,Startled by his own snoring and fell over,death_old
+death_045,rare,3,看同门突破气得吐血,Coughed up blood out of envy watching a rival break through,death_old
+death_046,rare,2,炼丹时被自己鼻涕呛死,Choked to death on his own snot during alchemy,death_old
+death_047,rare,3,渡劫时鞋带散了摔下台,Tripped over loose shoelaces during the tribulation,death_tribulation
+death_048,rare,2,修炼太久忘记自己是谁,Cultivated so long he forgot who he was,death_old
+death_049,rare,3,被天道发的好运吓死,Scared to death by an unexpected stroke of luck,death_old
+death_050,rare,2,炼丹时配方抄错笑死自己,Laughed himself to death over his own recipe mistake,death_old
+death_051,rare,3,渡劫时摸鱼被雷劈,Caught slacking by lightning during the tribulation,death_tribulation
+death_052,rare,2,修炼时打哈欠用力过猛闪了腰,Yawned too hard during cultivation and threw out his back,death_old
+death_053,rare,3,偷吃同门的丹药被发现气死,"Caught stealing a fellow disciple's pills, died of shame",death_old
+death_054,rare,2,炼丹时火候太大把自己烤了,Overcooked the flame and roasted himself instead,death_explosion
+death_055,rare,3,渡劫时摆Pose结果没站稳,"Struck a pose during tribulation, lost his footing",death_tribulation
+death_056,rare,3,渡劫时被自己的影子吓到摔死,Scared off the cliff by his own shadow during the tribulation,death_tribulation
+death_057,rare,2,修炼时挠痒痒走火入魔,Scratched an itch so hard he triggered qi deviation,death_explosion
+death_058,rare,3,炼丹时配料表掉进锅里一起炼了,Dropped the recipe sheet into the cauldron and cooked that too,death_old
+death_059,rare,2,渡劫时摸鱼被同门拍下发朋友圈,"Caught slacking during tribulation, screenshotted by a disciple",death_tribulation
+death_060,rare,3,修炼时打瞌睡跌进丹炉,Dozed off mid-cultivation and fell into the furnace,death_old
+death_061,rare,2,偷看同门功法被电得外焦里嫩,Got zapped crispy peeking at a rival's technique manual,death_tribulation
+death_062,rare,3,炼丹时被自己放的屁点燃,Set off by his own gas during alchemy,death_explosion
+death_063,rare,2,渡劫时鞠躬太用力闪了腰,Bowed too enthusiastically during tribulation and threw out his back,death_tribulation
+death_064,rare,3,修炼时被自己的口水呛死,Choked on his own drool while meditating,death_old
+death_065,rare,2,炼丹失败被丹炉嘲笑气死,Mocked to death by his own malfunctioning furnace,death_old
+death_066,rare,3,渡劫时手抖把避雷丹掉了,Dropped his lightning-ward pill from nervous shaking,death_tribulation
+death_067,rare,2,修炼时太用力憋气憋死自己,Held his breath too hard while cultivating and suffocated,death_old
+death_068,rare,3,炼丹时材料放太多炸成烟花,"Overloaded the furnace, exploded like fireworks",death_explosion
+death_069,rare,2,渡劫前临阵脱逃被天道追上,"Tried to flee the tribulation, heaven caught up",death_tribulation
+death_070,rare,3,修炼时被一只蝴蝶分心摔下悬崖,"Distracted by a butterfly mid-cultivation, fell off a cliff",death_old
+death_071,rare,2,炼丹时配方写得太草率连自己都看不懂,"Wrote the recipe so sloppily even he couldn't read it, made a fatal mistake",death_old
+death_072,rare,3,渡劫时打喷嚏喷出了自己的灵根,Sneezed so hard his spiritual root flew out,death_tribulation
+death_073,rare,2,修炼时被自己的肚子叫声吓到摔倒,"Startled by his own stomach growling, fell over",death_old
+death_074,rare,3,炼丹时把解药当调料放了,Mistook the antidote for a seasoning during alchemy,death_old
+death_075,rare,2,渡劫时鞋子掉了去追鞋子被劈,"Ran to retrieve a dropped shoe during the tribulation, got struck",death_tribulation
+death_076,rare,3,修炼太久骨头硬到自己折断,Cultivated so rigidly his bones became too stiff and snapped,death_old
+death_077,rare,2,炼丹时被同门的丹药香味馋死,Died of envy from the smell of a rival's superior pill,death_old
+death_078,rare,3,渡劫时跳舞庆祝太早被劈,"Celebrated too early with a victory dance, got struck mid-jig",death_tribulation
+death_079,rare,2,修炼时数羊数到走火入魔,"Counted sheep to fall asleep, triggered qi deviation instead",death_explosion
+death_080,rare,3,炼丹时配方页被风吹走追丢了命,Chased a wind-blown recipe page off a cliff,death_old
+death_081,rare,2,渡劫时太紧张尿裤子被雷劈,"Wet himself from nerves during tribulation, got struck",death_tribulation
+death_082,rare,3,修炼时被自己的回声吓死,Frightened to death by his own echo,death_old
+death_083,rare,2,炼丹时锅盖飞出去砸中自己,Knocked unconscious by his own flying pot lid,death_old
+death_084,rare,3,渡劫时手滑把避雷符扔反了,Threw his lightning ward the wrong direction,death_tribulation
+death_085,rare,2,修炼时被自己打的哈欠闪了下巴,Yawned so hard during cultivation he dislocated his jaw,death_old
+death_086,rare,3,炼丹时不小心把自己当材料扔进去,Accidentally tossed himself into the cauldron as an ingredient,death_old
+death_087,rare,2,渡劫前太得意笑出声引来天雷,"Laughed too smugly before tribulation, attracted extra lightning",death_tribulation
+death_088,rare,3,修炼时打坐姿势太标准卡住起不来摔死,Held a meditation pose so perfectly he got stuck and toppled over,death_old
+death_089,rare,2,炼丹时口渴喝了炼丹废水,Got thirsty and drank the alchemy wastewater,death_old
+death_090,rare,3,渡劫时抬头看雷被闷雷砸晕摔死,"Looked up to watch the lightning, got knocked out and fell",death_tribulation
+death_091,normal,9,内力反噬,Consumed by his own backfiring qi,death_old
+death_092,normal,8,渡劫失败,Failed to survive the heavenly tribulation,death_tribulation
+death_093,normal,9,经脉尽断,All meridians shattered beyond repair,death_old
+death_094,normal,8,寒毒入体不治,Succumbed to an incurable cold poison,death_old
+death_095,normal,9,强行突破伤了根本,Forced a breakthrough and ruined his foundation,death_old
+death_096,normal,7,被妖兽所杀,Killed by a demonic beast,death_old
+death_097,normal,8,修炼走偏伤了元气,Cultivated incorrectly and damaged his vital essence,death_old
+death_098,normal,9,丹毒攻心,Pill toxins overwhelmed his heart,death_old
+death_099,normal,7,被同道暗算,Ambushed by a rival cultivator,death_old
+death_100,normal,8,灵脉枯竭而亡,Died as his spiritual veins ran dry,death_old
+death_101,normal,9,逆天改命失败,Failed an attempt to defy fate,death_old
+death_102,normal,7,遭遇山洪意外,Killed in an unexpected mountain flood,death_old
+death_103,normal,8,旧伤复发不治,Succumbed to a recurring old injury,death_old
+death_104,normal,9,心境崩溃自损道行,Mental collapse damaged his own cultivation beyond saving,death_old
+death_105,normal,7,误入禁地重伤而亡,Wandered into a forbidden zone and died of his wounds,death_old
+death_106,normal,8,为护道侣身死,Died protecting a loved one,death_old
+death_107,normal,9,气血枯竭,Blood and qi ran completely dry,death_old
+death_108,normal,7,遭逢瘟疫,Succumbed to a plague,death_old
+death_109,normal,8,寒冬冻毙山中,Froze to death in the mountains during winter,death_old
+death_110,normal,9,修为反噬走火入魔身死,Qi deviation from a backfiring cultivation proved fatal,death_explosion
+death_111,legendary,1,盯着自己的灵根看到灵根消失,Stared at his own spiritual root until it vanished,death_old
+death_112,legendary,1,在天劫中突然顿悟笑死自己,Had a sudden epiphany mid-tribulation and laughed himself to death,death_tribulation
+death_113,legendary,1,把自己炼成了一颗丹药,Accidentally alchemized himself into a pill,death_old
+death_114,legendary,1,被自己未来的转世揍了一拳,Punched by his own future reincarnation,death_old
+death_115,legendary,1,修炼到把自己修没了,Cultivated so hard he cultivated himself out of existence,death_old
+death_116,legendary,1,和天道辩论输了被气死,Lost a debate with heaven's will and died of frustration,death_old
+death_117,legendary,1,渡劫时被自己的弹幕淹死,Drowned in his own stream of internal monologue during tribulation,death_tribulation
+death_118,legendary,1,看穿了世界的真相后无聊到死,Saw through the truth of the world and died of boredom,death_old
+death_119,legendary,1,被自己上一世的鬼魂气死,Haunted and enraged to death by his own previous incarnation's ghost,death_old
+death_120,legendary,1,在轮回的尽头找到了答案然后忘记了,"Found the answer at the end of reincarnation, then immediately forgot it",death_old

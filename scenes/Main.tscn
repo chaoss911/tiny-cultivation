@@ -1,7 +1,7 @@
 [gd_scene format=3 uid="uid://pvhihkwc7dt2"]
 
-[ext_resource type="Script" uid="uid://d3mxhnrh2k8u5" path="res://scripts/main.gd" id="1_main"]
-[ext_resource type="Texture2D" uid="uid://crad6add5vue5" path="res://images/cultivator_meditate.png" id="2_rvslj"]
+[ext_resource type="Script" uid="uid://cn1vf4rq13uqx" path="res://scripts/main.gd" id="1_main"]
+[ext_resource type="SpriteFrames" uid="uid://d0vdnyiklkrog" path="res://assets/sprites/wuzhe.tres" id="2_rvslj"]
 
 [node name="Main" type="Control" unique_id=1866611658]
 layout_mode = 3
@@ -12,19 +12,28 @@ grow_horizontal = 2
 grow_vertical = 2
 script = ExtResource("1_main")
 
+[node name="EventManager" type="Node2D" parent="." unique_id=574927534]
+
 [node name="PetGroup" type="Node2D" parent="." unique_id=1936359688]
 
-[node name="CultivatorSprite" type="Sprite2D" parent="PetGroup" unique_id=1023398510]
+[node name="CultivatorSprite" type="AnimatedSprite2D" parent="PetGroup" unique_id=658305257]
 texture_filter = 2
-texture = ExtResource("2_rvslj")
+
+[node name="wuzhe" type="AnimatedSprite2D" parent="PetGroup" unique_id=525585972]
+sprite_frames = ExtResource("2_rvslj")
+animation = &"angry"
+
+[node name="PropAnchor" type="Marker2D" parent="PetGroup" unique_id=47786906]
 
 [node name="SpeechLabel" type="Label" parent="PetGroup" unique_id=781754872]
 offset_right = 40.0
 offset_bottom = 23.0
 
-[node name="StatusLabel" type="Label" parent="PetGroup" unique_id=448951267]
+[node name="StatusLabel" type="RichTextLabel" parent="PetGroup" unique_id=820318954]
 offset_right = 40.0
 offset_bottom = 23.0
+bbcode_enabled = true
+fit_content = true
 
 [node name="VBox" type="VBoxContainer" parent="PetGroup" unique_id=1018643804]
 offset_left = 10.0
@@ -47,9 +56,6 @@ layout_mode = 2
 text = "加速打坐"
 
 [node name="Info" type="Button" parent="PetGroup/VBox/Buttons" unique_id=1313359620]
-layout_mode = 2
-
-[node name="Language" type="Button" parent="PetGroup/VBox/Buttons" unique_id=579855406]
 layout_mode = 2
 
 [node name="Title" type="Label" parent="PetGroup/VBox" unique_id=522758979]

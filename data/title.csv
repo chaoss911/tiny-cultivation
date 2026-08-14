@@ -1,21 +1,41 @@
-﻿ID,Chinese,English,Unlock
-TIT001,炸炉大师,Furnace Destroyer,Explode Furnace 10 Times
-TIT002,睡梦真人,Dream Sage,Sleep 50 Times
-TIT003,灵石猎人,Spirit Stone Hunter,Collect 500 Spirit Stones
-TIT004,天选之人,Chosen One,3 Successful Breakthroughs
-TIT005,倒霉蛋,Unlucky Soul,5 Consecutive Failures
-TIT006,洞府探险家,Cave Explorer,Explore 20 Secret Realms
-TIT007,丹药试吃员,Pill Tester,Consume 100 Pills
-TIT008,心魔克星,Inner Demon Slayer,Defeat 10 Inner Demons
-TIT009,咸鱼真人,Lazy Sage,Stay Idle Long Time
-TIT010,天道宠儿,Heaven's Favorite,Trigger Rare Lucky Event
-TIT011,破产修士,Broke Cultivator,Spirit Stones Reach Zero 20 Times
-TIT012,闭关狂人,Retreat Maniac,Cultivate 100 Days
-TIT013,迷路仙人,Lost Immortal,Get Lost 30 Times
-TIT014,灵兽之友,Spirit Beast Friend,Own 5 Spirit Beasts
-TIT015,宗门传奇,Sect Legend,Become Elder
-TIT016,摸鱼仙尊,Slack Immortal,Long Idle Time
-TIT017,悟道宗师,Enlightenment Master,50 Enlightenments
-TIT018,百世轮回者,Hundred Lives,100 Reincarnations
-TIT019,飞升候补,Ascension Candidate,Reach Highest Realm
-TIT020,长生不死,Immortal One,1000 Years Lifespan
+ID,Chinese,English,Unlock
+TIT001,平平无奇的修仙者,Utterly Ordinary Cultivator,Default title / no special condition
+TIT002,初入修途,First Step on the Path,First successful breakthrough
+TIT003,武道新丁,Martial Newcomer,Reach Martial tier for the first time
+TIT004,先天小成,Innate Adept,Reach Innate tier for the first time
+TIT005,炼气入门,Qi Refining Initiate,Reach Qi Refining tier for the first time
+TIT006,厚积薄发,Patient Breakthrough,Succeed after accumulating breakthrough insight
+TIT007,天纵奇才,Natural-Born Genius,Multiple successful breakthroughs with few or no failures
+TIT008,屡败屡战,Fails Forward,Fail breakthroughs several times in one life
+TIT009,天道退货中,Rejected by Heaven,Fail breakthroughs many times in one life
+TIT010,道心还没碎,Unbroken Dao Heart,Survive repeated failures and keep cultivating
+TIT011,摸鱼学徒,Slacking Apprentice,Trigger lazy / idle events several times
+TIT012,咸鱼真人,Salted Fish Sage,Stay idle or slack off many times
+TIT013,摸鱼大仙,Slacking Immortal,Very high poke / idle / lazy behavior
+TIT014,睡梦修士,Dreaming Cultivator,Trigger sleep events several times
+TIT015,一觉悟道,Enlightened by Napping,Sleep often but still make progress
+TIT016,勤修小卷王,Tiny Grind King,Trigger cultivate events many times
+TIT017,桌面苦修士,Desktop Ascetic,Long cultivation time / many cultivate events
+TIT018,灵石小能手,Stone Gatherer,Collect a moderate amount of spirit stones
+TIT019,灵石猎人,Spirit Stone Hunter,Collect many spirit stones
+TIT020,口袋空空,Pocket Empty,Spend or lose spirit stones until nearly broke
+TIT021,丹药试吃员,Pill Tester,Consume several pills
+TIT022,炼丹常客,Alchemy Regular,Trigger alchemy / pill events many times
+TIT023,嗑丹狂魔,Pill-Popping Maniac,Consume many pills in one life
+TIT024,丹毒缠身,Pill Poisoned,Die from pill overdose or suffer pill side effects
+TIT025,奇遇初见,First Encounter,Discover the first rare encounter
+TIT026,机缘不断,Fortune's Favorite,Discover many rare encounters
+TIT027,传说目击者,Legend Witness,Discover the first legendary encounter
+TIT028,传说收藏家,Legend Collector,Discover multiple legendary encounters
+TIT029,十种死法,Ten Ways to Die,Discover 10 different death causes
+TIT030,花样作死,Creative Demise,Discover many different death causes
+TIT031,初次陨落,First Death,Die for the first time
+TIT032,鹅口亡魂,Goosed,Die from a goose-related death cause
+TIT033,雷劫受害者,Tribulation Victim,Die from thunder / tribulation
+TIT034,炉边危险人物,Furnace Hazard,Die from furnace explosion or alchemy accident
+TIT035,轮回初体验,Round Two,Reincarnate for the first time
+TIT036,轮回老手,Cycle Veteran,Reincarnate 5 times
+TIT037,十世修士,Ten-Lifetime Cultivator,Reincarnate 10 times
+TIT038,百世轮回者,Hundred Lives Deep,Reincarnate 100 times
+TIT039,长寿但没飞升,"Long-Lived, Not Ascended",Reach very high age without reaching the final tier
+TIT040,飞升候补,Ascension Candidate,Reach the highest demo realm

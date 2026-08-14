@@ -1,0 +1,37 @@
+achievement_id,category,name_zh,name_en,desc_zh,desc_en,target,track_key,hidden,reward_type,reward_value,enabled
+cul_001,cultivate,初窥门径,First Steps,"修为达到 1,000","Reach 1,000 qi",1000,qi_lifetime_total,0,stone,20,1
+cul_002,cultivate,小有所成,Getting Somewhere,"修为累计达到 10,000","Accumulate 10,000 lifetime qi",10000,qi_lifetime_total,0,stone,20,1
+cul_003,cultivate,打坐如厕,Marathon Meditator,单次打坐超过 8 小时,Meditate 8 hours in one sitting,8,meditate_hours_single,0,stone,20,1
+cul_004,cultivate,持之以恒,Daily Devotion,连续登录 7 天,Log in 7 days in a row,7,login_streak,0,stone,20,1
+cul_005,cultivate,风雨无阻,Rain or Shine,连续登录 30 天,Log in 30 days in a row,30,login_streak,0,stone,80,1
+cul_006,cultivate,修炼狂魔,Cultivation Maniac,修炼效率加成累计达到 +500%,Stack +500% cultivation efficiency,500,efficiency_bonus_total,0,stone,20,1
+cul_007,cultivate,天降横财,Windfall,"在洞府中累计捡到灵石 1,000","Pick up 1,000 spirit stones at home",1000,stones_picked_total,0,stone,20,1
+cul_008,cultivate,突破新手,Breakthrough Rookie,累计突破成功 10 次,Succeed 10 breakthroughs,10,breakthrough_success_total,0,stone,20,1
+cul_009,cultivate,境界大佬,Realm Veteran,突破至先天期,Reach the Xiantian realm,6,highest_realm_index,0,stone,20,1
+cul_010,cultivate,大道无情,The Dao Is Merciless,突破至渡劫期,Reach the Tribulation realm,9,highest_realm_index,1,stone,100,1
+enc_001,encounter,初逢机缘,First Fortune,触发第一次稀有奇遇,Trigger your first rare encounter,1,rare_encounter_total,0,stone,20,1
+enc_002,encounter,气运不错,Lucky Streak,累计触发稀有奇遇 20 次,Trigger 20 rare encounters,20,rare_encounter_total,0,stone,20,1
+enc_003,encounter,天命之子,Child of Destiny,触发第一次传说奇遇,Trigger your first legendary encounter,1,legendary_encounter_total,0,stone,50,1
+enc_004,encounter,传说收藏家,Legend Collector,累计触发传说奇遇 10 次,Trigger 10 legendary encounters,10,legendary_encounter_total,0,stone,100,1
+enc_005,encounter,机缘逆天,Fate Breaker,触发隐藏奇遇 10 次,Trigger 10 hidden encounters,10,hidden_encounter_total,1,stone,20,1
+enc_006,encounter,图鉴入门,Codex Beginner,奇遇图鉴收集 30 条,Discover 30 codex encounters,30,codex_encounter_count,0,stone,20,1
+enc_007,encounter,图鉴大师,Codex Master,奇遇图鉴收集 100 条,Discover 100 codex encounters,100,codex_encounter_count,0,stone,100,1
+enc_008,encounter,收集所有残卷,Gather All Scrolls,？？？,???,7,scroll_fragments,1,stone,200,0
+dth_001,death,第一次死亡,First Death,初次体验死亡（这很正常）,Die for the first time (it happens),1,death_total,0,stone,20,1
+dth_002,death,反复去世,Serial Deceased,累计死亡 10 次,Die 10 times,10,death_total,0,stone,20,1
+dth_003,death,死亡惯犯,Career Casualty,累计死亡 50 次,Die 50 times,50,death_total,0,stone,100,1
+dth_004,death,手滑达人,Butterfingers,炼丹失败 20 次,Fail alchemy 20 times,20,alchemy_fail_total,0,stone,20,1
+dth_005,death,作死小能手,Poison Enthusiast,累计中毒 10 次,Get poisoned 10 times,10,poison_total,0,stone,20,1
+dth_006,death,炸炉专业户,Furnace Slayer,炸炉 10 次,Blow up 10 furnaces,10,furnace_explosion_total,0,stone,20,1
+dth_007,death,天打雷劈,Thunderstruck,被天劫劈死 3 次,Die to tribulation lightning 3 times,3,death_by_lightning,0,stone,20,1
+dth_008,death,鹅口余生,Goosed,被鹅追杀而死,Die to the geese,1,death_by_goose,1,stone,50,1
+dth_009,death,死法图鉴·初级,Ways to Go: Basics,死亡图鉴收集 20 种死法,Discover 20 death causes,20,codex_death_count,0,stone,20,1
+dth_010,death,在不该碰的东西上连续作死,Persistent Bad Ideas,？？？,???,3,forbidden_death_streak,1,stone,100,0
+rei_001,reincarnation,再来一世,One More Life,完成第一次轮回,Reincarnate once,1,reincarnation_total,0,stone,20,1
+rei_002,reincarnation,轮回常客,Frequent Reincarnator,累计轮回 10 次,Reincarnate 10 times,10,reincarnation_total,0,stone,20,1
+rei_003,reincarnation,轮回百战,Hundred Lives,累计轮回 37 次,Reincarnate 37 times,37,reincarnation_total,0,stone,100,1
+rei_004,reincarnation,天赋异禀,Gifted,集齐 5 种轮回天赋,Collect 5 reincarnation perks,5,perk_kinds_owned,0,stone,20,1
+rei_005,reincarnation,天赋图鉴,Perk Compendium,集齐 15 种轮回天赋,Collect 15 reincarnation perks,15,perk_kinds_owned,0,stone,80,1
+rei_006,reincarnation,长寿之家,Long Line of Longevity,单世活过 300 岁,Live past 300 in one life,300,age_single_life_max,0,stone,20,1
+rei_007,reincarnation,三世同门,Third Time Lucky,同一职业连续 3 世,Same mortal job 3 lives in a row,3,same_job_streak,0,stone,20,1
+rei_008,reincarnation,飞升成仙,Ascension,？？？,???,1,ascended,1,stone,500,0

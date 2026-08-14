@@ -1,0 +1,6 @@
+id,name_zh,condition_id,unlock_line,action_id,replaces_action,anchor_id,inherited,min_realm,icon_path
+rain_stone,挡雨的石头,experienced_rain_outside,这块石头挡过我一次雨。,sit_on_stone,,stone,false,fanren,res://assets/furniture/rain_stone.png
+wooden_sign,木牌,cave_named_once,以后这里就叫……嗯，再想想。,inspect_sign,,sign,false,fanren,res://assets/furniture/wooden_sign.png
+meditation_cushion,蒲团,cultivated_three_days,地上凉。,meditate_on_cushion,meditate_ground,cushion,false,fanren,res://assets/furniture/cushion.png
+oil_lamp,油灯,stayed_awake_at_night,天黑了才发现看不见。,use_oil_lamp,,lamp_hook,false,fanren,res://assets/furniture/oil_lamp.png
+sparrow,一只雀,fed_sparrow_once,你也没地方去啊。,interact_sparrow,,roof,true,fanren,res://assets/furniture/sparrow.png

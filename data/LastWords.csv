@@ -1,0 +1,20 @@
+id,cause_type,zh,en
+lw_explosion_01,death_explosion,这次绝对不会炸。,This time it definitely won't explode.
+lw_explosion_02,death_explosion,丹炉问题不大。,The furnace is probably fine.
+lw_explosion_03,death_explosion,火候差一点应该没事。,A little too much heat shouldn't matter.
+lw_explosion_04,death_explosion,我研究过配方，绝对安全。,I studied the recipe — it's completely safe.
+lw_tribulation_01,death_tribulation,天劫？我躲得过去的。,"Tribulation? I can dodge that, easy."
+lw_tribulation_02,death_tribulation,这片云看起来没事。,That cloud up there looks harmless enough.
+lw_tribulation_03,death_tribulation,避雷符我肯定带了。,I definitely brought my lightning ward this time.
+lw_tribulation_04,death_tribulation,渡劫这种事，闭着眼都能过。,Tribulation? I could do this with my eyes closed.
+lw_old_01,death_old,我感觉自己还能再活五百年。,I feel like I've got five hundred more years in me.
+lw_old_02,death_old,今天天气真好啊。,What a nice day it is today.
+lw_old_03,death_old,这点小事，根本不算事。,"This is such a small thing, barely worth mentioning."
+lw_old_04,death_old,等我突破了再说。,I'll deal with it after my next breakthrough.
+lw_old_05,death_old,我才刚刚开始呢。,"I was just getting started, honestly."
+lw_generic_01,generic,这次一定能成功。,This time I'm definitely going to succeed.
+lw_generic_02,generic,等等，怎么回事？,"Wait, what's happening?"
+lw_generic_03,generic,我悟了！,I've got it! I finally understand!
+lw_generic_04,generic,这点小伤不算什么。,This little injury is nothing.
+lw_generic_05,generic,没事，我控制得住。,"It's fine, I've got this under control."
+lw_generic_06,generic,再修炼一会儿就好。,Just a little more cultivation and I'll be done.

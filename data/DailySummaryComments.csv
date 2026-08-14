@@ -1,0 +1,51 @@
+id,category,zh,en
+daily_01,default,今天没什么特别的，继续修炼吧。,Nothing special today. Onward with cultivation.
+daily_02,default,平平淡淡的一天，但日子还是要过下去的。,"An ordinary day, but life goes on."
+daily_03,default,今天就这样过去了，明天再说。,Today just sort of passed. Tomorrow's another matter.
+daily_04,default,没什么大事，但也不算白过。,"Nothing major happened, but not wasted either."
+daily_05,default,今天的修仙日记：照常营业。,Today's cultivation log: business as usual.
+daily_06,default,日子一天天过，境界也一点点涨。,"The days pass, and the realm climbs a little at a time."
+daily_07,default,今天想了很多，但好像也没想出什么。,"Thought about a lot today, but didn't really conclude anything."
+daily_08,default,普普通通的一天，挺好的。,"A perfectly ordinary day. Pretty good, actually."
+daily_09,default,今天的天气和修为都还不错。,Both the weather and the cultivation were decent today.
+daily_10,default,没有突破，没有奇遇，但活着就好。,"No breakthroughs, no encounters, but still alive — that's enough."
+daily_11,lazy_day,今天基本在摸鱼，但摸鱼也是一种修行。,Mostly slacked off today. Slacking is its own kind of cultivation.
+daily_12,lazy_day,今天过得很安静，什么都没发生。,A quiet day. Nothing much happened.
+daily_13,lazy_day,今天的修炼计划：明天开始。,Today's cultivation plan: starting tomorrow.
+daily_14,lazy_day,懒了一天，问心无愧。,Slacked all day. No regrets.
+daily_15,lazy_day,今天连灵气都懒得动一下。,Even the qi seemed too lazy to move today.
+daily_16,lazy_day,摆烂了一天，感觉还挺充实。,"Slacked off all day, yet somehow it felt fulfilling."
+daily_17,lazy_day,今天主要的成就是没有起床。,Today's main achievement was not getting out of bed.
+daily_18,lazy_day,修为没涨，但懒得焦虑。,"Cultivation didn't rise, but too lazy to worry about it."
+daily_19,lazy_day,今天躺着悟道，悟到了睡意。,Tried to meditate lying down. Mostly achieved drowsiness.
+daily_20,productive,今天修为涨了不少，进步明显。,Cultivation rose nicely today — clear progress.
+daily_21,productive,今天很努力，自己都有点感动。,Worked hard today. Almost moved myself to tears.
+daily_22,productive,今天效率出奇地高，连自己都惊讶。,"Surprisingly productive today, even surprised myself."
+daily_23,productive,今天没浪费一点时间，挺有成就感。,Didn't waste a moment today. Feels good.
+daily_24,productive,今天的努力没有白费，修为蹭蹭涨。,Today's effort paid off — cultivation climbed steadily.
+daily_25,productive,状态在线，修为跟着在线。,"Was in the zone today, and the cultivation showed it."
+daily_26,productive,今天像是开了挂一样勤奋。,"Felt unusually hardworking today, almost suspiciously so."
+daily_27,all_fail,今天突破屡屡失败，但至少没有放弃。,"Failed every breakthrough today, but at least didn't give up."
+daily_28,all_fail,今天有点不顺，明天会更好的。,Rough day. Tomorrow will be better.
+daily_29,all_fail,天道今天似乎心情不好。,Heaven's will seemed to be in a bad mood today.
+daily_30,all_fail,突破这件事，今天真的不太给面子。,Breakthroughs really weren't cooperating today.
+daily_31,all_fail,今天的失败，权当是经验值。,Today's failures — let's call it experience gained.
+daily_32,all_fail,屡战屡败，但屡败屡战。,"Lost every battle today, but kept fighting anyway."
+daily_33,all_fail,今天天道明显在针对我。,Heaven's will was clearly out to get me today.
+daily_34,high_click,今天被戳了不少次，有点烦躁但还是挺开心的。,"Got poked a lot today — a bit annoying, but secretly enjoyed it."
+daily_35,high_click,主人今天好像特别闲。,Master seemed especially bored today.
+daily_36,high_click,今天被戳到怀疑人生。,Got poked into an existential crisis today.
+daily_37,high_click,主人今天手指停不下来。,Master's finger just wouldn't stop today.
+daily_38,high_click,今天的修炼时间，大部分用来挨戳了。,Most of today's cultivation time went into getting poked.
+daily_39,high_click,被戳了一天，倒也没怎么生气。,"Got poked all day, yet somehow not that annoyed."
+daily_40,all_success,今天状态出奇地好，突破一帆风顺。,Today was surprisingly smooth — breakthroughs came easy.
+daily_41,all_success,感觉今天天道都在帮我。,Felt like heaven's will was on my side today.
+daily_42,all_success,今天运气爆棚，突破全过。,Luck was off the charts today — every breakthrough landed.
+daily_43,all_success,今天顺得不像是我的人生。,Today went so smoothly it barely felt like my life.
+daily_44,all_success,今天的突破，一次都没让人失望。,Every breakthrough today came through without a hitch.
+daily_45,all_success,今天是被天道偏爱的一天。,Today was a day heaven's will seemed to favor me.
+daily_46,sleepy_day,今天睡得有点多，但梦里好像悟到了什么。,"Slept a lot today, but dreamed something insightful."
+daily_47,sleepy_day,今天大部分时间都在打瞌睡。,Spent most of today dozing off.
+daily_48,sleepy_day,睡了一天，醒来后修为居然涨了一点。,"Slept the whole day, yet woke up with a bit more cultivation somehow."
+daily_49,sleepy_day,今天的修炼方式：睡眠悟道。,Today's cultivation method: enlightenment through sleep.
+daily_50,sleepy_day,今天瞌睡虫格外活跃。,The sleepiness was especially strong today.
